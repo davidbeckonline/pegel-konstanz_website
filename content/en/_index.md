@@ -15,5 +15,5 @@ This is the development over the last 10 days:
 
 Year to date, the level of Lake Constance saw the following development:
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
+![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
 
