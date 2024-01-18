@@ -3,7 +3,9 @@ archetype = "home"
 title = "Level Lake Constance (Bodensee)"
 +++
 
-Under construction.
+{{% notice style="primary" title="Please note" icon="skull-crossbones" %}}
+This website is under construction
+{{% /notice %}}
 
 Current level of lake constance (Bodensee) is...
 

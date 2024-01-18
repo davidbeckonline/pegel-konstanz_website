@@ -30,7 +30,6 @@ defaultContentLanguageInSubdir = true
       subtitle = 'Reference, Tutorials, and Explanations'
 
 
-
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
 
@@ -40,3 +39,6 @@ home = [ "HTML", "RSS", "SEARCH"]
     # activated for this showcase to use HTML and JavaScript; decide on your own needs;
     # if in doubt, remove this line
     unsafe = true
+  
+[params]
+  themeVariant = [ "relearn-light", "relearn-dark" ]
