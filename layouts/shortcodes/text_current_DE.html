@@ -1,0 +1,15 @@
+{{ $data := "" }}
+{{ $url := "https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/demo.json" }}
+{{ with resources.GetRemote $url }}
+  {{ with .Err }}
+    {{ errorf "%s" . }}
+  {{ else }}
+    {{ $data = . | transform.Unmarshal }}
+  {{ end }}
+{{ else }}
+  {{ errorf "Unable to get remote resource %q" $url }}
+{{ end }}
+
+{{ with $data }}
+ Der aktuelle Pegel des Bodensees (Konstanz) liegt bei {{ .current_level }} cm ( {{.change_vs_yesterday }} cm zum Vortag).
+{{ end }}

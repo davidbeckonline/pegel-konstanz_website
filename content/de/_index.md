@@ -3,13 +3,13 @@ archetype = "Home "
 title = "Pegel Bodensee (Konstanz)"
 +++
 
-{{% notice style="primary" title="Hinweis" icon="skull-crossbones" %}}
+{{% notice style="primary" title="Bitte beachten." icon="skull-crossbones" %}}
 Diese Website befindet sich im Aufbau.
 {{% /notice %}}
 
 ## Aktueller Pegelstand
 
-Der aktuelle Pegel in Konstanz beträgt XYZ (-Z, Stand yyyy-mm-dd).
+{{< text_current_DE >}}
 
 ---
 

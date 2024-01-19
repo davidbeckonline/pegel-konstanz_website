@@ -7,15 +7,22 @@ title = "Level Lake Constance (Bodensee)"
 This website is under construction
 {{% /notice %}}
 
-Current level of lake constance (Bodensee) is...
+## Current Level
 
-This is the development over the last 10 days:
+{{< text_current_EN >}}
+
+---
+
+## Development over the last 10 days
+
+This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
 
 ---
 
-Year to date, the level of Lake Constance saw the following development:
+## Annual Cycle
+
+The annual cycle in comparison to historical values is given here:
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
-
