@@ -9,7 +9,7 @@ Diese Website befindet sich im Aufbau.
 
 ## Aktueller Pegelstand
 
-
+{{< text_current_DE >}}
 
 ---
 

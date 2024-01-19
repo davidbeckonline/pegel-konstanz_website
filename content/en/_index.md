@@ -9,6 +9,7 @@ This website is under construction
 
 ## Current Level
 
+{{< text_current_EN >}}
 
 ---
 
