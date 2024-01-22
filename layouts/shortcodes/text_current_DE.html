@@ -1,5 +1,5 @@
 {{ $data := "" }}
-{{ $url := "https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/demo.json" }}
+{{ $url := "https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/current.json" }}
 {{ with resources.GetRemote $url }}
   {{ with .Err }}
     {{ errorf "%s" . }}
