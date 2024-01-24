@@ -4,7 +4,6 @@ title = 'Pegel Bodensee - Konstanz'
 
 theme = "hugo-theme-relearn"
 
-
 defaultContentLanguage = 'de'
 defaultContentLanguageInSubdir = true
 [languages]
@@ -29,7 +28,6 @@ defaultContentLanguageInSubdir = true
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
 
-
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
 
@@ -42,3 +40,6 @@ home = [ "HTML", "RSS", "SEARCH"]
   
 [params]
   themeVariant = [ "relearn-light", "relearn-dark" ]
+  
+
+custom_js = ["js/getcurrent.js"]
