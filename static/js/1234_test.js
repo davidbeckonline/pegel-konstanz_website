@@ -12,4 +12,4 @@ async function loadPegel() {
   }
 }
 
-await loadPegel();
+loadPegel();
