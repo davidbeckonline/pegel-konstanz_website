@@ -9,6 +9,8 @@ Diese Website befindet sich im Aufbau.
 
 ## Aktueller Pegelstand
 
+<span id=current> ? </span>
+
 {{< 1234_test >}} 
 
 ---

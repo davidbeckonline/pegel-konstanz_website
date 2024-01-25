@@ -11,3 +11,5 @@ async function loadPegel() {
     return null; // or handle the error in a way that suits your needs
   }
 }
+
+await loadPegel();
