@@ -9,7 +9,7 @@ Diese Website befindet sich im Aufbau.
 
 ## Aktueller Pegelstand <span id=current> cm </span>
 
-Der aktuelle Pegel in Konstanz (Bodensee): <span id=current> cm </span>
+Der aktuelle Pegel in Konstanz (Bodensee): <span id=current> ? </span>
 
 {{< 1234_test >}}
 
