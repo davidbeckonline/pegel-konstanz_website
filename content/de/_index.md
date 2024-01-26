@@ -9,7 +9,7 @@ Diese Website befindet sich im Aufbau.
 
 ## Aktueller Pegelstand
 
-<span id=current> ? </span>
+Der aktuelle Pegel in Konstanz beträgt: <span id=current> ? </span> cm.
 
 {{< 1234_test >}} 
 

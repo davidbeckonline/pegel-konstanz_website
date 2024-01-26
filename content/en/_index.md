@@ -9,7 +9,9 @@ This website is under construction
 
 ## Current Level
 
-{{< text_current_EN >}}
+The current level of Lake Constance is: <span id=current> ? </span> cm.
+
+{{< 1234_test >}} 
 
 ---
 
