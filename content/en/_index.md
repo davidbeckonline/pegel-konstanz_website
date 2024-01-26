@@ -7,9 +7,11 @@ title = "Level Lake Constance (Bodensee)"
 This website is under construction
 {{% /notice %}}
 
-## Current Level
+## Current Level: <span id=current> cm </span>
 
-{{< text_current_EN >}}
+The current level of Lake Constance (Bodensee): <span id=current> cm </span>
+
+{{< 1234_test >}}
 
 ---
 
