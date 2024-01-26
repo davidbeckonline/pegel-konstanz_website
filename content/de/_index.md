@@ -7,8 +7,6 @@ title = "Pegel Bodensee (Konstanz)"
 Diese Website befindet sich im Aufbau.
 {{% /notice %}}
 
-## Aktueller Pegelstand
-
 <span id=current> ? </span>
 
 {{< 1234_2_test >}} 
