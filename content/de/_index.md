@@ -7,7 +7,7 @@ title = "Pegel Bodensee (Konstanz)"
 Diese Website befindet sich im Aufbau.
 {{% /notice %}}
 
-## Pegel Konstanz
+## Aktueller Pegel Konstanz / Bodensee
 
 Der aktuelle Pegelstand in Konstanz beträgt <span id=current> ? </span> cm.
 
