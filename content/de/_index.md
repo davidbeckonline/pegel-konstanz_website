@@ -28,3 +28,11 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 Der Jahresgang im Vergleich zu historischen Werten ist hier angegeben:
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
+
+---
+
+## Vorhersage
+
+Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW).
+
+![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
