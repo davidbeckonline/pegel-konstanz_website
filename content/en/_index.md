@@ -40,7 +40,7 @@ The annual cycle in comparison to historical values is given here:
 
 ## Bridges
 
-With a current level of <span id=website_current_level> ? </span> cm, the clearence hight in Konstanz is
+With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence hight in Konstanz is
 
 left: <span id=website_bridge_kn_left> ? </span>
 

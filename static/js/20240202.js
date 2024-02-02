@@ -23,6 +23,9 @@ async function loadPegel() {
     document.getElementById("website_change_vs_yesterday").innerText = change_vs_yesterday;
 
 // bridge info
+    const current_level_bridge = konstante_data["current_level"];
+    document.getElementById("website_current_level_bridge").innerText = current_level_bridge;
+
     const bridge_kn_left = konstante_data["bridge_kn_left"];
     document.getElementById("website_bridge_kn_left").innerText = bridge_kn_left;
     
