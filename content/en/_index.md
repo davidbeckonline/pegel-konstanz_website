@@ -13,8 +13,8 @@ This website is under construction
 
 The current level of Lake Constance is: <span id=website_current_level> ? </span> cm.
 
-Most recent date: <span id=website_mostrecent_date> ? </span> .
 
+{{< 2024-02-02 >}} 
 
 ---
 
@@ -41,4 +41,4 @@ The forecast below is a direct copy from the [website of the Landesanstalt für 
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
-{{< 2024-02-02 >}} 
+
