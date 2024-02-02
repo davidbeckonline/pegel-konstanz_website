@@ -1,20 +1,17 @@
 async function loadPegel() {
-  try {
-    const response = await fetch("https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/currentdata.json");
-    const this20240201 = await response.json();
-    console.log(this20240201);
-    const currentLevel = this20240201["current_level"];
-    document.getElementById("current").innerText = currentLevel;
-    return currentLevel;
-    
-    const mostrecentDate = this20240201["mostrecent_date"];
-    document.getElementById("current").innerText = mostrecentDate;
-    return mostrecentDate;
-    
-  } catch (error) {
-    console.error("Error loading Pegel:", error);
-    return null; // or handle the error in a way that suits your needs
-  }
-}
+	try {
+	  const response = await fetch("https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/currentdata.json");
+	  const konstante_data = await response.json();
+	  console.log(konstante_data);
+	  const current_level = konstante_data["current_level"];
+	  document.getElementById("website_current_level").innerText = current_level;
 
-loadPegel();
+	  const mostrecent_date = konstante_data["mostrecent_date"];
+	  document.getElementById("website_mostrecent_date").innerText = mostrecent_date;
+
+	  return;
+	} catch (error) {
+	  console.error("Error loading Pegel:", error);
+	  return null; // or handle the error in a way that suits your needs
+	}
+}
