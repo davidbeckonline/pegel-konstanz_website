@@ -9,13 +9,10 @@ This website is under construction
 
 ## Current Level
 
-### Test 2024-02-02
+The current level of Lake Constance is: <span id=website_current_level> ? </span> cm (<span id=website_change_vs_yesterday> ? </span> cm compared to the average of the previous day).
 
-The current level of Lake Constance is: <span id=website_current_level> ? </span> cm.
+The date was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
-The date is <span id=website_mostrecent_date> ? </span> cm.
-
-{{< 20240202 >}} 
 
 ---
 
@@ -43,3 +40,4 @@ The forecast below is a direct copy from the [website of the Landesanstalt für 
 
 
 
+{{< 20240202 >}} 
