@@ -13,6 +13,7 @@ This website is under construction
 
 The current level of Lake Constance is: <span id=website_current_level> ? </span> cm.
 
+The date is <span id=website_mostrecent_date> ? </span> cm.
 
 {{< 20240202 >}} 
 

@@ -18,3 +18,5 @@ async function loadPegel() {
     // You might want to do additional error handling or logging here.
   }
 }
+
+loadPegel();
