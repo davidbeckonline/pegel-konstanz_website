@@ -9,12 +9,6 @@ This website is under construction
 
 ## Current Level
 
-### Base
-
-The current level of Lake Constance is: <span id=current> ? </span> cm.
-
-
-
 ### Test 2024-02-02
 
 The current level of Lake Constance is: <span id=website_current_level> ? </span> cm.
