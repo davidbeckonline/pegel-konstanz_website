@@ -11,7 +11,7 @@ This website is under construction
 
 The current level of Lake Constance is: <span id=website_current_level> ? </span> cm (<span id=website_change_vs_yesterday> ? </span> cm compared to the average of the previous day).
 
-The date was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
+The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
 
 
@@ -38,15 +38,15 @@ The annual cycle in comparison to historical values is given here:
 
 
 
-## Bridges
+## Clearence Hight for Bridges
 
 With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence hight in Konstanz is
 
-left: <span id=website_bridge_kn_left> ? </span>
+left: <span id=website_bridge_kn_left> ? </span> cm
 
-center: <span id=website_bridge_kn_center> ? </span>
+center: <span id=website_bridge_kn_center> ? </span> cm
 
-right: center: <span id=website_bridge_kn_right> ? </span>
+right: center: <span id=website_bridge_kn_right> ? </span> cm
 
 
 {{< 20240202 >}} 
