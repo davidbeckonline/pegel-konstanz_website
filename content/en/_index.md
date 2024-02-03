@@ -7,9 +7,9 @@ title = "Level Lake Constance (Bodensee)"
 This website is under construction
 {{% /notice %}}
 
-## Current Level
+<h2>Level Lake Constance: <span id=website_current_level_head> ? </span></h2>
 
-The current level of Lake Constance is: <span id=website_current_level> ? </span> cm (<span id=website_change_vs_yesterday> ? </span> cm compared to the average of the previous day).
+The current level of Lake Constance is: <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day).
 
 The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
@@ -42,11 +42,11 @@ The annual cycle in comparison to historical values is given here:
 
 With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence hight in Konstanz is
 
-left: <span id=website_bridge_kn_left> ? </span> cm
-
-center: <span id=website_bridge_kn_center> ? </span> cm
-
-right: center: <span id=website_bridge_kn_right> ? </span> cm
+<ul>
+  <li>Left: <b><span id=website_bridge_kn_left> ? </span></b> cm</li>
+  <li>Center: <b><span id=website_bridge_kn_center> ? </span></b> cm</li>
+  <li>Right: <b><span id=website_bridge_kn_right> ? </span></b> cm</li>
+</ul>
 
 
 {{< 20240202 >}} 

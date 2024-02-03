@@ -18,6 +18,9 @@ async function loadPegel() {
 // level info
     const current_level = konstante_data["current_level"];
     document.getElementById("website_current_level").innerText = current_level;
+
+    const current_level_head = konstante_data["current_level"];
+    document.getElementById("website_current_level_head").innerText = current_level_head;
     
     const change_vs_yesterday = konstante_data["change_vs_yesterday"];
     document.getElementById("website_change_vs_yesterday").innerText = change_vs_yesterday;
