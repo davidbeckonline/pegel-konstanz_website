@@ -49,4 +49,4 @@ With a current level of <span id=website_current_level_bridge> ? </span> cm, the
 </ul>
 
 
-{{< 20240202 >}} 
+{{< read_current_json >}} 

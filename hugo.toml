@@ -39,4 +39,4 @@ home = [ "HTML", "RSS", "SEARCH"]
     unsafe = true
   
 [params]
-  themeVariant = [ "relearn-light", "relearn-dark" ]
+  themeVariant = ["mine"]

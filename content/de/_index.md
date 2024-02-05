@@ -47,4 +47,4 @@ Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> c
 </ul>
 
 
-{{< 20240202 >}} 
+{{< read_current_json >}} 
