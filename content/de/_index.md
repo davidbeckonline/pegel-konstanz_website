@@ -1,6 +1,6 @@
 +++
 archetype = "Home "
-title = "Pegel Bodensee (Konstanz)"
+title = "Pegel Konstanz (Bodensee)"
 +++
 
 {{% notice style="primary" title="Bitte beachten." icon="skull-crossbones" %}}
@@ -15,7 +15,7 @@ Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <sp
 
 
 
-## Entwicklung der letzten 10 Tage
+## 10-Tage Trend
 
 Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
@@ -36,14 +36,14 @@ Der Jahresgang im Vergleich zu historischen Werten ist hier angegeben:
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
 
 
-## Durchfahrtshöhe für die Alte Rheinbrücke in Konstanz
+## Durchfahrtshöhe Brücken
 
 Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> cm betägt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
 
 <ul>
-  <li>Links: <b><span id=website_bridge_kn_left> ? </span></b> cm</li>
-  <li>Mitte: <b><span id=website_bridge_kn_center> ? </span></b> cm</li>
-  <li>Rechts: <b><span id=website_bridge_kn_right> ? </span></b> cm</li>
+  <li><b>Links: <span id=website_bridge_kn_left> ? </span></b> cm</li>
+  <li><b>Mitte: <span id=website_bridge_kn_center> ? </span></b> cm</li>
+  <li><b>Rechts: <span id=website_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
 

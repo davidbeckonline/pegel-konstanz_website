@@ -1,6 +1,6 @@
-baseURL = "http://pegel-konstanz.de/"
+baseURL = "https://pegel-konstanz.de/"
 
-title = 'Pegel Bodensee - Konstanz'
+title = 'Pegel Konstanz - Bodensee'
 
 theme = "hugo-theme-relearn"
 
@@ -13,7 +13,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'de-DE'
     languageDirection = 'ltr'
     languageName = 'Deutsch'
-    title = 'Projekt Dokumentation'
+    title = 'Pegel Konstanz (Bodensee)'
     weight = 1
     [languages.de.params]
       subtitle = 'Referenz, Tutorials und Erklärungen'
@@ -23,7 +23,7 @@ defaultContentLanguageInSubdir = true
     languageCode = 'en-US'
     languageDirection = 'ltr'
     languageName = 'English'
-    title = 'Project Documentation'
+    title = 'Level Lake Constance (Bodensee)'
     weight = 2
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
@@ -40,6 +40,3 @@ home = [ "HTML", "RSS", "SEARCH"]
   
 [params]
   themeVariant = [ "relearn-light", "relearn-dark" ]
-  
-
-custom_js = ["js/getcurrent.js"]
