@@ -15,6 +15,13 @@ defaultContentLanguageInSubdir = true
     languageName = 'Deutsch'
     title = 'Pegel Konstanz (Bodensee)'
     weight = 1
+    
+    [[languages.de.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub"
+    identifier = "ds"
+    url = "https://github.com/davidbeckonline/pegel-konstanz"
+    weight = 10
+    
     [languages.de.params]
       subtitle = 'Referenz, Tutorials und Erklärungen'
   [languages.en]
@@ -25,6 +32,13 @@ defaultContentLanguageInSubdir = true
     languageName = 'English'
     title = 'Level Lake Constance (Bodensee)'
     weight = 2
+    
+    [[languages.en.menu.shortcuts]]
+    name = "<i class='fab fa-fw fa-github'></i> GitHub"
+    identifier = "ds"
+    url = "https://github.com/davidbeckonline/pegel-konstanz"
+    weight = 10
+    
     [languages.en.params]
       subtitle = 'Reference, Tutorials, and Explanations'
 
