@@ -26,6 +26,14 @@ This is how the level of the lake developed over the last ten days:
 
 The forecast below is a direct copy from the [website of the Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW).
 
+As this graph is graph is only available in German, we add an English translation here:
+
+**Legend:**
+* <span style="color:blue">Blue Line </span> = Measured water level of Lake Constance
+* <span style="color:red">Red Line</span> = Forecast
+* <span style="background-color: #FFFF00">Yellow Area</span> = Range of Estimation
+* Black Line = Scenario: No Precipitation for the next ten Days
+
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
