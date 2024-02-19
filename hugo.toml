@@ -4,43 +4,19 @@ title = 'Pegel Konstanz - Bodensee'
 
 theme = "hugo-theme-relearn"
 
-defaultContentLanguage = 'de'
-defaultContentLanguageInSubdir = true
+# English is the default language
+defaultContentLanguage = "de"
+
 [languages]
-  [languages.de]
-    contentDir = 'content/de'
-    disabled = false
-    languageCode = 'de-DE'
-    languageDirection = 'ltr'
-    languageName = 'Deutsch'
-    title = 'Pegel Konstanz (Bodensee)'
-    weight = 1
-    
-    [[languages.de.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub"
-    identifier = "ds"
-    url = "https://github.com/davidbeckonline/pegel-konstanz"
-    weight = 10
-    
-    [languages.de.params]
-      subtitle = 'Referenz, Tutorials und Erklärungen'
-  [languages.en]
-    contentDir = 'content/en'
-    disabled = false
-    languageCode = 'en-US'
-    languageDirection = 'ltr'
-    languageName = 'English'
-    title = 'Level Lake Constance (Bodensee)'
-    weight = 2
-    
-    [[languages.en.menu.shortcuts]]
-    name = "<i class='fab fa-fw fa-github'></i> GitHub"
-    identifier = "ds"
-    url = "https://github.com/davidbeckonline/pegel-konstanz"
-    weight = 10
-    
-    [languages.en.params]
-      subtitle = 'Reference, Tutorials, and Explanations'
+[languages.de]
+title = "Pegel Konstanz - Bodensee"
+weight = 1
+languageName = "Deutsch"
+
+[languages.en]
+title = "Level Lake Constance - Bodensee"
+weight = 2
+languageName = "English"
 
 [outputs]
 home = [ "HTML", "RSS", "SEARCH"]
