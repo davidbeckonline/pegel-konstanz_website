@@ -24,14 +24,13 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
 ## Vorhersage
 
-Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW).
-
+Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). Auch die Angaben des LUBW sind ohne Gewähr.
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
-## Jahresgang 2024
+## Jahresverlauf 2024
 
-Der Jahresgang im Vergleich zu historischen Werten ist hier angegeben:
+Der Jahresverlauf im Vergleich zu historischen Werten ist hier dargestellt. Den <span style="background-color: lightgrey"> grauen Bereich</span> des Fehelrbands kann man als die "normale" Schwankung des Pegels verstehen.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
 

@@ -40,10 +40,9 @@ As this graph is graph is only available in German, we add an English translatio
 
 ## Annual Cycle
 
-The annual cycle in comparison to historical values is given here:
+The annual cycle in comparison to historical values is given here. The <span style="background-color: lightgrey"> grey area</span> of the error band can be interpreted as the 'normal' fluctuation of the level.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
-
 
 
 ## Clearence Hight for Bridges
