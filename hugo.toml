@@ -1,6 +1,7 @@
 baseURL = "https://pegel-konstanz.de/"
 
-title = 'Pegel Konstanz - Bodensee'
+title = "Pegel Konstanz - Bodensee"
+description = "Aktuelle und historische Informationen zum Pegel des Bodensees"
 
 theme = "hugo-theme-relearn"
 
