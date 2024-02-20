@@ -1,5 +1,5 @@
 +++
-title = 'About'
+title = 'Impressum'
 date = 2024-01-16T15:26:41Z
 draft = false
 weight = 1

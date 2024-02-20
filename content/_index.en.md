@@ -24,7 +24,7 @@ This is how the level of the lake developed over the last ten days:
 
 ## Forecast
 
-The forecast below is a direct copy from the [website of the Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW).
+The forecast below is a direct copy from the [website of the Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). As all data on this website, also the LUBW data is given without guarantee.
 
 As this graph is graph is only available in German, we add an English translation here:
 
@@ -40,9 +40,10 @@ As this graph is graph is only available in German, we add an English translatio
 
 ## Annual Cycle
 
-The annual cycle in comparison to historical values is given here. The <span style="background-color: lightgrey"> grey area</span> of the error band can be interpreted as the 'normal' fluctuation of the level.
+The annual cycle in comparison to historical values. The <span style="background-color: lightgrey">grey area</span> of the error band can be interpreted as the 'normal' fluctuation of the level.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
+
 
 
 ## Clearence Hight for Bridges

@@ -14,7 +14,6 @@ Der aktuelle Pegel in Konstanz beträgt <b><span id=website_current_level> ? </s
 Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <span id=website_mostrecent_time> ? </span> aktualisiert.
 
 
-
 ## 10-Tage Trend
 
 Die Entwicklung der letzten zehn Tage ist hier dargestellt:
@@ -24,13 +23,14 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
 ## Vorhersage
 
-Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). Auch die Angaben des LUBW sind ohne Gewähr.
+Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). Auch die Angaben des LUBW verstehen sich ohne Gewähr.
+
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
-## Jahresverlauf 2024
+## Jahresgang 2024
 
-Der Jahresverlauf im Vergleich zu historischen Werten ist hier dargestellt. Den <span style="background-color: lightgrey"> grauen Bereich</span> des Fehelrbands kann man als die "normale" Schwankung des Pegels verstehen.
+Der Jahresverlauf im Vergleich zu historischen Werten. Den <span style="background-color: lightgrey">grauen Bereich</span> des Fehelrbands kann man als die "normale" Schwankung des Pegels verstehen. Werte außerhalb dieses Bereichs sind entsprechend "außergewöhnlich".
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
 
