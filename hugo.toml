@@ -9,12 +9,12 @@ defaultContentLanguage = "de"
 
 [languages]
 [languages.de]
-title = "Pegel Konstanz - Bodensee"
+title = "Aktuelle und historische Informationen zum Pegel des Bodensees"
 weight = 1
 languageName = "Deutsch"
 
 [languages.en]
-title = "Level Lake Constance - Bodensee"
+title = "Current and historical information on the level of Lake Constance"
 weight = 2
 languageName = "English"
 
