@@ -6,11 +6,15 @@ weight = 1
 
 Auf dieser Seite finden sich historische Pegelstände des Bodensees.
 
+### 2000 bis 2023
+
 [2020 - 2023]({{% relref "2020-2023.md" %}} "2020 - 2023")
 
 [2010 - 2019]({{% relref "2010-2019.md" %}} "2010 - 2019")
 
 [2000 - 2009]({{% relref "2000-2009.md" %}} "2000 - 2009")
+
+### 1900 bis 1999
 
 [1990 - 1999]({{% relref "1990-1999.md" %}} "1990 - 1999")
 
@@ -31,6 +35,8 @@ Auf dieser Seite finden sich historische Pegelstände des Bodensees.
 [1910 - 1919]({{% relref "1910-1919.md" %}} "1910 - 1919")
 
 [1900 - 1909]({{% relref "1900-1909.md" %}} "1900 - 1909")
+
+### 1888 bis 1899
 
 [1890 - 1899]({{% relref "1890-1899.md" %}} "1890 - 1899")
 
