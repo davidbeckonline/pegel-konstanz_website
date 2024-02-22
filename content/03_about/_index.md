@@ -18,7 +18,7 @@ Ich versuche hier eine verlässliche und hilfreiche Website aufzubauen. Aber am 
 
 Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.
 
-Nachdem ich ein meine ersten Schritte mit Pandas gemacht hatte, wollte ich eigentlich eine Data Analytics Zertifizierung angehen. Bei der Vorbeireitung ist mir dann aber aufgefallen, dass ich mich noch nicht ausreichend praktisch mit dem Thema auseinander gesetzt hatte. Ich wollte nicht auswendig lernen. Und so ist dann die Idee einer praktischen Anwendung entstanden. Datenanalyse zum Anfassen sozusagen. Das Resultat ist diese Website.
+Nachdem ich meine ersten Schritte mit Pandas gemacht hatte, wollte ich eigentlich eine Data Analytics Zertifizierung angehen. Bei der Vorbeireitung ist mir dann aber aufgefallen, dass ich mich noch nicht ausreichend praktisch mit dem Thema auseinandergesetzt hatte. Ich wollte nicht auswendig lernen. Und so ist dann die Idee einer praktischen Anwendung entstanden. Datenanalyse zum Anfassen sozusagen. Das Resultat ist diese Website.
 
 ### Mehrwert
 
