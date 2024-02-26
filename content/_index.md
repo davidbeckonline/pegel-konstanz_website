@@ -7,7 +7,7 @@ title = "Pegel Konstanz (Bodensee)"
 Diese Website befindet sich im Aufbau.
 {{% /notice %}}
 
-<h2>Pegel Konstanz: <span id=website_current_level_head> ? </span></h2>
+<h2>Pegel Konstanz: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
 Der aktuelle Pegel in Konstanz beträgt <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswerts des Vortags).
 

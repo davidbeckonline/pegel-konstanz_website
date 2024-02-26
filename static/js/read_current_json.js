@@ -21,7 +21,10 @@ async function loadPegel() {
 
     const current_level_head = konstante_data["current_level"];
     document.getElementById("website_current_level_head").innerText = current_level_head;
-    
+
+    const change_vs_yesterday_head = konstante_data["change_vs_yesterday_head"];
+    document.getElementById("website_change_vs_yesterday_head").innerText = change_vs_yesterday_head;
+  
     const change_vs_yesterday = konstante_data["change_vs_yesterday"];
     document.getElementById("website_change_vs_yesterday").innerText = change_vs_yesterday;
 
