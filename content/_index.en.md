@@ -9,7 +9,7 @@ This website is under construction
 
 <h2>Level Lake Constance: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
-The current level of Lake Constance is: <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day).
+The current level of Lake Constance (station: Constance) is: <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day).
 
 The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
