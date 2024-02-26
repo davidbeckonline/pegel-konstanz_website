@@ -1,6 +1,6 @@
 +++
 archetype = "chapter"
-title = "Blog"
+title = "Analysen"
 weight = 2
 +++
 
