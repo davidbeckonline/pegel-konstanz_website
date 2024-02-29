@@ -45,5 +45,8 @@ Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> c
   <li><b>Rechts: <span id=website_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
+---
 
-{{< read_current_json >}} 
+<span><a rel="me" href="https://mastodon.social/@pegelkonstanz">Mastodon</a></span> verification link.
+
+{{< read_current_json >}}
