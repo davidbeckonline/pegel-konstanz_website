@@ -44,6 +44,6 @@ As expected, there are only very small differences in the minimum.
 
 #### Medium
 
-I was very surprised by the significant shift in the mean value over a very short analysis period in 1981. This suggests that the level may have fallen overall.
+I was very surprised by the significant shift in the mean value over a very short analysis period in 1981. The data indicates that the level of the lake during summer is significantly lower nowerdays.
 
 ![time_frame_mean](/images/analysis/analysis-period/analysisperiod_mean_EN.png)

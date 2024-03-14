@@ -3,10 +3,6 @@ archetype = "Home "
 title = "Pegel Konstanz (Bodensee)"
 +++
 
-{{% notice style="primary" title="Bitte beachten." icon="skull-crossbones" %}}
-Diese Website befindet sich im Aufbau.
-{{% /notice %}}
-
 <h2>Pegel Konstanz: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
 Der aktuelle Pegel des Bodensees (Station: Konstanz) beträgt <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswerts des Vortags).
@@ -45,8 +41,11 @@ Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> c
   <li><b>Rechts: <span id=website_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
----
-
-<span><a rel="me" href="https://mastodon.social/@pegelkonstanz">Mastodon</a></span> verification link.
-
 {{< read_current_json >}}
+
+<style>
+    span a[rel="me"] {
+        display: none;
+    }
+</style>
+<span> <a rel="me" href="https://mastodon.social/@pegelkonstanz">Mastodon</a></span>

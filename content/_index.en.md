@@ -1,13 +1,9 @@
 +++
 archetype = "home"
-title = "Level Lake Constance (Bodensee)"
+title = "Level of Lake Constance (Bodensee)"
 +++
 
-{{% notice style="primary" title="Please note" icon="skull-crossbones" %}}
-This website is under construction
-{{% /notice %}}
-
-<h2>Level Lake Constance: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
+<h2>Level of Lake Constance: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
 The current level of Lake Constance (station: Constance) is: <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day).
 
@@ -26,7 +22,7 @@ This is how the level of the lake developed over the last ten days:
 
 The forecast below is a direct copy from the [website of the Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). As all data on this website, also the LUBW data is given without guarantee.
 
-As this graph is graph is only available in German, we add an English translation here:
+As this graph is only available in German, we add an English translation here:
 
 **Legend:**
 * <span style="color:blue">Blue Line </span> = Measured water level of Lake Constance
@@ -46,9 +42,9 @@ The annual cycle in comparison to historical values. The <span style="background
 
 
 
-## Clearence Hight for Bridges
+## Clearance Height for Bridges
 
-With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence hight in Konstanz is
+With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence height in Constance (Konstanz) is
 
 <ul>
   <li>Left: <b><span id=website_bridge_kn_left> ? </span></b> cm</li>

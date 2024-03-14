@@ -42,6 +42,6 @@ Wie zu erwarten, ergeben sich beim Minimum nur sehr kleine Unterschiede.
 
 #### Mittel
 
-Sehr überrascht hat mich die deutliche Verschiebung des Mittelwerts bei einem sehr kurzen Analysezeitraum am 1981. Hier deutet sich an, dass der Pegel vielleicht insgesamt gesunken sein könnte.
+Sehr überrascht hat mich die deutliche Verschiebung des Mittelwerts bei einem sehr kurzen Analysezeitraum ab 1981. Gerade in den Sommermonaten liegt das Mittel deutlich niedriger.
 
 ![time_frame_mean](/images/analysis/analysis-period/analysisperiod_mean_DE.png)
