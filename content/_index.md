@@ -26,7 +26,7 @@ Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für 
 
 ## Jahresgang 2024
 
-Der Jahresverlauf im Vergleich zu historischen Werten. Den <span style="background-color: lightgrey">grauen Bereich</span> des Fehelrbands kann man als die "normale" Schwankung des Pegels verstehen. Werte außerhalb dieses Bereichs sind entsprechend "außergewöhnlich".
+Der Jahresverlauf im Vergleich zu historischen Werten. Den <span style="background-color: lightgrey">grauen Bereich</span> des Fehlerbands kann man als die "normale" Schwankung des Pegels verstehen. Werte außerhalb dieses Bereichs sind entsprechend "außergewöhnlich".
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
 
