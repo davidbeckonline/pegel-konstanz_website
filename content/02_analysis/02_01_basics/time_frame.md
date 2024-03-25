@@ -11,16 +11,17 @@ weight = 15
 
 Wenn man sich Grafiken zum Jahresverlauf des Sees ansieht, unterscheidet sich der Verlauf des Maximums teilweise beträchtlich. Dies liegt an unterschiedlichen Definitionen des Analysezeitraums für die Ermittlung der langjährigen Werte. Hier eine Übersicht der verschiedenen Herangehensweisen, die mir aktuell bekannt sind:
 
-**1817.** Grundsätzlich stellt das LUBW für die Station in Konstanz Messwerte ab 1817 zur Verfügung. Allerdings sind diese sehr frühen Daten problembehaftet und werden in keiner grafischen Ausarbeitung verwendet.
+**1817.** Grundsätzlich stellt das [LUBW](https://udo.lubw.baden-wuerttemberg.de) für die Station in Konstanz Messwerte ab 1817 zur Verfügung. Allerdings sind diese sehr frühen Daten problembehaftet und werden in keiner grafischen Ausarbeitung verwendet.
 
-**1850.** Auf der Seite bodensee-hochwasser.info der Hochwasserzentrale des LUBW findet man unter "W-Jahresgang" --> "Konstanz" eine Darstellung des aktuellen Pegels in Konstanz, welche für die Max und Min Werte den Zeitraum von 1850 bis 2021 berücksichtigt.
+**1850.** Auf der Seite [bodensee-hochwasser.info](https://bodensee-hochwasser.info/) der Hochwasserzentrale des LUBW findet man unter "W-Jahresgang" --> "Konstanz" eine Darstellung des aktuellen Pegels in Konstanz, welche für die Max und Min Werte den Zeitraum von 1850 bis 2021 berücksichtigt.
 
 **1888.** Für die pegel-konstanz.de Webseite habe ich mich entschieden die Daten ab 1888 zu berücksichtigten. Grund für diese Entscheidung ist eine Publikation des LUBW, welche unter https://pudi.lubw.de/detailseite/-/publication/53660 zu finden ist. Diese trägt den Titel: "Langzeitverhalten der Bodensee-Wasserstände". Untertitel: "Auswertezeitspanne: 1888 bis 2007" Und das ist ja genau das Thema. Die Studie erscheint mir aufwändig und vertrauenswürdig. Ich habe sie allerdings nicht komplett gelesen. Allerdings gibt es in dieser Publikation ein Kapitel zur Datengrundlage und Datenauswahl in der die Datenqualität verschiedener Quellen abgewogen wird. Hier heißt es:
 
-> Deshalb werden nur diese Pegel in die vorliegende Untersuchung einbezogen und, nach erfolgter Konsistenz- und Homogenitätsprüfung (Abschnitt 3.2), einheitlich über die jeweils 120-jährigen Zeitspannen von 1888 bis 2007 ausgewertet.
+> *[...] Deshalb werden nur diese Pegel in die vorliegende Untersuchung einbezogen und, nach erfolgter Konsistenz- und Homogenitätsprüfung (Abschnitt 3.2), einheitlich über die jeweils 120-jährigen Zeitspannen von 1888 bis 2007 ausgewertet. [...]
 
 **1981.** Ende des Jahres 2022 hat die Hochwasserzentrale des LUBW auf [ihrer Seite](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007&m=W) den Zeitraum der Analyse auf 1981 bis 2021 angepasst. Zuvor war auch hier der Zeitraum ab 1850 verwendet worden. Auf meine Rückfrage hin wurde mir erklärt, dass dieser Schritt vor allem zur Standardisierung getätigt wurde. Das kann ich nachvollziehen. Allerdings ist es natürlich schade, wenn man sehr viel mehr Daten hat und diese dann nicht verwendet.
 
+**1983.** Die für die Berechnung des Maximalwerts verwendeten Stundenmittelwerte liegen tatsächlich erst ab November 1982 vor. Die Daten stehen zwar ab 1817 zum Download zur Verfügung. Allerdings erscheinen die ersten unterschiedlichen Werte innerhalb eines Tages erst ab 1982-11-01 (abgesehen von vier Ausreißern: 1855-04-23, 1855-06-06, 1857-04-26, 1857-04-27, aber Daten sind eben nie perfekt).
 
 ### Grafischer Vergleich
 
