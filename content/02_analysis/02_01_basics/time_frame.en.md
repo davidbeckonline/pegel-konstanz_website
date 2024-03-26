@@ -23,7 +23,7 @@ If you look at graphics of the lake's annual course, the course of the maximum v
 
 **1981.** At the end of 2022, the LUBW flood center has the period of the analysis on [its website](https://www.hvz.baden-wuerttemberg.de/Level.html?id=00007&m=W). Adapted from 1981 to 2021. Previously, the period from 1850 was also used here. When I asked, it was explained to me that this step was taken primarily for standardization. I can understand that. However, it is of course a shame if you have a lot more data and then don't use it.
 
-**1983.** The hourly average values used to calculate the daily maximum are actually only available from November 1982. The underlying data is downloadable from 1817. However, the first different values on a day only appear from 1982-11-01 (apart from four outliers: 1855-04-23, 1855-06-06, 1857-04-26, 1857-04-27, but data is never perfect).
+**1983.** The hourly average values used to calculate the daily maximum are actually only available from November 1982. The underlying data is downloadable from 1817. However, the first different values on a day only appear from 1982-11-01 (apart from four outliers: 1855-04-23, 1855-06-06, 1857-04-26, 1857-04-27, but data is never perfect). For the analysis below, we ignore this aspect.
 
 ### Graphical comparison
 

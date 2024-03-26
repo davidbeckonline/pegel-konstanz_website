@@ -7,7 +7,7 @@ weight = 15
 
 ## Die Wahl des richtigen Analysezeitraums
 
-### 1817 / 1850 / 1888 / 1981
+### 1817 / 1850 / 1888 / 1981 / 1983
 
 Wenn man sich Grafiken zum Jahresverlauf des Sees ansieht, unterscheidet sich der Verlauf des Maximums teilweise beträchtlich. Dies liegt an unterschiedlichen Definitionen des Analysezeitraums für die Ermittlung der langjährigen Werte. Hier eine Übersicht der verschiedenen Herangehensweisen, die mir aktuell bekannt sind:
 
@@ -21,7 +21,7 @@ Wenn man sich Grafiken zum Jahresverlauf des Sees ansieht, unterscheidet sich de
 
 **1981.** Ende des Jahres 2022 hat die Hochwasserzentrale des LUBW auf [ihrer Seite](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007&m=W) den Zeitraum der Analyse auf 1981 bis 2021 angepasst. Zuvor war auch hier der Zeitraum ab 1850 verwendet worden. Auf meine Rückfrage hin wurde mir erklärt, dass dieser Schritt vor allem zur Standardisierung getätigt wurde. Das kann ich nachvollziehen. Allerdings ist es natürlich schade, wenn man sehr viel mehr Daten hat und diese dann nicht verwendet.
 
-**1983.** Die für die Berechnung des Maximalwerts verwendeten Stundenmittelwerte liegen tatsächlich erst ab November 1982 vor. Die Daten stehen zwar ab 1817 zum Download zur Verfügung. Allerdings erscheinen die ersten unterschiedlichen Werte innerhalb eines Tages erst ab 1982-11-01 (abgesehen von vier Ausreißern: 1855-04-23, 1855-06-06, 1857-04-26, 1857-04-27, aber Daten sind eben nie perfekt).
+**1983.** Die für die Berechnung des Maximalwerts verwendeten Stundenmittelwerte liegen tatsächlich erst ab November 1982 vor. Die Daten stehen zwar ab 1817 zum Download zur Verfügung. Allerdings erscheinen die ersten unterschiedlichen Werte innerhalb eines Tages erst ab 1982-11-01 (abgesehen von vier Ausreißern: 1855-04-23, 1855-06-06, 1857-04-26, 1857-04-27, aber Daten sind eben nie perfekt). Für die unten stehenden Analysen haben wir diesen Aspekt allerdings ignoriert.
 
 ### Grafischer Vergleich
 
