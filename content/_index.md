@@ -24,7 +24,7 @@ Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für 
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
-## Jahresgang 2024
+## Jahresverlauf 2024
 
 Der Jahresverlauf im Vergleich zu historischen Werten. Den <span style="background-color: lightgrey">grauen Bereich</span> des Fehlerbands kann man als die "normale" Schwankung des Pegels verstehen. Werte außerhalb dieses Bereichs sind entsprechend "außergewöhnlich".
 
