@@ -7,7 +7,7 @@ weight = 5
 
 ## Winter High Water 2023/2024 
 
-In the winter of 2023/2024, the level of Lake Constance was exceptionally high. A new record was even set for the period from December 11th to 30th. The maximum for this period was previously through the winters of [1939](https://www.Level-konstanz.de/en/01_geschichte_daten/1930-1939/index.html#1939) and [1944](https://www .Level-konstanz.de/en/01_geschichte_daten/1940-1949/index.html#1944) has been determined. This information refers to the analysis period from 1888.
+In the winter of 2023/2024, the level of Lake Constance was exceptionally high. A new record was even set for the period from December 11<sup>th</sup> to 30<sup>th</sup>. The maximum for this period was previously through the winters of [1939](https://www.Level-konstanz.de/en/01_geschichte_daten/1930-1939/index.html#1939) and [1944](https://www.Level-konstanz.de/en/01_geschichte_daten/1940-1949/index.html#1944) has been determined. This information refers to the analysis period from 1888.
 
 ![high-water-23-24](/images/analysis/winter-high-water-23-24/winter-high-23-34_EN.png)
 
