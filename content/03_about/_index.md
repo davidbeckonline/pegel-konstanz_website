@@ -8,8 +8,9 @@ Und hier findet sich "About" Info, wie beispielsweise das Impressum, Kontaktdate
 
 * **[Warum]({{% relref "01_why.md" %}})**
 * **[Techische Umsetzung]({{% relref "02_technical-realization.md" %}})**
-* **[Kontakt und Impressum]({{% relref "03_contact-imprint.md" %}})**
-* **[Logo]({{% relref "04_logo.md" %}})**
+* **[Release Notes]({{% relref "03_release-notes.md" %}})**
+* **[Kontakt und Impressum]({{% relref "04_contact-imprint.md" %}})**
+* **[Logo]({{% relref "05_logo.md" %}})**
 
 
 Das Wichtigste vorab:

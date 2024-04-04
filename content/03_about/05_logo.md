@@ -2,7 +2,7 @@
 title = 'Logo'
 date = 2024-01-16T15:26:41Z
 draft = false
-weight = 10
+weight = 5
 +++
 
 ## Unser Logo

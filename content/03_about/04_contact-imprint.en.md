@@ -2,7 +2,7 @@
 title = 'contact and imprint'
 date = 2024-01-16T15:26:41Z
 draft = false
-weight = 5
+weight = 4
 +++
 
 You can find more information about me on a separate blog: [davidbeck.online](https://davidbeck.online)

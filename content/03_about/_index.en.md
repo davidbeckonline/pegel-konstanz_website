@@ -8,8 +8,9 @@ And here you can find “About” information, such as the imprint, contact deta
 
 * **[Why]({{% relref "01_why.en.md" %}})**
 * **[Technical Realization]({{% relref "02_technical-realization.en.md" %}})**
-* **[Contact and Imprint]({{% relref "03_contact-imprint.en.md" %}})**
-* **[Logo]({{% relref "04_logo.en.md" %}})**
+* **[Release Notes]({{% relref "03_release-notes.en.md" %}})**
+* **[Contact and Imprint]({{% relref "04_contact-imprint.en.md" %}})**
+* **[Logo]({{% relref "05_logo.en.md" %}})**
 
 The most important information is:
 
