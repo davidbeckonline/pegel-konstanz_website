@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-04-06: Increased update cadence**
+We now update the level six times a day, instead of four times.
+
 **2024-04-03: Add Release Notes section**
 The section you see here.
 

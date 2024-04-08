@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-04-06: Granularere Updates**
+Wir aktualisieren den Pegel nun sechs mal pro Tag, statt bisher vier Mal.
+
 **2024-04-03: Ergänzung der Release Notes**
 Das deutsche Wort "Versionshinweise" erschien mir zu sperrig.
 

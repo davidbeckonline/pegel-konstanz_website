@@ -5,7 +5,7 @@ title = "Pegel Konstanz (Bodensee)"
 
 <h2>Pegel Konstanz: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
-Der aktuelle Pegel des Bodensees (Station: Konstanz) beträgt <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswerts des Vortags).
+Der aktuelle Pegel des Bodensees (Station: Konstanz) beträgt <b><span id=website_current_level> ? </span></b> cm (<b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswerts des Vortags*).
 
 Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <span id=website_mostrecent_time> ? </span> aktualisiert.
 
@@ -49,3 +49,7 @@ Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> c
     }
 </style>
 <span> <a rel="me" href="https://mastodon.social/@pegelkonstanz">Mastodon</a></span>
+
+***
+
+*Zwischen 00:00 und 04:00 Uhr blicken wir zwei Tage zurück, da der Tagesmittelwert für den Vortag erst gegen 2:30 zur Verfügung steht.
