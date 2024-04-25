@@ -1,5 +1,5 @@
 +++
-title = 'contact and imprint'
+title = 'Contact and Imprint'
 date = 2024-01-16T15:26:41Z
 draft = false
 weight = 4
