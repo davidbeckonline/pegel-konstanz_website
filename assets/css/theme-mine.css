@@ -9,6 +9,7 @@ with rgba(12, 102, 140)
     --SECONDARY-color: rgba( 12, 102, 140, 1 ); /* brand secondary color */
 
     --MAIN-TOPBAR-BORDER-color: rgba( 210, 210, 210, 1 ); /* border color between topbar and content */
+    --MAIN-LINK-color: rgba( 12, 102, 140, 1 ); /* Color of links */
     --MAIN-LINK-HOVER-color: rgba( 12, 102, 140, 1 ); /* hoverd link color of content */
     --MAIN-BG-color: rgba( 255, 255, 255, 1 ); /* background color of content */
     --MAIN-TEXT-color: rgba( 0, 0, 0, 1 ); /* text color of content and h1 titles */
