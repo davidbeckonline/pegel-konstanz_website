@@ -11,11 +11,11 @@ Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <sp
 
  {{% notice style="grey" title="Aktuelle Info" icon="info" %}}
  Mit einem Pegel >= 480cm hat der Bodensee die Hochwassermarke überschritten. 
- In den Jahren von 1888 bis einschließlich 2024 tritt dies zum 46 Mal ein. Also in etwas jedes dritte Jahr (33,6%): 
+ In den Jahren von 1888 bis einschließlich 2024 tritt dies zum 46 Mal ein. Also in etwa jedes dritte Jahr (33,6%): 
  
  2021, 2016, 2013, 2001, 1999, 1995, 1987, 1982, 1981, 1980, 1975, 1970, 1967, 1966, 1965, 1956, 1954, 1953, 1951, 1948, 1946, 1940, 1939, 1937, 1936, 1935, 1933, 1932, 1931, 1927, 1926, 1924, 1922, 1920, 1916, 1914, 1913, 1910, 1907, 1906, 1897, 1896, 1892, 1890, 1888
  
- Alle Jahresverläufe finden sich in den historischen Daten.
+ Alle Jahresverläufe finden sich im Menü unter [Historische Pegelstände]({{% relref "01_historische_daten/_index.md" %}}).
  {{% /notice %}}
 
 ## 10-Tage Trend

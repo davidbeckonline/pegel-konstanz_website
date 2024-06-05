@@ -11,11 +11,11 @@ The data was last updated on <span id=website_mostrecent_date> ? </span> at <spa
 
  {{% notice style="grey" title="Update" icon="info" %}}
  With a water level >= 480cm, Lake Constance has exceeded the flood mark.
-In the years from 1888 to 2024 inclusive, this will occur 46 times. So roughly every third year (33.6%):
+In the years from 1888 to 2024 inclusive, this situation occured 46 times. So roughly every third year (33.6%):
  
  2021, 2016, 2013, 2001, 1999, 1995, 1987, 1982, 1981, 1980, 1975, 1970, 1967, 1966, 1965, 1956, 1954, 1953, 1951, 1948, 1946, 1940, 1939, 1937, 1936, 1935, 1933, 1932, 1931, 1927, 1926, 1924, 1922, 1920, 1916, 1914, 1913, 1910, 1907, 1906, 1897, 1896, 1892, 1890, 1888
  
-All annual trends can be found in the historical data.
+All annual waters levels since 1888 can be found in section [Historic Data]({{% relref "01_historische_daten/_index.en.md" %}}).
 {{% /notice %}}
 
 ## Development over the last 10 days
