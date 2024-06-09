@@ -20,10 +20,10 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
  {{% notice style="grey" title="Aktuelle Info (2024-06-09)" icon="info" %}}
 Hier eine Übersicht, wie häufig welcher Pegelstand in den vergangenen 136 Jahren (1888 - 2023) überschritten wurde.
 * 480cm: 45 Mal (33,6%)
-* 490cm : 31 Mal (22,8%)
-* 500cm: 22 Mal (16,2%)
-* 510cm: 14 Mal (10,3%)
-* 520cm: 8 Mal (5,9%)
+* 490cm : 31 mal (22,8%)
+* 500cm: 22 mal (16,2%)
+* 510cm: 14 mal (10,3%)
+* 520cm: 8 mal (5,9%)
  
  Alle Jahresverläufe finden sich im Menü unter [Historische Pegelstände]({{% relref "01_historische_daten/_index.md" %}}).
  {{% /notice %}}
