@@ -9,21 +9,29 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
- {{% notice style="grey" title="Update" icon="info" %}}
- With a water level >= 480cm, Lake Constance has exceeded the flood mark.
-In the years from 1888 to 2024 inclusive, this situation occured 46 times. So roughly every third year (33.6%):
- 
- 2021, 2016, 2013, 2001, 1999, 1995, 1987, 1982, 1981, 1980, 1975, 1970, 1967, 1966, 1965, 1956, 1954, 1953, 1951, 1948, 1946, 1940, 1939, 1937, 1936, 1935, 1933, 1932, 1931, 1927, 1926, 1924, 1922, 1920, 1916, 1914, 1913, 1910, 1907, 1906, 1897, 1896, 1892, 1890, 1888
- 
-All annual waters levels since 1888 can be found in section [Historic Data]({{% relref "01_historische_daten/_index.en.md" %}}).
-{{% /notice %}}
-
 ## Development over the last 10 days
 
 This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
 
+ {{% notice style="note" title="Update (2024-06-10)" icon="info" %}}
+Here is an overview of how often which water level was reached or exceeded in the past 136 years (1888 - 2023). 
+* 480cm: 45 times (33.6%)
+* 490cm: 31 times (22.8%)
+* 500cm: 22 times (16.2%)
+* 510cm: 14 times (10.3%)
+* 520cm: 8 times (5.9%)
+* 530cm: 6 times (4.4%)
+* 540cm: 5 times (3.7%)
+* 550cm: 4 times (2.9%)
+* 560cm: 2 times (1.5%)
+* 570cm: 1 time (0.7%)
+
+We have added an [analysis]({{% relref "02_analysis/02_02_individual/high_water_general" %}}) for this.
+
+All annual trends can be found in the menu under [Historical water levels]({{% relref "01_historische_daten/_index.en.md" %}}).
+ {{% /notice %}}
 
 ## Forecast
 

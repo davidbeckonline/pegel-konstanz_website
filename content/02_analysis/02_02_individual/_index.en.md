@@ -5,3 +5,7 @@ title = "Individual"
 +++
 
 In this section we analyze individual events.
+
+**[1. Winter High Water 2023/2024]({{% relref "/high_water_2023" %}})**
+
+**[2. High Water in general]({{% relref "/high_water_general" %}})**

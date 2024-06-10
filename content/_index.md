@@ -17,14 +17,21 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
 
 
- {{% notice style="grey" title="Aktuelle Info (2024-06-09)" icon="info" %}}
-Hier eine Übersicht, wie häufig welcher Pegelstand in den vergangenen 136 Jahren (1888 - 2023) überschritten wurde.
+ {{% notice style="note" title="Aktuelle Info (2024-06-10)" icon="info" %}}
+Hier eine Übersicht, wie häufig welcher Pegelstand in den vergangenen 136 Jahren (1888 - 2023) erreicht oder überschritten wurde.
 * 480cm: 45 mal (33,6%)
-* 490cm : 31 mal (22,8%)
+* 490cm: 31 mal (22,8%)
 * 500cm: 22 mal (16,2%)
 * 510cm: 14 mal (10,3%)
 * 520cm: 8 mal (5,9%)
- 
+* 530cm: 6 mal (4,4%)
+* 540cm: 5 mal (3,7%)
+* 550cm: 4 mal (2,9%)
+* 560cm: 2 mal (1,5%)
+* 570cm: 1 mal (0,7%)
+
+Wie haben dazu eine [Analyse]({{% relref "02_analysis/02_02_individual/high_water_general" %}}) eingefügt.
+
  Alle Jahresverläufe finden sich im Menü unter [Historische Pegelstände]({{% relref "01_historische_daten/_index.md" %}}).
  {{% /notice %}}
 
