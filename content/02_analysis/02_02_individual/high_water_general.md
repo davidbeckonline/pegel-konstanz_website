@@ -12,7 +12,9 @@ Hier eine Tabelle, welche den Wasserstand mit der Häufigkeit und den entspreche
 
 ### Häufigkeit verschiedener Pegelstände
 
-| Pegel | Anzahl der Vorkommnisse zwischen 1888 und 2023 (n=136) | relative Häufigkeit | Jahre (additiv) |
+Die unten stehende Tabelle bezieht sich Tagesmittelwerte.
+
+| Pegel Konstanz | Anzahl der Vorkommnisse zwischen 1888 und 2023 (n=136) | relative Häufigkeit | Jahre (additiv) |
 | --- | --- | --- | --- |
 | >= 570 cm | 1 mal | 0,7 % | 1890 |
 | >= 560 cm | 2 mal | 1,5 % | 1999 |

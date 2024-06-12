@@ -7,6 +7,18 @@ weight = 3
 
 ## Release Notes
 
+**2024-06-12: Notice - Vergleich 2016.**
+Wir haben eine Notice zum Hochwasser 2016 als Vergleich eingefügt.
+
+**2024-06-11: Individuelle Analyse - Hochwasser.**
+Wir haben eine Individuelle Analyse zu Hochwasserereignissen am Bodensee und deren Häufigkeit eingefügt.
+
+**2024-06-09: Erste Notice.**
+Um auf aktuelle Fragestellungen einzugehen, haben wir eine erste Notice auf der Startseite eingefügt. In diesem Fall ging es die Häufigkeit von Hochwasserereignissen.
+
+**2024-06-01: Update Frequenz erhöht.**
+Wegen des starken Anstiegs des Pegels haben wir die Updatefrequenz auf eine stündliche Aktualisierung erhöht.
+
 **2024-04-23: Icon für iOS und iPadOS.**
 Neue Favicons hinzugefügt. Die Seite lässt sich jetzt schick auf iOS und iPadOS als Icon ablegen.
 

@@ -13,7 +13,9 @@ Here is a table that lists the water level with the frequency and the correspond
 
 ### Frequency of different water levels
 
-| Level | Number of occurrences between 1888 and 2023 (n=136) | Relative Frequency | Years (additive) |
+The table below is based on daily mean water levels.
+
+| Level Station Constance | Number of occurrences between 1888 and 2023 (n=136) | Relative Frequency | Years (additive) |
 | --- | --- | --- | --- |
 | >= 570 cm | 1 mal | 0.7 % | 1890 |
 | >= 560 cm | 2 mal | 1.5 % | 1999 |

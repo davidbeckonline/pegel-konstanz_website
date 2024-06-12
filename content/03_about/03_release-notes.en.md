@@ -7,6 +7,18 @@ weight = 3
 
 ## Release Notes
 
+**2024-06-12: Notice - Comparison 2016.**
+We have added a notice on the 2016 high water as a comparison.
+
+**2024-06-11: Individual analysis - high water.**
+We have added an individual analysis on high water events on Lake Constance and their frequency.
+
+**2024-06-09: First notice.**
+In order to address current issues, we have added a first notice on the homepage. In this case, it was about the frequency of high water events.
+
+**2024-06-01: Update frequency increased.**
+Due to the sharp rise in the water level, we have increased the update frequency to an hourly update.
+
 **2024-04-23: Icon for iOS und iPadOS.**
 Added new Favicons. Users get a nice icon when adding the website to the homescreen of the iOS or iPadOS device.
 
