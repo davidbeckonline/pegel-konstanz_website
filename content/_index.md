@@ -19,7 +19,7 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
  {{% notice style="note" title="Aktuelle Info (2024-06-12)" icon="info" %}}
 Derzeit drängt sich der Vergleich mit dem Pegel des Jahres 2016 auf, da es das letzte Hochwasserereignis war. Damals war der Pegel am 20. und 21. Juni auf 513 cm angestiegen.
-Der Jahresverlauf 2016 findet sich [hier]({{% relref "01_historische_daten/2010-2019.md" %}}). 
+Der Jahresverlauf 2016 findet sich [hier]({{% relref "01_historische_daten/2010-2019.md#2016" %}}). 
 
  Alle Jahresverläufe finden sich im Menü unter [Historische Pegelstände]({{% relref "01_historische_daten/_index.md" %}}).
  {{% /notice %}}

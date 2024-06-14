@@ -15,23 +15,12 @@ This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
 
- {{% notice style="note" title="Update (2024-06-10)" icon="info" %}}
-Here is an overview of how often which water level was reached or exceeded in the past 136 years (1888 - 2023). 
-* 480cm: 45 times (33.6%)
-* 490cm: 31 times (22.8%)
-* 500cm: 22 times (16.2%)
-* 510cm: 14 times (10.3%)
-* 520cm: 8 times (5.9%)
-* 530cm: 6 times (4.4%)
-* 540cm: 5 times (3.7%)
-* 550cm: 4 times (2.9%)
-* 560cm: 2 times (1.5%)
-* 570cm: 1 time (0.7%)
+{{% notice style="note" title="Current information (2024-06-12)" icon="info" %}}
+At the moment, a comparison with the water level in 2016 is necessary, as it was the last high water event. At that time, the water level rose to 513 cm on June 20 and 21.
+The annual course for 2016 can be found [here]({{% relref "01_historische_daten/2010-2019.en.md#2016" %}}).
 
-We have added an [analysis]({{% relref "02_analysis/02_02_individual/high_water_general" %}}) for this.
-
-All annual trends can be found in the menu under [Historical water levels]({{% relref "01_historische_daten/_index.en.md" %}}).
- {{% /notice %}}
+All annual courses can be found in the menu under [Historical water levels]({{% relref "01_historische_daten/_index.en.md" %}}).
+{{% /notice %}}
 
 ## Forecast
 
