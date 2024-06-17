@@ -17,11 +17,8 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
 
 
- {{% notice style="note" title="Aktuelle Info (2024-06-12)" icon="info" %}}
-Derzeit drängt sich der Vergleich mit dem Pegel des Jahres 2016 auf, da es das letzte Hochwasserereignis war. Damals war der Pegel am 20. und 21. Juni auf 513 cm angestiegen.
-Der Jahresverlauf 2016 findet sich [hier]({{% relref "01_historische_daten/2010-2019.md#2016" %}}). 
-
- Alle Jahresverläufe finden sich im Menü unter [Historische Pegelstände]({{% relref "01_historische_daten/_index.md" %}}).
+ {{% notice style="note" title="Aktuelle Info (2024-06-17)" icon="info" %}}
+Wir haben den Begriff "Fehlerband" in der übersicht zum Jahresverlauf zu "Normalbereich" abgeändert. Durch die Definition unter der Grafik, sollte die Berechnung klar werden. Den Hinweis dazu haben wir entfernt. Zudem ist uns aufgefallen, dass das LUBW aus der Vorhersage das "Szenario kein Niederschlag in den kommenden 10 Tagen" nicht mehr berücksichtigt. Auf der englischen Variante unserer Seite haben wir die Übersetzung dazu entfernt.
  {{% /notice %}}
 
 ## Vorhersage
@@ -33,7 +30,7 @@ Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für 
 
 ## Jahresverlauf 2024
 
-Der Jahresverlauf im Vergleich zu historischen Werten. Den <span style="background-color: lightgrey">grauen Bereich</span> des Fehlerbands kann man als die "normale" Schwankung des Pegels verstehen. Werte außerhalb dieses Bereichs sind entsprechend "außergewöhnlich".
+Der Jahresverlauf im Vergleich zu historischen Werten.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
 

@@ -16,10 +16,7 @@ This is how the level of the lake developed over the last ten days:
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
 
 {{% notice style="note" title="Current information (2024-06-12)" icon="info" %}}
-At the moment, a comparison with the water level in 2016 is necessary, as it was the last high water event. At that time, the water level rose to 513 cm on June 20 and 21.
-The annual course for 2016 can be found [here]({{% relref "01_historische_daten/2010-2019.en.md#2016" %}}).
-
-All annual courses can be found in the menu under [Historical water levels]({{% relref "01_historische_daten/_index.en.md" %}}).
+We have changed the term "error band" in the overview of the year to "normal range". The definition below the graphic should make the calculation clear. We have removed the reference to this. We have also noticed that the LUBW no longer takes the "scenario no precipitation for the next 10 days" into account in the forecast. We have removed the translation for this on the English version of our site.
 {{% /notice %}}
 
 ## Forecast
@@ -32,7 +29,6 @@ As this graph is only available in German, we add an English translation here:
 * <span style="color:blue">Blue Line </span> = Measured water level of Lake Constance
 * <span style="color:red">Red Line</span> = Forecast
 * <span style="background-color: #FFFF00">Yellow Area</span> = Range of Estimation
-* Black Line = Scenario: No Precipitation for the next ten Days
 
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
@@ -40,7 +36,7 @@ As this graph is only available in German, we add an English translation here:
 
 ## Annual Cycle
 
-The annual cycle in comparison to historical values. The <span style="background-color: lightgrey">grey area</span> of the error band can be interpreted as the 'normal' fluctuation of the level.
+The annual cycle in comparison to historical values.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
 
