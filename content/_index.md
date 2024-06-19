@@ -17,10 +17,6 @@ Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
 
 
- {{% notice style="note" title="Aktuelle Info (2024-06-17)" icon="info" %}}
-Wir haben den Begriff "Fehlerband" in der übersicht zum Jahresverlauf zu "Normalbereich" abgeändert. Durch die Definition unter der Grafik, sollte die Berechnung klar werden. Den Hinweis dazu haben wir entfernt. Zudem ist uns aufgefallen, dass das LUBW aus der Vorhersage das "Szenario kein Niederschlag in den kommenden 10 Tagen" nicht mehr berücksichtigt. Auf der englischen Variante unserer Seite haben wir die Übersetzung dazu entfernt.
- {{% /notice %}}
-
 ## Vorhersage
 
 Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für Umwelt Baden-Württemberg](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) (LUBW). Auch die Angaben des LUBW verstehen sich ohne Gewähr.

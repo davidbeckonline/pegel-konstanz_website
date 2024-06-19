@@ -15,9 +15,6 @@ This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
 
-{{% notice style="note" title="Current information (2024-06-12)" icon="info" %}}
-We have changed the term "error band" in the overview of the year to "normal range". The definition below the graphic should make the calculation clear. We have removed the reference to this. We have also noticed that the LUBW no longer takes the "scenario no precipitation for the next 10 days" into account in the forecast. We have removed the translation for this on the English version of our site.
-{{% /notice %}}
 
 ## Forecast
 
