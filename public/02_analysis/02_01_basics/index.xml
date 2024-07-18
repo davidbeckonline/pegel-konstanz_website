@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Grundlagen on Aktuelle und historische Informationen zum Pegel des Bodensees</title>
+    <link>http://localhost:8080/02_analysis/02_01_basics/index.html</link>
+    <description>Recent content in Grundlagen on Aktuelle und historische Informationen zum Pegel des Bodensees</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Tue, 16 Jan 2024 15:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/02_analysis/02_01_basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximum</title>
+      <link>http://localhost:8080/02_analysis/02_01_basics/max_general/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_01_basics/max_general/index.html</guid>
+      <description>Der maximale Pegel In diesem Artikel werden ein paar Informationen zum maximalen Pegel des Bodensees gesammelt.&#xA;Stundendenmittelwert als Grundlage. Erst einmal ist wichtig zu verstehen, dass das Maximum in den Darstellungen des LUBW auf Stundenmittelwerten basiert. Und für diese Website haben wir uns für den gleichen Ansatz entschieden - auch wenn es die Sache komplizierter macht. Tatsächlich werden in der Grafik nämlich zwei Typen von Daten gemischt. Das Maximum wird auf Stundenmittelwerten für jeden Tag ermittelt.</description>
+    </item>
+    <item>
+      <title>Minimum</title>
+      <link>http://localhost:8080/02_analysis/02_01_basics/min_general/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_01_basics/min_general/index.html</guid>
+      <description>Der minimale Pegel In diesem Artikel werden ein paar Informationen zum maximalen Pegel des Bodensees gesammelt.&#xA;Tagesmittelwerte als Grundlage. Im Unterschied zum Maximum, wird das Minimum auf Basis von Tagesmittelwerten ermittelt. Das ist aus meiner Sicht nicht ganz konsequent. Wir folgen an dieser Stelle aber dem Ansatz des LUBW.&#xA;Niedrigster Pegelstand. Für die Jahre 1888 bis 2023 lag der niedrigste Pegel bei 229 cm. Dieser Stand wurde am 13., 14. und 15.</description>
+    </item>
+    <item>
+      <title>Analysezeitraum</title>
+      <link>http://localhost:8080/02_analysis/02_01_basics/time_frame/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_01_basics/time_frame/index.html</guid>
+      <description>Die Wahl des richtigen Analysezeitraums 1817 / 1850 / 1888 / 1981 / 1983 Wenn man sich Grafiken zum Jahresverlauf des Sees ansieht, unterscheidet sich der Verlauf des Maximums teilweise beträchtlich. Dies liegt an unterschiedlichen Definitionen des Analysezeitraums für die Ermittlung der langjährigen Werte. Hier eine Übersicht der verschiedenen Herangehensweisen, die mir aktuell bekannt sind:&#xA;1817. Grundsätzlich stellt das LUBW für die Station in Konstanz Messwerte ab 1817 zur Verfügung. Allerdings sind diese sehr frühen Daten problembehaftet und werden in keiner grafischen Ausarbeitung verwendet.</description>
+    </item>
+  </channel>
+</rss>

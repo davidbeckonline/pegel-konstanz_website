@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fundamentals on Current and historical information on the level of Lake Constance</title>
+    <link>http://localhost:8080/en/02_analysis/02_01_basics/index.html</link>
+    <description>Recent content in Fundamentals on Current and historical information on the level of Lake Constance</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jan 2024 15:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/en/02_analysis/02_01_basics/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Maximum</title>
+      <link>http://localhost:8080/en/02_analysis/02_01_basics/max_general/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/02_analysis/02_01_basics/max_general/index.html</guid>
+      <description>The maximum level This article collects some information about the maximum level of Lake Constance.&#xA;Hourly average as a basis. First of all, it is important to understand that the maximum in the LUBW representations is based on hourly averages. And for this website we decided to take the same approach - even if it complicates things. In fact, two types of data are mixed in the graph. The maximum is determined based on hourly average values for each day.</description>
+    </item>
+    <item>
+      <title>Minimum</title>
+      <link>http://localhost:8080/en/02_analysis/02_01_basics/min_general/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/02_analysis/02_01_basics/min_general/index.html</guid>
+      <description>The minimum level This article collects some information about the maximum level of Lake Constance.&#xA;Daily average values as a basis. In contrast to the maximum, the minimum is determined based on daily average values. In my opinion, this is not entirely consistent. At this point we are following the LUBW approach.&#xA;Lowest water level. For the years 1888 to 2023, the lowest water level was 229 cm. This level was reached on February 13, 14 and 15, 2006.</description>
+    </item>
+    <item>
+      <title>Analysis Period</title>
+      <link>http://localhost:8080/en/02_analysis/02_01_basics/time_frame/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/02_analysis/02_01_basics/time_frame/index.html</guid>
+      <description>Defining the right analysis period Choosing the right analysis period 1817 / 1850 / 1888 / 1981 / 1983 If you look at graphics of the lake&amp;rsquo;s annual course, the course of the maximum varies considerably in some cases. This is due to different definitions of the analysis period for determining the long-term values. Here is an overview of the different approaches that I am currently aware of:&#xA;1817. Basically, the LUBW provides measured values for the station in Konstanz from 1817 onwards.</description>
+    </item>
+  </channel>
+</rss>

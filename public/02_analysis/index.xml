@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysen on Aktuelle und historische Informationen zum Pegel des Bodensees</title>
+    <link>http://localhost:8080/02_analysis/index.html</link>
+    <description>Recent content in Analysen on Aktuelle und historische Informationen zum Pegel des Bodensees</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/02_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individuelle Analysen</title>
+      <link>http://localhost:8080/02_analysis/02_02_individual/index.html</link>
+      <pubDate>Sun, 09 Jun 2024 21:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_02_individual/index.html</guid>
+      <description>An dieser Stelle beschäftigen wir uns mit der analyse individueller Ereignisse.&#xA;1. Hochwasser am Bodensee&#xA;2. Winterhochwasser 2023/2024</description>
+    </item>
+    <item>
+      <title>Grundlagen</title>
+      <link>http://localhost:8080/02_analysis/02_01_basics/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_01_basics/index.html</guid>
+      <description>In diesem Bereich geht es vor allem um die grundlegenden Annahmen und Ansätze für die Analysen, die wir auf dieser Website präsentieren.&#xA;1. Pegel Maximum&#xA;2. Pegel Minimum&#xA;3. Analysezeitraum</description>
+    </item>
+  </channel>
+</rss>

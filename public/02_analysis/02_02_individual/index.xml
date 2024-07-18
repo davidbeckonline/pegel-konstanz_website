@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Individuelle Analysen on Aktuelle und historische Informationen zum Pegel des Bodensees</title>
+    <link>http://localhost:8080/02_analysis/02_02_individual/index.html</link>
+    <description>Recent content in Individuelle Analysen on Aktuelle und historische Informationen zum Pegel des Bodensees</description>
+    <generator>Hugo</generator>
+    <language>de</language>
+    <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/02_analysis/02_02_individual/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Hochwasser am Bodensee</title>
+      <link>http://localhost:8080/02_analysis/02_02_individual/high_water_general/index.html</link>
+      <pubDate>Sun, 09 Jun 2024 21:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_02_individual/high_water_general/index.html</guid>
+      <description>Hochwasser am Bodensee Die Hochwassermarke am Bodensee ist mit einem Pegel von 480 cm in Konstanz festgelegt. Tatsächlich ist dieser Wert allerdings tendenziell niedrig angelegt. Betrachtet man den Normalbereich (Mittel ± Standardabweichung), dann geht der &amp;ldquo;normale&amp;rdquo; Pegel des Bodensees am 28. Juni bis 472 cm. Selbst die Hochwassermarke von 480 cm wird langjährig betrachtet in etwa jedes dritte Jahr erreicht. Hier eine Tabelle, welche den Wasserstand mit der Häufigkeit und den entsprechenden Jahren aufführt.</description>
+    </item>
+    <item>
+      <title>Winterhochwasser 2023/2024</title>
+      <link>http://localhost:8080/02_analysis/02_02_individual/high_water_2023/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/02_analysis/02_02_individual/high_water_2023/index.html</guid>
+      <description>Winterhochwasser 2023/2024 Im Winter 2023/2024 war der Pegel des Bodensees außergewöhnlich hoch. Für den Zeitraum vom 11. bis zum 30. Dezember wurde sogar ein neuer Rekord aufgestellt. Das Maximum für diese Periode war zuvor durch die Winter der Jahre 1939 und 1944 bestimmt worden. Diese Angaben beziehen sich auf den Analysezeitraum ab 1888.&#xA;Hier die Maximalwerte für den Dezember im Detail:&#xA;mm_dd Maximalwert (basierend auf Stundenwerten (cm) Jahr des Maximums 12_01 410 1944 12_02 408 1939 12_03 406 1939 12_04 404 1939 12_05 402 1939 12_06 401 1944 12_07 400 1939, 1944 12_08 398 1939, 1944 12_09 401 1944 12_10 398 1944 12_11 400 2023 12_12 407 2023 12_13 414 2023 12_14 418 2023 12_15 420 2023 12_16 420 2023 12_17 418 2023 12_18 414 2023 12_19 411 2023 12_20 407 2023 12_21 404 2023 12_22 400 2023 12_23 401 2023 12_24 400 2023 12_25 398 2023 12_26 396 2023 12_27 393 2023 12_28 390 2023 12_29 386 2023 12_30 382 1918, 2023 12_31 384 1918 </description>
+    </item>
+  </channel>
+</rss>

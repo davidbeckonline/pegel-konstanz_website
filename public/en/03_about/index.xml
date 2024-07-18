@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>About on Current and historical information on the level of Lake Constance</title>
+    <link>http://localhost:8080/en/03_about/index.html</link>
+    <description>Recent content in About on Current and historical information on the level of Lake Constance</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 16 Jan 2024 15:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:8080/en/03_about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Implementation</title>
+      <link>http://localhost:8080/en/03_about/02_technical-realization/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/03_about/02_technical-realization/index.html</guid>
+      <description>Implementation This website was built and is hosted on AWS. For all regional services, the eu-central-1 region was selected.&#xA;Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ process and visualize the data. The fictions are either triggered via EventsManager or as part of a StepFunction.&#xA;ECS. There functions used for data processing and visualization are relying on Python / Pandas. These libraries are too big for being added as zip (lambda limit is 125 MB).</description>
+    </item>
+    <item>
+      <title>Why</title>
+      <link>http://localhost:8080/en/03_about/01_why/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/03_about/01_why/index.html</guid>
+      <description>Why actually? This website is the result of a learning project. My real goal was to learn more about data analysis in general. I was looking for a suitable data set for this. And the level data for Lake Constance became available quite quickly. Since I grew up on Lake Constance, I have a connection to the data. The data itself is publicly accessible (#opendata). And the data set for the Konstanz measuring station is around 200 MB in size.</description>
+    </item>
+    <item>
+      <title>Release Notes</title>
+      <link>http://localhost:8080/en/03_about/03_release-notes/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/03_about/03_release-notes/index.html</guid>
+      <description>Release Notes 2024-06-12: Notice - Comparison 2016. We have added a notice on the 2016 high water as a comparison.&#xA;2024-06-11: Individual analysis - high water. We have added an individual analysis on high water events on Lake Constance and their frequency.&#xA;2024-06-09: First notice. In order to address current issues, we have added a first notice on the homepage. In this case, it was about the frequency of high water events.</description>
+    </item>
+    <item>
+      <title>Contact and Imprint</title>
+      <link>http://localhost:8080/en/03_about/04_contact-imprint/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/03_about/04_contact-imprint/index.html</guid>
+      <description>You can find more information about me on a separate blog: davidbeck.online&#xA;Contact For questions, comments, or ideas on how to improve this website, please reach out via email to pegel-konstanz.de.tribesman400@passmail.net . This is an email alias dedicated to this project.&#xA;Imprint This is a personal and non-commercial website from David Beck from Berlin, Germany.</description>
+    </item>
+    <item>
+      <title>Logo</title>
+      <link>http://localhost:8080/en/03_about/05_logo/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:8080/en/03_about/05_logo/index.html</guid>
+      <description>Our Logo At this point a few thoughts about the logo of our website.&#xA;Since it was about data analysis in Python right from the start, it seemed sensible to put together a logo using characters. There are no pretty pictures of Lake Constance on this website. There are already enough of them. It&amp;rsquo;s all about numbers - and the graphical representation of them.&#xA;And then of course there is the ups and downs of the lake.</description>
+    </item>
+  </channel>
+</rss>
