@@ -7,6 +7,11 @@ weight = 3
 
 ## Release Notes
 
+**2024-07-21: Updated last ten days graph. Re-corrected description of forecase graph.**
+We updated the graph with the data of the last ten days. Horizontal lines for max and min had been added. Furthermore, we improved readibility of the most recent value.
+
+Besides that, we recognized that the forecast graph we take from HVZ seems to change from time to time. Looks like, the "Scenario: No Precipitation for the next ten Days" is not displayed during high water periods. We therefore added the description of this line back in again.
+
 **2024-06-12: Notice - Comparison 2016.**
 We have added a notice on the 2016 high water as a comparison.
 

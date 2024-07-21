@@ -7,6 +7,11 @@ weight = 3
 
 ## Release Notes
 
+**21.07.2024: Aktualisiertes Diagramm der letzten zehn Tage. Beschreibung der Vorhersage (EN) erneut korrigiert.**
+Wir haben das Diagramm mit den Daten der letzten zehn Tage aktualisiert. Horizontale Linien für Maximum und Minimum wurden hinzugefügt. Darüber hinaus haben wir die Lesbarkeit des aktuellsten Werts verbessert.
+
+Außerdem haben wir festgestellt, dass sich das Prognosediagramm, das wir von HVZ übernehmen, von Zeit zu Zeit zu ändern scheint. Offenbar wird das „Szenario: Kein Niederschlag für die nächsten zehn Tage“ während Hochwasserperioden nicht angezeigt. Wir haben daher die Beschreibung dieser Linie in der englischen Version unserer Seite wieder hinzugefügt.
+
 **2024-06-12: Notice - Vergleich 2016.**
 Wir haben eine Notice zum Hochwasser 2016 als Vergleich eingefügt.
 

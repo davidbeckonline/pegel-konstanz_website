@@ -26,6 +26,7 @@ As this graph is only available in German, we add an English translation here:
 * <span style="color:blue">Blue Line </span> = Measured water level of Lake Constance
 * <span style="color:red">Red Line</span> = Forecast
 * <span style="background-color: #FFFF00">Yellow Area</span> = Range of Estimation
+* Black Line = Scenario: No Precipitation for the next ten Days
 
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
