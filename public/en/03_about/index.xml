@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>About on Current and historical information on the level of Lake Constance</title>
+    <title>About :: Current and historical information on the level of Lake Constance</title>
     <link>http://localhost:8080/en/03_about/index.html</link>
-    <description>Recent content in About on Current and historical information on the level of Lake Constance</description>
+    <description>And here you can find “About” information, such as the imprint, contact details, etc. And I also want to talk a little about the background of this website.&#xA;Why Technical Realization Release Notes Contact and Imprint Logo The most important information is:&#xA;Please note. All statements without guarantee.&#xA;I’m trying to build a reliable and helpful website here. But at the end of the day it’s a hobby. All information is therefore without guarantee.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 16 Jan 2024 15:26:41 +0000</lastBuildDate>
@@ -13,21 +13,21 @@
       <link>http://localhost:8080/en/03_about/02_technical-realization/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/02_technical-realization/index.html</guid>
-      <description>Implementation This website was built and is hosted on AWS. For all regional services, the eu-central-1 region was selected.&#xA;Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ process and visualize the data. The fictions are either triggered via EventsManager or as part of a StepFunction.&#xA;ECS. There functions used for data processing and visualization are relying on Python / Pandas. These libraries are too big for being added as zip (lambda limit is 125 MB).</description>
+      <description>Implementation This website was built and is hosted on AWS. For all regional services, the eu-central-1 region was selected.&#xA;Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ process and visualize the data. The fictions are either triggered via EventsManager or as part of a StepFunction.&#xA;ECS. There functions used for data processing and visualization are relying on Python / Pandas. These libraries are too big for being added as zip (lambda limit is 125 MB). We therefore created docker containers for these functions same store them in ECS. We used Cloud9 to build the containers.</description>
     </item>
     <item>
       <title>Why</title>
       <link>http://localhost:8080/en/03_about/01_why/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/01_why/index.html</guid>
-      <description>Why actually? This website is the result of a learning project. My real goal was to learn more about data analysis in general. I was looking for a suitable data set for this. And the level data for Lake Constance became available quite quickly. Since I grew up on Lake Constance, I have a connection to the data. The data itself is publicly accessible (#opendata). And the data set for the Konstanz measuring station is around 200 MB in size.</description>
+      <description>Why actually? This website is the result of a learning project. My real goal was to learn more about data analysis in general. I was looking for a suitable data set for this. And the level data for Lake Constance became available quite quickly. Since I grew up on Lake Constance, I have a connection to the data. The data itself is publicly accessible (#opendata). And the data set for the Konstanz measuring station is around 200 MB in size. This is a pretty ideal size, as you can no longer process this amount of data in Excel or other spreadsheet programs. But this is just tiny for analysis with Python / Pandas.</description>
     </item>
     <item>
       <title>Release Notes</title>
       <link>http://localhost:8080/en/03_about/03_release-notes/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/03_release-notes/index.html</guid>
-      <description>Release Notes 2024-07-21: Updated last ten days graph. Re-corrected description of forecase graph. We updated the graph with the data of the last ten days. Horizontal lines for max and min had been added. Furthermore, we improved readibility of the most recent value.&#xA;Besides that, we recognized that the forecast graph we take from HVZ seems to change from time to time. Looks like, the &amp;ldquo;Scenario: No Precipitation for the next ten Days&amp;rdquo; is not displayed during high water periods.</description>
+      <description>Release Notes 2024-10-28: Notice - HVZ down. Added info that the website cannot refresh right now due to problems on the source website of HWZ.&#xA;2024-07-21: Updated last ten days graph. Re-corrected description of forecase graph. We updated the graph with the data of the last ten days. Horizontal lines for max and min had been added. Furthermore, we improved readibility of the most recent value.&#xA;Besides that, we recognized that the forecast graph we take from HVZ seems to change from time to time. Looks like, the “Scenario: No Precipitation for the next ten Days” is not displayed during high water periods. We therefore added the description of this line back in again.</description>
     </item>
     <item>
       <title>Contact and Imprint</title>
@@ -41,7 +41,7 @@
       <link>http://localhost:8080/en/03_about/05_logo/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/05_logo/index.html</guid>
-      <description>Our Logo At this point a few thoughts about the logo of our website.&#xA;Since it was about data analysis in Python right from the start, it seemed sensible to put together a logo using characters. There are no pretty pictures of Lake Constance on this website. There are already enough of them. It&amp;rsquo;s all about numbers - and the graphical representation of them.&#xA;And then of course there is the ups and downs of the lake.</description>
+      <description>Our Logo At this point a few thoughts about the logo of our website.&#xA;Since it was about data analysis in Python right from the start, it seemed sensible to put together a logo using characters. There are no pretty pictures of Lake Constance on this website. There are already enough of them. It’s all about numbers - and the graphical representation of them.&#xA;And then of course there is the ups and downs of the lake. This resulted in the minimalist logo consisting of ^ and v.</description>
     </item>
   </channel>
 </rss>

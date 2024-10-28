@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tags on Aktuelle und historische Informationen zum Pegel des Bodensees</title>
+    <title>Stichworte :: Aktuelle und historische Informationen zum Pegel des Bodensees</title>
     <link>http://localhost:8080/tags/index.html</link>
-    <description>Recent content in Tags on Aktuelle und historische Informationen zum Pegel des Bodensees</description>
+    <description></description>
     <generator>Hugo</generator>
     <language>de</language>
     <atom:link href="http://localhost:8080/tags/index.xml" rel="self" type="application/rss+xml" />

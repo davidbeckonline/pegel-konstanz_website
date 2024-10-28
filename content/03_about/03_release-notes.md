@@ -8,7 +8,7 @@ weight = 3
 ## Release Notes
 
 **2024-10-28: Notice - HVZ Down.**
-Hinweis zu den Problemen des HVZ eingefügt. Seit einigen Tagen gibt es da Probleme, welche eine Aktualisierung der Website teilweise verhindern.
+Hinweis zu den Problemen des HVZ eingefügt. Seit einigen Tagen gibt es da Probleme, welche eine Aktualisierung der Website teilweise verhindern. 
 
 **21.07.2024: Aktualisiertes Diagramm der letzten zehn Tage. Beschreibung der Vorhersage (EN) erneut korrigiert.**
 Wir haben das Diagramm mit den Daten der letzten zehn Tage aktualisiert. Horizontale Linien für Maximum und Minimum wurden hinzugefügt. Darüber hinaus haben wir die Lesbarkeit des aktuellsten Werts verbessert.

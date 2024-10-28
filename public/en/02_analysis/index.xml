@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analysis on Current and historical information on the level of Lake Constance</title>
+    <title>Analysis :: Current and historical information on the level of Lake Constance</title>
     <link>http://localhost:8080/en/02_analysis/index.html</link>
-    <description>Recent content in Analysis on Current and historical information on the level of Lake Constance</description>
+    <description>Background analyzes of the level of Lake Constance can be found here. We differentiate between two types:&#xA;1. Fundamentals&#xA;This is primarily about methodology and general considerations about the level.&#xA;2. Individual Analysis&#xA;This section looks at individual events.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>
@@ -13,14 +13,14 @@
       <link>http://localhost:8080/en/02_analysis/02_02_individual/index.html</link>
       <pubDate>Sun, 09 Jun 2024 21:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/02_analysis/02_02_individual/index.html</guid>
-      <description>In this section we analyze individual events.&#xA;1. Winter High Water 2023/2024&#xA;2. High Water</description>
+      <description>Individual Analysis</description>
     </item>
     <item>
       <title>Fundamentals</title>
       <link>http://localhost:8080/en/02_analysis/02_01_basics/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/02_analysis/02_01_basics/index.html</guid>
-      <description>In this section we focus on fundamental elements of the analysis we present on this website.&#xA;1. Level Maximum&#xA;2. Level Minimum&#xA;3. Analysis Period</description>
+      <description>Fundamental elements of the analysis</description>
     </item>
   </channel>
 </rss>
