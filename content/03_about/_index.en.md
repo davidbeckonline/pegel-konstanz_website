@@ -14,8 +14,7 @@ And here you can find “About” information, such as the imprint, contact deta
 
 The most important information is:
 
-{{% notice style="primary" title="Please note." icon="skull-crossbones" %}}
-All statements without guarantee.
-{{% /notice %}}
+**Please Note:
+All statements without guarantee.**
 
 I'm trying to build a reliable and helpful website here. But at the end of the day it's a hobby. All information is therefore without guarantee.
