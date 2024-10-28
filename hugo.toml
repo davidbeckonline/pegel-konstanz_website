@@ -1,9 +1,9 @@
+theme = "hugo-theme-relearn"
+
 baseURL = "https://pegel-konstanz.de/"
 
 title = "Pegel Konstanz - Bodensee"
 description = "Aktuelle und historische Informationen zum Pegel des Bodensees"
-
-theme = "hugo-theme-relearn"
 
 # English is the default language
 defaultContentLanguage = "de"
