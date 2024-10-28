@@ -20,7 +20,7 @@
       <link>http://localhost:8080/en/02_analysis/index.html</link>
       <pubDate>Sun, 09 Jun 2024 21:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/02_analysis/index.html</guid>
-      <description>Background analyzes of the level of Lake Constance can be found here. We differentiate between two types:&#xA;[1. Fundamentals]({{ relref . &amp;ldquo;/02_01_basics&amp;rdquo; }}).&#xA;This is primarily about methodology and general considerations about the level.&#xA;[2. Individual Analysis]({{ relref . &amp;ldquo;/02_02_individual&amp;rdquo; }}).&#xA;This section looks at individual events.</description>
+      <description>Background analyzes of the level of Lake Constance can be found here. We differentiate between two types:&#xA;1. Fundamentals&#xA;This is primarily about methodology and general considerations about the level.&#xA;2. Individual Analysis&#xA;This section looks at individual events.</description>
     </item>
     <item>
       <title>About</title>

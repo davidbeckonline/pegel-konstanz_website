@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-10-28: Notice - HVZ down.**
+Added info that the website cannot refresh right now due to problems on the source website of HWZ.
+
 **2024-07-21: Updated last ten days graph. Re-corrected description of forecase graph.**
 We updated the graph with the data of the last ten days. Horizontal lines for max and min had been added. Furthermore, we improved readibility of the most recent value.
 
