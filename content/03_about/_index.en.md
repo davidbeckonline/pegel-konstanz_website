@@ -18,3 +18,7 @@ The most important information is:
 All statements without guarantee.**
 
 I'm trying to build a reliable and helpful website here. But at the end of the day it's a hobby. All information is therefore without guarantee.
+
+{{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
+It is all about the boxes.
+{{% /notice %}}
