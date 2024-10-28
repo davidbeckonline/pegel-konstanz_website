@@ -3,7 +3,7 @@
   <channel>
     <title>Level of Lake Constance (Bodensee) :: Current and historical information on the level of Lake Constance</title>
     <link>http://localhost:8080/en/index.html</link>
-    <description>Level of Lake Constance: ? ( ? ) The current level of Lake Constance (station Constance) is: ? cm. Corresponding ? cm compared to the average of the previous day.&#xA;The data was last updated on ? at ? .&#xA;Development over the last 10 days This is how the level of the lake developed over the last ten days:</description>
+    <description>Info 2024-10-28 There have been problems with the website of the Baden-Württemberg Flood Forecast Center for a few days now. Since we get the data from this site, we are currently unable to update our site all the time. The problem is being addressed. And at the same time, we are working on a more stable setup.&#xA;Level of Lake Constance: ? ( ? ) The current level of Lake Constance (station Constance) is: ? cm. Corresponding ? cm compared to the average of the previous day.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>
@@ -27,7 +27,7 @@
       <link>http://localhost:8080/en/03_about/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/index.html</guid>
-      <description>And here you can find “About” information, such as the imprint, contact details, etc. And I also want to talk a little about the background of this website.&#xA;Why Technical Realization Release Notes Contact and Imprint Logo The most important information is:&#xA;All statements without guarantee.&#xA;I’m trying to build a reliable and helpful website here. But at the end of the day it’s a hobby. All information is therefore without guarantee.</description>
+      <description>And here you can find “About” information, such as the imprint, contact details, etc. And I also want to talk a little about the background of this website.&#xA;Why Technical Realization Release Notes Contact and Imprint Logo The most important information is:&#xA;Please Note All statements without guarantee.&#xA;I’m trying to build a reliable and helpful website here. But at the end of the day it’s a hobby. All information is therefore without guarantee.</description>
     </item>
   </channel>
 </rss>

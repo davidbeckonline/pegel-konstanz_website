@@ -3,6 +3,10 @@ archetype = "home"
 title = "Level of Lake Constance (Bodensee)"
 +++
 
+{{% notice style="warning" title="Info 2024-10-28" icon="info" %}}
+There have been problems with the website of the [Baden-Württemberg Flood Forecast Center](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007) for a few days now. Since we get the data from this site, we are currently unable to update our site all the time. The problem is being addressed. And at the same time, we are working on a more stable setup.
+{{% /notice %}}
+
 <h2>Level of Lake Constance: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
 The current level of Lake Constance (station Constance) is: <b><span id=website_current_level> ? </span></b> cm. Corresponding <b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day.

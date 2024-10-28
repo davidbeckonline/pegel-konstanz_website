@@ -15,6 +15,8 @@ Und hier findet sich "About" Info, wie beispielsweise das Impressum, Kontaktdate
 
 Das Wichtigste vorab:
 
+{{% notice style="primary" title="Bitte beachten" icon="info" %}}
 **Alle Angaben ohne Gewähr.**
+{{% /notice %}}
 
 Ich versuche hier eine verlässliche und hilfreiche Website aufzubauen. Aber am Ende des Tages ist es ein Hobby. Alle Angaben sind deshalb ohne Gewähr.
