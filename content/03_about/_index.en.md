@@ -14,11 +14,6 @@ And here you can find “About” information, such as the imprint, contact deta
 
 The most important information is:
 
-**Please Note:
-All statements without guarantee.**
+**All statements without guarantee.**
 
 I'm trying to build a reliable and helpful website here. But at the end of the day it's a hobby. All information is therefore without guarantee.
-
-{{% notice style="primary" title="There may be pirates" icon="skull-crossbones" %}}
-It is all about the boxes.
-{{% /notice %}}

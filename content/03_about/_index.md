@@ -15,7 +15,6 @@ Und hier findet sich "About" Info, wie beispielsweise das Impressum, Kontaktdate
 
 Das Wichtigste vorab:
 
-**Bitte beachten:
-Alle Angaben ohne Gewähr.**
+**Alle Angaben ohne Gewähr.**
 
 Ich versuche hier eine verlässliche und hilfreiche Website aufzubauen. Aber am Ende des Tages ist es ein Hobby. Alle Angaben sind deshalb ohne Gewähr.
