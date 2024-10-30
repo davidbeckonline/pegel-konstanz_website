@@ -3,10 +3,6 @@ archetype = "Home "
 title = "Pegel Konstanz (Bodensee)"
 +++
 
-{{% notice style="warning" title="Aktuelle Info (2024-10-28)" icon="info" %}}
-Seit ein paar Tagen gibt es Probleme mit der Website der [Hochwasservorhersagezentrale Baden-Württemberg - HVZ](https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007). Da wir die Daten von eben dieser Seite ziehen, können wir unsere Seite derzeit nicht immer aktualisieren. Das Problem wird bearbeitet. Und wir arbeiten gleichzeitig an einem stabileren Setup.
-{{% /notice %}}
-
 <h2>Pegel Konstanz: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
 
 Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id=website_current_level> ? </span></b> cm. Das entspricht <b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswertes des Vortages.

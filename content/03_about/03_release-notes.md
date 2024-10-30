@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-10-28: Notice entfernt.**
+Probleme scheinen behoben. Notice entfern.
+
 **2024-10-28: Notice - HVZ Down.**
 Hinweis zu den Problemen des HVZ eingefügt. Seit einigen Tagen gibt es da Probleme, welche eine Aktualisierung der Website teilweise verhindern. 
 
