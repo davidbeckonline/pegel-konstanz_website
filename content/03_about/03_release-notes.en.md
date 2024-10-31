@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-10-31: Re-added HVZ note.**
+New issues with HVZ.
+
 **2024-10-28: Notice removed.**
 Issue on HVZ seems to be resolved. Removed notice.
 
