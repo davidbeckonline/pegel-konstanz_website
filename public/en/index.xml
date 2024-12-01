@@ -3,7 +3,7 @@
   <channel>
     <title>Level of Lake Constance (Bodensee) :: Current and historical information on the level of Lake Constance</title>
     <link>http://localhost:8080/en/index.html</link>
-    <description>Info 2024-10-31 There have been problems with the website of the Baden-Württemberg Flood Forecast Center for a few days now. Since we get the data from this site, we are currently unable to update our site all the time. The problem is being addressed. And at the same time, we are working on a more stable setup.&#xA;Level of Lake Constance: ? ( ? ) The current level of Lake Constance (station Constance) is: ? cm. Corresponding ? cm compared to the average of the previous day.</description>
+    <description>Level of Lake Constance: ? ( ? ) The current level of Lake Constance (station Constance) is: ? cm. Corresponding ? cm compared to the average of the previous day.&#xA;The data was last updated on ? at ? .&#xA;Aktuelle Info (2024-12-01) On November 30th, two sailors drowned on Lake Constance. They were on their way to the Eiserne (Link to German news). I have therefore decided to turn the website black for a few days.</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>

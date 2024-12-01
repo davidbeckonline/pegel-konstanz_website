@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-01: Go Dark.**
+Weil zwei Segler auf dem Weg zur Eisernen ertrunken sind, haben wir uns entschieden die Website scharz zu gestalten.
+
 **2024-11-04: HVZ Notice entfernt.**
 HVZ Probleme scheinen behoben.
 

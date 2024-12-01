@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-01: Go Dark.**
+Because two sailors drowned on the way to the Iron One, we decided to turn the website dark.
+
 **2024-11-04: Removed HVZ notice.**
 Seems that the issue is resolved.
 

@@ -9,6 +9,10 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
 
+{{% notice style="grey" title="Aktuelle Info (2024-12-01)" icon="info" %}}
+On November 30th, two sailors drowned on Lake Constance. They were on their way to the Eiserne ([Link to German news](https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-segeln-im-winter-regatta-der-eisernen-auf-dem-bodensee-vor-konstanz-100.html)). I have therefore decided to turn the website black for a few days.
+{{% /notice %}}
+
 ## Development over the last 10 days
 
 This is how the level of the lake developed over the last ten days:

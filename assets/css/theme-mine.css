@@ -11,9 +11,9 @@ with rgba(12, 102, 140)
     --MAIN-TOPBAR-BORDER-color: rgba( 210, 210, 210, 1 ); /* border color between topbar and content */
     --MAIN-LINK-color: rgba( 12, 102, 140, 1 ); /* Color of links */
     --MAIN-LINK-HOVER-color: rgba( 12, 102, 140, 1 ); /* hoverd link color of content */
-    --MAIN-BG-color: rgba( 255, 255, 255, 1 ); /* background color of content */
-    --MAIN-TEXT-color: rgba( 0, 0, 0, 1 ); /* text color of content and h1 titles */
-    --MAIN-TITLES-TEXT-color: rgba( 16, 16, 16, 1 ); /* text color of h2-h6 titles and transparent box titles */
+    --MAIN-BG-color: rgba( 0, 0, 0, 1 ); /* background color of content */
+    --MAIN-TEXT-color: rgba( 255, 255, 255, 1 ); /* text color of content and h1 titles */
+    --MAIN-TITLES-TEXT-color: rgba( 255, 255, 255, 1 ); /* text color of h2-h6 titles and transparent box titles */
 
     --CODE-theme: relearn-light; /* name of the chroma stylesheet file */
     --CODE-BLOCK-color: rgba( 39, 40, 34, 1 ); /* fallback text color of block code; should be adjusted to your selected chroma style */
@@ -44,7 +44,7 @@ with rgba(12, 102, 140)
 
     --MENU-SECTIONS-BG-color: rgba( 134, 134, 134, .066 ); /* background of the menu; this is NOT just a color value but can be a complete CSS background definition including gradients, etc. */
     --MENU-SECTIONS-ACTIVE-BG-color: transparent; /* background color of the active menu section */
-    --MENU-SECTIONS-LINK-color: rgba( 16, 16, 16, 1 ); /* link color of menu topics */
+    --MENU-SECTIONS-LINK-color: rgba( 255, 255, 255, 1 ); /* link color of menu topics */
     --MENU-SECTIONS-LINK-HOVER-color: rgba(12, 102, 140, 1 ); /* hoverd link color of menu topics */
     --MENU-SECTION-ACTIVE-CATEGORY-color: rgba(12, 102, 140, 1 ); /* text color of the displayed menu topic */
     --MENU-SECTION-ACTIVE-CATEGORY-BG-color: rgba( 255, 255, 255, 1 ); /* background color of the displayed menu topic */
@@ -64,4 +64,3 @@ body #R-logo svg * {
     color: var(--MENU-HOME-LINK-color);
     fill: var(--MENU-HOME-LINK-color) !important;
 }
-

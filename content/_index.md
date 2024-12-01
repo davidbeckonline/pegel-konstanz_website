@@ -9,6 +9,9 @@ Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id=website
 
 Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <span id=website_mostrecent_time> ? </span> aktualisiert.
 
+{{% notice style="grey" title="Aktuelle Info (2024-12-01)" icon="info" %}}
+Am 30. November sind zwei Segler auf dem Bodensee ertrunken. Die beiden waren auf dem Weg zur Eisernen ([Link zur Tagesschau](https://www.tagesschau.de/inland/regional/badenwuerttemberg/swr-segeln-im-winter-regatta-der-eisernen-auf-dem-bodensee-vor-konstanz-100.html)). Ich habe mich deshalb entschieden die Website für ein paar Tage schwarz zu färben.
+{{% /notice %}}
 
 ## 10-Tage Trend
 
