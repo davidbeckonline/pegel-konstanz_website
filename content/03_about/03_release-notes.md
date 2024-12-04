@@ -7,6 +7,10 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-04: Go Light.**
+Website wieder im custom Light mode.
+Notice entfernt.
+
 **2024-12-01: Go Dark.**
 Weil zwei Segler auf dem Weg zur Eisernen ertrunken sind, haben wir uns entschieden die Website scharz zu gestalten.
 

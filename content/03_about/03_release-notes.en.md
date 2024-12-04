@@ -7,6 +7,10 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-04: Go Light.**
+Website back to custom Light mode.
+Notice removed.
+
 **2024-12-01: Go Dark.**
 Because two sailors drowned on the way to the Iron One, we decided to turn the website dark.
 
