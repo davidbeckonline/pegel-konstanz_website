@@ -13,7 +13,7 @@ The data was last updated on <span id=website_mostrecent_date> ? </span> at <spa
 
 This is how the level of the lake developed over the last ten days:
 
-![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/current_EN.png)
+![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
 
 
 ## Forecast
