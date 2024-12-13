@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-13: Transition to API and Seaborn for "current" graph.**
+Die Grafik mit dem Stand der letzten 10 Tage wurde auf API basierte Daten umgestellt. Dadurch sind die Daten jetzt Millimeter genau. Zudem wurde die Grafik auf Seaborn umgestellt, um einen etwas moderneres Aussehen zu erreichen.
+
 **2024-12-04: Go Light.**
 Website wieder im custom Light mode.
 Notice entfernt.

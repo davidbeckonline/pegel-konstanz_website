@@ -13,7 +13,7 @@ Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <sp
 
 Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
-![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
+![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_DE.png)
 
 
 ## Vorhersage
