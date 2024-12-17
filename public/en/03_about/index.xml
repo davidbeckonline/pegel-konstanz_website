@@ -27,7 +27,7 @@
       <link>http://localhost:8080/en/03_about/03_release-notes/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/03_release-notes/index.html</guid>
-      <description>Release Notes 2024-12-04: Go Light. Website back to custom Light mode. Notice removed.&#xA;2024-12-01: Go Dark. Because two sailors drowned on the way to the Iron One, we decided to turn the website dark.&#xA;2024-11-04: Removed HVZ notice. Seems that the issue is resolved.&#xA;2024-10-31: Re-added HVZ note. New issues with HVZ.&#xA;2024-10-28: Notice removed. Issue on HVZ seems to be resolved. Removed notice.&#xA;2024-10-28: Notice - HVZ down. Added info that the website cannot refresh right now due to problems on the source website of HWZ.</description>
+      <description>Release Notes 2024-12-13: Transition to API and Seaborn for “current” graph. The graph showing the status of the last 10 days has been switched to API-based data. This means that the data is now accurate to the millimeter. The graph has also been switched to Seaborn to achieve a more modern look.&#xA;2024-12-04: Go Light. Website back to custom Light mode. Notice removed.&#xA;2024-12-01: Go Dark. Because two sailors drowned on the way to the Iron One, we decided to turn the website dark.</description>
     </item>
     <item>
       <title>Contact and Imprint</title>

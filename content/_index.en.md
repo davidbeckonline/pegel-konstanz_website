@@ -3,11 +3,11 @@ archetype = "home"
 title = "Level of Lake Constance (Bodensee)"
 +++
 
-<h2>Level of Lake Constance: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
+<h2>Level of Lake Constance: <span id=website_api_api_current_level_head> ? </span> (<span id=website_api_change_vs_yesterday_head> ? </span>) </h2>
 
-The current level of Lake Constance (station Constance) is: <b><span id=website_current_level> ? </span></b> cm. Corresponding <b><span id=website_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day.
+The current level of Lake Constance (station Constance) is: <b><span id=website_api_current_level> ? </span></b> cm. Corresponding <b><span id=website_api_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day.
 
-The data was last updated on <span id=website_mostrecent_date> ? </span> at <span id=website_mostrecent_time> ? </span>.
+The data was last updated on <span id=website_api_mostrecent_date> ? </span> at <span id=website_api_mostrecent_time> ? </span>.
 
 ## Development over the last 10 days
 
@@ -15,6 +15,10 @@ This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
 
+* Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
+* Change 24h: <b><span id=website_api_change_24h> ? </span></b> cm
+* Change 72h: <b><span id=website_api_change_72h> ? </span></b> cm
+* Change 10d: <b><span id=website_api_change_10d> ? </span></b> cm
 
 ## Forecast
 
@@ -42,12 +46,12 @@ The annual cycle in comparison to historical values.
 
 ## Clearance Height for Bridges
 
-With a current level of <span id=website_current_level_bridge> ? </span> cm, the clearence height in Constance (Konstanz) is
+With a current level of <span id=website_api_current_level_bridge> ? </span> cm, the clearence height in Constance (Konstanz) is
 
 <ul>
-  <li>Left: <b><span id=website_bridge_kn_left> ? </span></b> cm</li>
-  <li>Center: <b><span id=website_bridge_kn_center> ? </span></b> cm</li>
-  <li>Right: <b><span id=website_bridge_kn_right> ? </span></b> cm</li>
+  <li>Left: <b><span id=website_api_bridge_kn_left> ? </span></b> cm</li>
+  <li>Center: <b><span id=website_api_bridge_kn_center> ? </span></b> cm</li>
+  <li>Right: <b><span id=website_api_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
 
