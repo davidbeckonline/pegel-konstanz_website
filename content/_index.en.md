@@ -15,10 +15,13 @@ This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
 
-* Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
-* Change 24h: <b><span id=website_api_change_24h> ? </span></b> cm
-* Change 72h: <b><span id=website_api_change_72h> ? </span></b> cm
-* Change 10d: <b><span id=website_api_change_10d> ? </span></b> cm
+Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
+
+Change *24h:* <b><span id=website_api_change_24h> ? </span></b> cm
+
+Change *72h:* <b><span id=website_api_change_72h> ? </span></b> cm
+
+Change *10d:* <b><span id=website_api_change_10d> ? </span></b> cm
 
 ## Forecast
 

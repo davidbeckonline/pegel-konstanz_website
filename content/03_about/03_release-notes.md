@@ -7,8 +7,11 @@ weight = 3
 
 ## Release Notes
 
-**2024-12-13: Transition to API and Seaborn for "current" graph.**
-Die Grafik mit dem Stand der letzten 10 Tage wurde auf API basierte Daten umgestellt. Dadurch sind die Daten jetzt Millimeter genau. Zudem wurde die Grafik auf Seaborn umgestellt, um einen etwas moderneres Aussehen zu erreichen.
+**2024-12-17: Umstellung auf API Date basiertes JSON.**
+DE und EN auf API basiertes JSON umgestellt. Dadurch stehen jetzt mehr Werte (z.B. Veränderung 24h) zur Verfügung.
+
+**2024-12-13: Umstellung auf API und Seaborn für "current" Darstellung.**
+Die Grafik mit dem Stand der letzten 10 Tage wurde auf API basierte Daten umgestellt (Englische Seite zunächst). Dadurch sind die Daten jetzt Millimeter genau. Zudem wurde die Grafik auf Seaborn umgestellt, um einen etwas moderneres Aussehen zu erreichen.
 
 **2024-12-04: Go Light.**
 Website wieder im custom Light mode.

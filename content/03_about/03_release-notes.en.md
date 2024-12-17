@@ -7,8 +7,11 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-17: Update to JSON with API data.**
+DE and EN transitioned to JSON based on API data. With that, we can provide new metrics (e.g. change last 24h).
+
 **2024-12-13: Transition to API and Seaborn for "current" graph.**
-The graph showing the status of the last 10 days has been switched to API-based data. This means that the data is now accurate to the millimeter. The graph has also been switched to Seaborn to achieve a more modern look.
+The graph showing the status of the last 10 days has been switched to API-based data (English version only for testing). This means that the data is now accurate to the millimeter. The graph has also been switched to Seaborn to achieve a more modern look.
 
 **2024-12-04: Go Light.**
 Website back to custom Light mode.
