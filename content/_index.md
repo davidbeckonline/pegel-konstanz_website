@@ -1,13 +1,13 @@
 +++
-archetype = "Home "
+archetype = "Home"
 title = "Pegel Konstanz (Bodensee)"
 +++
 
-<h2>Pegel Konstanz: <span id=website_current_level_head> ? </span> (<span id=website_change_vs_yesterday_head> ? </span>) </h2>
+<h2>Pegel Konstanz: <span id=website_api_current_level_head> ? </span> (<span id=website_api_change_vs_yesterday_head> ? </span>) </h2>
 
-Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id=website_current_level> ? </span></b> cm. Das entspricht <b><span id=website_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswertes des Vortages.
+Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id=website_api_current_level> ? </span></b> cm. Das entspricht <b><span id=website_api_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswertes des Vortages.
 
-Diese Daten wurden zuletzt am <span id=website_mostrecent_date> ? </span> um <span id=website_mostrecent_time> ? </span> aktualisiert.
+Diese Daten wurden zuletzt am <span id=website_api_mostrecent_date> ? </span> um <span id=website_api_mostrecent_time> ? </span> aktualisiert.
 
 ## 10-Tage Trend
 
@@ -32,15 +32,15 @@ Der Jahresverlauf im Vergleich zu historischen Werten.
 
 ## Durchfahrtshöhe Brücken
 
-Mit einem aktuellen Pegel von <span id=website_current_level_bridge> ? </span> cm betägt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
+Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge> ? </span> cm betägt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
 
 <ul>
-  <li><b>Links: <span id=website_bridge_kn_left> ? </span></b> cm</li>
-  <li><b>Mitte: <span id=website_bridge_kn_center> ? </span></b> cm</li>
-  <li><b>Rechts: <span id=website_bridge_kn_right> ? </span></b> cm</li>
+  <li><b>Links: <span id=website_api_bridge_kn_left> ? </span></b> cm</li>
+  <li><b>Mitte: <span id=website_api_bridge_kn_center> ? </span></b> cm</li>
+  <li><b>Rechts: <span id=website_api_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
-{{< read_current_json >}}
+{{< read_api_current_json >}} 
 
 <style>
     span a[rel="me"] {
