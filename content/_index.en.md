@@ -55,4 +55,4 @@ With a current level of <span id=website_api_current_level_bridge> ? </span> cm,
 </ul>
 
 
-{{< read_current_json >}} 
+{{< read_api_current_json >}} 
