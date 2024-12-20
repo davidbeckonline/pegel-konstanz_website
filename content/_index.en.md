@@ -15,6 +15,10 @@ The data was last updated on <span id=website_api_mostrecent_date> ? </span> at 
 
 ## Development over the last 10 days
 
+This is how the level of the lake developed over the last ten days:
+
+![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
+
 Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
 
 Change **24h**: <b><span id=website_api_change_24h> ? </span></b> cm
@@ -22,10 +26,6 @@ Change **24h**: <b><span id=website_api_change_24h> ? </span></b> cm
 Change **72h**: <b><span id=website_api_change_72h> ? </span></b> cm
 
 Change **10d**: <b><span id=website_api_change_10d> ? </span></b> cm
-
-This is how the level of the lake developed over the last ten days:
-
-![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
 
 ## Forecast
 
@@ -45,8 +45,7 @@ As this graph is only available in German, we add an English translation here:
 
 The annual cycle in comparison to historical values.
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
-
+![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/api/longterm/longterm_EN.png)
 
 ## Clearance Height for Bridges
 
