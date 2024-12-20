@@ -11,6 +11,14 @@ Diese Daten wurden zuletzt am <span id=website_api_mostrecent_date> ? </span> um
 
 ## 10-Tage Trend
 
+Aktueller Messwert: <b><span id=website_api_current_level_d1> ? </span></b> cm
+
+Veränderung **24h:** <b><span id=website_api_change_24h> ? </span></b> cm
+
+Veränderung **72h:** <b><span id=website_api_change_72h> ? </span></b> cm
+
+Veränderung **10d:** <b><span id=website_api_change_10d> ? </span></b> cm
+
 Die Entwicklung der letzten zehn Tage ist hier dargestellt:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
@@ -40,7 +48,7 @@ Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge> ? </spa
   <li><b>Rechts: <span id=website_api_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
-{{< read_api_current_json >}} 
+{{< read_api_current_json >}}
 
 <style>
     span a[rel="me"] {

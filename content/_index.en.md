@@ -9,19 +9,23 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated on <span id=website_api_mostrecent_date> ? </span> at <span id=website_api_mostrecent_time> ? </span>.
 
+ {{% notice style="info" title="Inconsistencies (2024-12-19)" icon="info" %}}
+ We are using the English variant to test some updates for 2025. So, you are getting a glimpse into the future right now. Going along with that, you might see some inconsistencies. We try to resolve this as part of our testing.
+ {{% /notice %}}
+
 ## Development over the last 10 days
+
+Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
+
+Change **24h**: <b><span id=website_api_change_24h> ? </span></b> cm
+
+Change **72h**: <b><span id=website_api_change_72h> ? </span></b> cm
+
+Change **10d**: <b><span id=website_api_change_10d> ? </span></b> cm
 
 This is how the level of the lake developed over the last ten days:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/en/current_EN.png)
-
-Current Value: <b><span id=website_api_current_level_d1> ? </span></b> cm
-
-Change *24h:* <b><span id=website_api_change_24h> ? </span></b> cm
-
-Change *72h:* <b><span id=website_api_change_72h> ? </span></b> cm
-
-Change *10d:* <b><span id=website_api_change_10d> ? </span></b> cm
 
 ## Forecast
 
@@ -29,22 +33,19 @@ The forecast below is a direct copy from the [website of the Landesanstalt für 
 
 As this graph is only available in German, we add an English translation here:
 
+![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
+
 **Legend:**
 * <span style="color:blue">Blue Line </span> = Measured water level of Lake Constance
 * <span style="color:red">Red Line</span> = Forecast
 * <span style="background-color: #FFFF00">Yellow Area</span> = Range of Estimation
 * Black Line = Scenario: No Precipitation for the next ten Days
 
-![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
-
-
-
 ## Annual Cycle
 
 The annual cycle in comparison to historical values.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/EN/longterm_EN.png)
-
 
 
 ## Clearance Height for Bridges
