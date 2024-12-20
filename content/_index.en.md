@@ -9,10 +9,6 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated on <span id=website_api_mostrecent_date> ? </span> at <span id=website_api_mostrecent_time> ? </span>.
 
- {{% notice style="info" title="Inconsistencies (2024-12-19)" icon="info" %}}
- We are using the English variant to test some updates for 2025. So, you are getting a glimpse into the future right now. Going along with that, you might see some inconsistencies. We try to resolve this as part of our testing.
- {{% /notice %}}
-
 ## Development over the last 10 days
 
 This is how the level of the lake developed over the last ten days:

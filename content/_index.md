@@ -13,7 +13,7 @@ Diese Daten wurden zuletzt am <span id=website_api_mostrecent_date> ? </span> um
 
 Die Entwicklung der letzten zehn Tage:
 
-![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/current_DE.png)
+![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/api/de/current_DE.png)
 
 Aktueller Messwert: <b><span id=website_api_current_level_d1> ? </span></b> cm
 
@@ -34,7 +34,7 @@ Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für 
 
 Der Jahresverlauf im Vergleich zu historischen Werten.
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/DE/longterm_DE.png)
+![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/api/longterm/longterm_DE.png)
 
 
 ## Durchfahrtshöhe Brücken
