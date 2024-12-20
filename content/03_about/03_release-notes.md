@@ -7,6 +7,10 @@ weight = 3
 
 ## Release Notes
 
+
+**2024-12-20: Umstellung auf API Daten und Seaborn.**
+Komplette Umstellung auf API Daten und Seaborn - auch für die DE Seite.
+
 **2024-12-17: Umstellung auf API Date basiertes JSON.**
 DE und EN auf API basiertes JSON umgestellt. Dadurch stehen jetzt mehr Werte (z.B. Veränderung 24h) zur Verfügung.
 

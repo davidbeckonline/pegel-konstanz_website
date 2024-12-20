@@ -7,6 +7,9 @@ weight = 3
 
 ## Release Notes
 
+**2024-12-20: Full transition to API based data and Seaborn graphics.**
+Complete transition to API data and updated graphics based on Seaborn.
+
 **2024-12-17: Update to JSON with API data.**
 DE and EN transitioned to JSON based on API data. With that, we can provide new metrics (e.g. change last 24h).
 
