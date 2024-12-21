@@ -27,7 +27,7 @@
       <link>http://localhost:8080/en/03_about/03_release-notes/index.html</link>
       <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/en/03_about/03_release-notes/index.html</guid>
-      <description>Release Notes 2024-12-17: Update to JSON with API data. DE and EN transitioned to JSON based on API data. With that, we can provide new metrics (e.g. change last 24h).&#xA;2024-12-13: Transition to API and Seaborn for “current” graph. The graph showing the status of the last 10 days has been switched to API-based data (English version only for testing). This means that the data is now accurate to the millimeter. The graph has also been switched to Seaborn to achieve a more modern look.</description>
+      <description>Release Notes 2024-12-20: Full transition to API based data and Seaborn graphics. Complete transition to API data and updated graphics based on Seaborn.&#xA;2024-12-17: Update to JSON with API data. DE and EN transitioned to JSON based on API data. With that, we can provide new metrics (e.g. change last 24h).&#xA;2024-12-13: Transition to API and Seaborn for “current” graph. The graph showing the status of the last 10 days has been switched to API-based data (English version only for testing). This means that the data is now accurate to the millimeter. The graph has also been switched to Seaborn to achieve a more modern look.</description>
     </item>
     <item>
       <title>Contact and Imprint</title>

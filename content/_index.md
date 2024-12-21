@@ -7,7 +7,7 @@ title = "Pegel Konstanz (Bodensee)"
 
 Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id=website_api_current_level> ? </span></b> cm. Das entspricht <b><span id=website_api_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswertes des Vortages.
 
-Diese Daten wurden zuletzt am <span id=website_api_mostrecent_date> ? </span> um <span id=website_api_mostrecent_time> ? </span> aktualisiert.
+Diese Daten wurden zuletzt um <span id=website_api_mostrecent_time> ? </span> aktualisiert (<span id=website_api_mostrecent_date> ? </span>).
 
 ## 10-Tage Trend
 
