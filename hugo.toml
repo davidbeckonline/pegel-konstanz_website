@@ -5,8 +5,11 @@ baseURL = "https://pegel-konstanz.de/"
 title = "Pegel Konstanz - Bodensee"
 description = "Aktuelle und historische Informationen zum Pegel des Bodensees"
 
-# English is the default language
+# German is the default language
 defaultContentLanguage = "de"
+
+# create robots.txt
+enableRobotsTXT = true
 
 [languages]
 [languages.de]
@@ -48,3 +51,4 @@ weight = 30
   themeVariant = ["mine"]
   
   disableSearch = true
+
