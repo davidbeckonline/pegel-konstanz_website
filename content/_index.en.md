@@ -7,9 +7,7 @@ title = "Level of Lake Constance (Bodensee)"
 
 The current level of Lake Constance (station Constance) is: <b><span id=website_api_current_level> ? </span></b> cm. Corresponding <b><span id=website_api_change_vs_yesterday> ? </span></b> cm compared to the average of the previous day.
 
-The data was last updated at <span id=website_api_mostrecent_time> ? </span> (<span id=website_api_mostrecent_date> ? </span>).
-
-The data was last updated on <span id=website_api_mostrecent_date> ? </span> at <span id=website_api_mostrecent_time> ? </span>.
+The data was last updated at <b><span id=website_api_mostrecent_time> ? </span></b> CET/CEST on <span id=website_api_mostrecent_date> ? </span>.
 
 ## Development over the last 10 days
 

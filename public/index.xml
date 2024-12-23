@@ -3,7 +3,7 @@
   <channel>
     <title>Pegel Konstanz (Bodensee) :: Aktuelle und historische Informationen zum Pegel des Bodensees</title>
     <link>http://localhost:8080/index.html</link>
-    <description>Pegel Konstanz: ? ( ? ) Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt ? cm. Das entspricht ? cm gegenüber des Durchschnittswertes des Vortages.&#xA;Diese Daten wurden zuletzt um ? aktualisiert ( ? ).&#xA;10-Tage Trend Die Entwicklung der letzten zehn Tage:&#xA;Aktueller Messwert: ? cm</description>
+    <description>Pegel Konstanz: ? ( ? ) Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt ? cm. Das entspricht ? cm gegenüber des Durchschnittswertes des Vortages.&#xA;Diese Daten wurden zuletzt um ? Uhr aktualisiert ( ? ).&#xA;10-Tage Trend Die Entwicklung der letzten zehn Tage:</description>
     <generator>Hugo</generator>
     <language>de</language>
     <lastBuildDate>Sun, 09 Jun 2024 21:26:41 +0000</lastBuildDate>
