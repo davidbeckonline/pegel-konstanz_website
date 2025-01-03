@@ -6,7 +6,7 @@
     <description>Und hier findet sich “About” Info, wie beispielsweise das Impressum, Kontaktdaten, usw. Und ich will auch ein etwas über die Hintergründe dieser Website sprechen.&#xA;Warum Techische Umsetzung Release Notes Kontakt und Impressum Logo Das Wichtigste vorab:&#xA;Bitte beachten Alle Angaben ohne Gewähr.&#xA;Ich versuche hier eine verlässliche und hilfreiche Website aufzubauen. Aber am Ende des Tages ist es ein Hobby. Alle Angaben sind deshalb ohne Gewähr.</description>
     <generator>Hugo</generator>
     <language>de</language>
-    <lastBuildDate>Tue, 16 Jan 2024 15:26:41 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 31 Dec 2024 15:26:41 +0000</lastBuildDate>
     <atom:link href="http://localhost:8080/03_about/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Warum</title>
@@ -25,9 +25,9 @@
     <item>
       <title>Release Notes</title>
       <link>http://localhost:8080/03_about/03_release-notes/index.html</link>
-      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <pubDate>Tue, 31 Dec 2024 15:26:41 +0000</pubDate>
       <guid>http://localhost:8080/03_about/03_release-notes/index.html</guid>
-      <description>Release Notes 2024-12-20: Umstellung auf API Daten und Seaborn. Komplette Umstellung auf API Daten und Seaborn - auch für die DE Seite.&#xA;2024-12-17: Umstellung auf API Date basiertes JSON. DE und EN auf API basiertes JSON umgestellt. Dadurch stehen jetzt mehr Werte (z.B. Veränderung 24h) zur Verfügung.&#xA;2024-12-13: Umstellung auf API und Seaborn für “current” Darstellung. Die Grafik mit dem Stand der letzten 10 Tage wurde auf API basierte Daten umgestellt (Englische Seite zunächst). Dadurch sind die Daten jetzt Millimeter genau. Zudem wurde die Grafik auf Seaborn umgestellt, um einen etwas moderneres Aussehen zu erreichen.</description>
+      <description>Release Notes 2024-12-31: Historische Daten um 2024 ergänzt. Der vorläufige Jahresverlauf für 2024 wurde ergänzt.&#xA;2024-12-20: Umstellung auf API Daten und Seaborn. Komplette Umstellung auf API Daten und Seaborn - auch für die DE Seite.&#xA;2024-12-17: Umstellung auf API Date basiertes JSON. DE und EN auf API basiertes JSON umgestellt. Dadurch stehen jetzt mehr Werte (z.B. Veränderung 24h) zur Verfügung.&#xA;2024-12-13: Umstellung auf API und Seaborn für “current” Darstellung. Die Grafik mit dem Stand der letzten 10 Tage wurde auf API basierte Daten umgestellt (Englische Seite zunächst). Dadurch sind die Daten jetzt Millimeter genau. Zudem wurde die Grafik auf Seaborn umgestellt, um einen etwas moderneres Aussehen zu erreichen.</description>
     </item>
     <item>
       <title>Kontakt und Impressum</title>

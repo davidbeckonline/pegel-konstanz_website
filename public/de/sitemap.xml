@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://localhost:8080/01_historische_daten/index.html</loc>
-    <lastmod>2024-01-16T15:26:41+00:00</lastmod>
+    <lastmod>2024-12-31T15:26:41+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/01_historische_daten/index.html" />
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/01_historische_daten/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/01_historische_daten/index.html" />
@@ -30,14 +30,14 @@
   </url>
   <url>
     <loc>http://localhost:8080/03_about/index.html</loc>
-    <lastmod>2024-01-16T15:26:41+00:00</lastmod>
+    <lastmod>2024-12-31T15:26:41+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/03_about/index.html" />
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/03_about/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/03_about/index.html" />
   </url>
   <url>
     <loc>http://localhost:8080/03_about/03_release-notes/index.html</loc>
-    <lastmod>2024-01-16T15:26:41+00:00</lastmod>
+    <lastmod>2024-12-31T15:26:41+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/03_about/03_release-notes/index.html" />
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/03_about/03_release-notes/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/03_about/03_release-notes/index.html" />
@@ -51,7 +51,7 @@
   </url>
   <url>
     <loc>http://localhost:8080/01_historische_daten/2020-2023/index.html</loc>
-    <lastmod>2024-01-16T15:26:41+00:00</lastmod>
+    <lastmod>2024-12-31T15:26:41+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/01_historische_daten/2020-2023/index.html" />
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/01_historische_daten/2020-2023/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/01_historische_daten/2020-2023/index.html" />
@@ -197,18 +197,18 @@
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/01_historische_daten/1888-1889/index.html" />
   </url>
   <url>
+    <loc>http://localhost:8080/index.html</loc>
+    <lastmod>2024-12-31T15:26:41+00:00</lastmod>
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/index.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/index.html" />
+  </url>
+  <url>
     <loc>http://localhost:8080/02_analysis/02_02_individual/index.html</loc>
     <lastmod>2024-06-09T21:26:41+00:00</lastmod>
     <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/02_analysis/02_02_individual/index.html" />
     <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/02_analysis/02_02_individual/index.html" />
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/02_analysis/02_02_individual/index.html" />
-  </url>
-  <url>
-    <loc>http://localhost:8080/index.html</loc>
-    <lastmod>2024-06-09T21:26:41+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/index.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/index.html" />
   </url>
   <url>
     <loc>http://localhost:8080/02_analysis/02_01_basics/index.html</loc>

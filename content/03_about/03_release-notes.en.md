@@ -1,11 +1,14 @@
 +++
 title = 'Release Notes'
-date = 2024-01-16T15:26:41Z
+date = 2024-12-31T15:26:41Z
 draft = false
 weight = 3
 +++
 
 ## Release Notes
+
+**2024-12-20: Added 2024 longterm view to historic data.**
+Added the longterm view for 2024 to the historical data.
 
 **2024-12-20: Full transition to API based data and Seaborn graphics.**
 Complete transition to API data and updated graphics based on Seaborn.

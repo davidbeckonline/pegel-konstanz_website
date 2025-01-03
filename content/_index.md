@@ -30,7 +30,7 @@ Die Vorhersage an dieser Stelle stammt von der [Webseite der Landesanstalt für 
 ![forecast_level_lake_constance](https://www.hvz.baden-wuerttemberg.de/gifs/00007-2001.GIF)
 
 
-## Jahresverlauf 2024
+## Jahresverlauf
 
 Der Jahresverlauf im Vergleich zu historischen Werten.
 
