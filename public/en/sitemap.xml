@@ -50,11 +50,11 @@
     <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/03_about/04_contact-imprint/index.html" />
   </url>
   <url>
-    <loc>http://localhost:8080/en/01_historische_daten/2020-2023/index.html</loc>
+    <loc>http://localhost:8080/en/01_historische_daten/2020-2024/index.html</loc>
     <lastmod>2024-12-31T15:26:41+00:00</lastmod>
-    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/01_historische_daten/2020-2023/index.html" />
-    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/01_historische_daten/2020-2023/index.html" />
-    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/01_historische_daten/2020-2023/index.html" />
+    <xhtml:link rel="alternate" hreflang="x-default" href="http://localhost:8080/01_historische_daten/2020-2024/index.html" />
+    <xhtml:link rel="alternate" hreflang="de" href="http://localhost:8080/01_historische_daten/2020-2024/index.html" />
+    <xhtml:link rel="alternate" hreflang="en" href="http://localhost:8080/en/01_historische_daten/2020-2024/index.html" />
   </url>
   <url>
     <loc>http://localhost:8080/en/02_analysis/02_02_individual/high_water_2023/index.html</loc>
