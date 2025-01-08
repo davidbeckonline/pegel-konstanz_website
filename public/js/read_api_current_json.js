@@ -1,6 +1,6 @@
 async function loadapiPegel() {
   try {
-    const response = await fetch("https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/api/json/currentdata.json");
+    const response = await fetch("https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/json/currentdata.json");
     
     if (!response.ok) {
       throw new Error(`HTTP error! Status: ${response.status}`);
