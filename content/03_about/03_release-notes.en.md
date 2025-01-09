@@ -7,6 +7,14 @@ weight = 3
 
 ## Release Notes
 
+### 2025
+
+**2025-01-09: Transition to GitHub.**
+Das Repository for this website was transitioned from AWS CodeCommit to GitHub. You can find the repository here:
+https://github.com/davidbeckonline/pegel-konstanz_website
+
+### 2024
+
 **2024-12-20: Added 2024 longterm view to historic data.**
 Added the longterm view for 2024 to the historical data.
 
