@@ -13,7 +13,7 @@ weight = 3
 Das Repository für diese Website wurde von AWS CodeCommit auf GitHub umgezogen:
 https://github.com/davidbeckonline/pegel-konstanz_website
 
-### 2023
+### 2024
 
 **2024-12-31: Historische Daten um 2024 ergänzt.**
 Der vorläufige Jahresverlauf für 2024 wurde ergänzt.
