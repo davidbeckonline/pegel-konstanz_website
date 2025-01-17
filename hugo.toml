@@ -9,7 +9,7 @@ description = "Aktuelle und historische Informationen zum Pegel des Bodensees"
 defaultContentLanguage = "de"
 
 # create robots.txt
-enableRobotsTXT = true
+enableRobotsTXT = false
 
 [languages]
 [languages.de]
