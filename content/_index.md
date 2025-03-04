@@ -39,7 +39,7 @@ Der Jahresverlauf im Vergleich zu historischen Werten.
 
 ## Durchfahrtshöhe Brücken
 
-Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge> ? </span> cm betägt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
+Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge> ? </span> cm beträgt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
 
 <ul>
   <li><b>Links: <span id=website_api_bridge_kn_left> ? </span></b> cm</li>
