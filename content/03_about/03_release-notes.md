@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-03-06: Update der Diagramme der historischen Daten.**
+Die Liniendiagramme für die Jahre 1888 - 2024 wurden überarbeitet und aktualisiert. Die Jahre 1888 bis einschließlich 2024 werden jetzt für die langjärige Referenz berücksichtig.
+
 **2025-01-09: Wechsel auf GitHub.**
 Das Repository für diese Website wurde von AWS CodeCommit auf GitHub umgezogen:
 https://github.com/davidbeckonline/pegel-konstanz_website
