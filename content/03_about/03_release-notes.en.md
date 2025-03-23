@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-03-23: Historical values ​​added per year.**
+First test with the addition of the maximum and minimum values ​​plus the date per year in the historical data.
+
 **2025-03-06: Update of the historical data charts.**
 The line charts for the years 1888 - 2024 have been revised and updated. The years 1888 up to and including 2024 are now taken into account for the long-term reference.
 

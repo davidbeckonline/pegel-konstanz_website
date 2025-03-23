@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-03-23: Ergänzung der historischen Werte pro Jahr.**
+Erster Test mit einer Ergänzung von Max und Min Wert plus Datum pro Jahr in den historischen Daten.
+
 **2025-03-06: Update der Diagramme der historischen Daten.**
 Die Liniendiagramme für die Jahre 1888 - 2024 wurden überarbeitet und aktualisiert. Die Jahre 1888 bis einschließlich 2024 werden jetzt für die langjärige Referenz berücksichtig.
 
