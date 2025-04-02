@@ -9,6 +9,10 @@ weight = 3
 
 ### 2025
 
+**2025-04-02: Added additional info to historic data and added a note about year 1972.**
+We added max, min, and record information for every year in the historic data section.
+Furthermore, we added a note highlighting year 1972 with a record low.
+
 **2025-03-23: Historical values ​​added per year.**
 First test with the addition of the maximum and minimum values ​​plus the date per year in the historical data.
 

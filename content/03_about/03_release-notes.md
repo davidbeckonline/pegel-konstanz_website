@@ -9,6 +9,10 @@ weight = 3
 
 ### 2025
 
+**2025-04-02: Historische Daten überarbeitet und Notiz für 1972 eingefügt.**
+Die historischen Daten aller Jahre wurden um Max, Min und Rekordwerte erweitert.
+Zudem wurde ein Hinweis auf das Jahr 1972 eingefügt, weil der Pegel damals deutlich niedriger war.
+
 **2025-03-23: Ergänzung der historischen Werte pro Jahr.**
 Erster Test mit einer Ergänzung von Max und Min Wert plus Datum pro Jahr in den historischen Daten.
 
