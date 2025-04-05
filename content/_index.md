@@ -11,7 +11,7 @@ Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time> ? </span>
 
 
 {{% notice style="info" title="Info 2025-04-05" icon="info" %}}
-Der Pegel des Bodensees ist gerade außergewöhlich niedrig. Der Negativrekord für Jahreszeit wurde im [Jahr 1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) aufgestellt.
+Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Der Negativrekord für diese Jahreszeit wurde im [Jahr 1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) aufgestellt.
 {{% /notice %}}
 
 ## 10-Tage Trend
