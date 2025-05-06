@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-05-06: Notiz zum Niedrigwasser entfernt.**
+Der Pegel ist weiterhin außergewöhnlich niedrig. Allerdings gibt es wieder zehn Jahre, zu denen der Pegel niedriger war. Somit haben wir die Notice dazu von der Startseite gelöscht.
+
 **2025-04-02: Historische Daten überarbeitet und Notiz für 1972 eingefügt.**
 Die historischen Daten aller Jahre wurden um Max, Min und Rekordwerte erweitert.
 Zudem wurde ein Hinweis auf das Jahr 1972 eingefügt, weil der Pegel damals deutlich niedriger war.

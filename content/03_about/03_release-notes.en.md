@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-05-06: Notice regarding low water levels removed.**
+The water level remains exceptionally low. However, there have been ten years in which the water level was lower. Therefore, we have removed the notice from the homepage.
+
 **2025-04-02: Added additional info to historic data and added a note about year 1972.**
 We added max, min, and record information for every year in the historic data section.
 Furthermore, we added a note highlighting year 1972 with a record low.
