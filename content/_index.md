@@ -7,7 +7,8 @@ title = "Pegel Konstanz (Bodensee)"
 
 Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="website_api_current_level">...</span></b> cm. Das entspricht <b><span id="website_api_change_vs_yesterday">...</span></b> cm gegenüber des Durchschnittswerts des Vortags.
 
-Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time> ... </span> </b> Uhr aktualisiert (<span id=website_api_mostrecent_date>...</span>).
+Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time> ... </span></b> Uhr aktualisiert (<span id=website_api_mostrecent_date>...</span>).
+
 
 ## 10-Tage Trend
 
@@ -42,9 +43,9 @@ Der Jahresverlauf im Vergleich zu historischen Werten.
 Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge>...</span> cm beträgt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
 
 <ul>
-  <li><b>Links: <span id=website_api_bridge_kn_left> ? </span> </b> cm</li>
-  <li><b>Mitte: <span id=website_api_bridge_kn_center> ? </span> </b> cm</li>
-  <li><b>Rechts: <span id=website_api_bridge_kn_right> ? </span> </b> cm</li>
+  <li><b>Links: <span id=website_api_bridge_kn_left> ? </span></b> cm</li>
+  <li><b>Mitte: <span id=website_api_bridge_kn_center> ? </span></b> cm</li>
+  <li><b>Rechts: <span id=website_api_bridge_kn_right> ? </span></b> cm</li>
 </ul>
 
 {{< read_api_current_json >}}
