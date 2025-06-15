@@ -13,7 +13,7 @@ async function loadapiPegel() {
     document.getElementById("website_api_mostrecent_time").innerText = konstante_data.mostrecent_time;
 
     // level info
-    document.getElementById("website_api_current_level").innerText = konstante_data.current_level + " ";
+    document.getElementById("website_api_current_level").innerText = konstante_data.current_level;
     document.getElementById("website_api_current_level_head").innerText = konstante_data.current_level + " ";
     document.getElementById("website_api_change_vs_yesterday").innerText = konstante_data.change_vs_yesterday + " ";
     document.getElementById("website_api_change_vs_yesterday_head").innerText = konstante_data.change_vs_yesterday + " ";
