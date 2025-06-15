@@ -14,21 +14,21 @@ async function loadapiPegel() {
 
     // level info
     document.getElementById("website_api_current_level").innerText = konstante_data.current_level;
-    document.getElementById("website_api_current_level_head").innerText = konstante_data.current_level + " ";
-    document.getElementById("website_api_change_vs_yesterday").innerText = konstante_data.change_vs_yesterday + " ";
-    document.getElementById("website_api_change_vs_yesterday_head").innerText = konstante_data.change_vs_yesterday + " ";
+    document.getElementById("website_api_current_level_head").innerText = konstante_data.current_level;
+    document.getElementById("website_api_change_vs_yesterday").innerText = konstante_data.change_vs_yesterday;
+    document.getElementById("website_api_change_vs_yesterday_head").innerText = konstante_data.change_vs_yesterday;
 
     // extended level info API
-    document.getElementById("website_api_current_level_d1").innerText = konstante_data.current_level_d1 + " ";
-    document.getElementById("website_api_change_24h").innerText = konstante_data.change_24h + " ";
-    document.getElementById("website_api_change_72h").innerText = konstante_data.change_72h + " ";
-    document.getElementById("website_api_change_10d").innerText = konstante_data.change_10d + " ";
+    document.getElementById("website_api_current_level_d1").innerText = konstante_data.current_level_d1;
+    document.getElementById("website_api_change_24h").innerText = konstante_data.change_24h;
+    document.getElementById("website_api_change_72h").innerText = konstante_data.change_72h;
+    document.getElementById("website_api_change_10d").innerText = konstante_data.change_10d;
 
     // bridge info
-    document.getElementById("website_api_current_level_bridge").innerText = konstante_data.current_level + " ";
-    document.getElementById("website_api_bridge_kn_left").innerText = konstante_data.bridge_kn_left + " ";;
-    document.getElementById("website_api_bridge_kn_center").innerText = konstante_data.bridge_kn_center + " ";;
-    document.getElementById("website_api_bridge_kn_right").innerText = konstante_data.bridge_kn_right + " ";;
+    document.getElementById("website_api_current_level_bridge").innerText = konstante_data.current_level;
+    document.getElementById("website_api_bridge_kn_left").innerText = konstante_data.bridge_kn_left;
+    document.getElementById("website_api_bridge_kn_center").innerText = konstante_data.bridge_kn_center;
+    document.getElementById("website_api_bridge_kn_right").innerText = konstante_data.bridge_kn_right;
 
   } catch (error) {
     console.error("Error loading Pegel:", error);
