@@ -3,11 +3,11 @@ archetype = "Home"
 title = "Pegel Konstanz (Bodensee)"
 +++
 
-<h2>Pegel Konstanz: <span id=website_api_current_level_head> ? </span>  (<span id=website_api_change_vs_yesterday_head> ? </span>) </h2>
+<h2>Pegel Konstanz: <span id="website_api_current_level_head">...</span> (<span id="website_api_change_vs_yesterday_head">...</span>)</h2>
 
-Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="website_api_current_level">?</span> </b>cm. Das entspricht <b><span id=website_api_change_vs_yesterday> ? </span></b> cm gegenüber des Durchschnittswerts des Vortags.
+Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="website_api_current_level">...</span></b> cm. Das entspricht <b><span id="website_api_change_vs_yesterday">...</span></b> cm gegenüber des Durchschnittswerts des Vortags.
 
-Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time> ? </span></b> Uhr aktualisiert (<span id=website_api_mostrecent_date> ? </span>).
+Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time> ... </span></b> Uhr aktualisiert (<span id=website_api_mostrecent_date>...</span>).
 
 ## 10-Tage Trend
 
@@ -15,13 +15,13 @@ Die Entwicklung der letzten zehn Tage:
 
 ![level_current](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/current/de/current_DE.png)
 
-Aktueller Messwert: <b><span id=website_api_current_level_d1> ? </span></b> cm
+Aktueller Messwert: <b><span id=website_api_current_level_d1>...</span> </b> cm
 
-Veränderung **24h:** <b><span id=website_api_change_24h> ? </span></b> cm
+Veränderung **24h:** <b><span id=website_api_change_24h>...</span> </b> cm
 
-Veränderung **72h:** <b><span id=website_api_change_72h> ? </span></b> cm
+Veränderung **72h:** <b><span id=website_api_change_72h>...</span> </b> cm
 
-Veränderung **10d:** <b><span id=website_api_change_10d> ? </span></b> cm
+Veränderung **10d:** <b><span id=website_api_change_10d>...</span> </b> cm
 
 ## Vorhersage
 
@@ -39,7 +39,7 @@ Der Jahresverlauf im Vergleich zu historischen Werten.
 
 ## Durchfahrtshöhe Brücken
 
-Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge> ? </span> cm beträgt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
+Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge>...</span> cm beträgt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)
 
 <ul>
   <li><b>Links: <span id=website_api_bridge_kn_left> ? </span></b> cm</li>
