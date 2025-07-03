@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-02: Notiz zum Niedrigwasser wieder hinzugefügt.**
+Der Pegel ist weiterhin außergewöhnlich niedrig. Da es nur noch drei Jahre gibt, in denen der Pegel niedriger war, haben wir die entsprechende Notiz wieder hinzugefügt.
+
 **2025-05-06: Notiz zum Niedrigwasser entfernt.**
 Der Pegel ist weiterhin außergewöhnlich niedrig. Allerdings gibt es wieder zehn Jahre, zu denen der Pegel niedriger war. Somit haben wir die Notice dazu von der Startseite gelöscht.
 

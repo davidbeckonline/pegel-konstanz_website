@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-02: Low Level note added back in again.**
+The water level remains exceptionally low. Only three years showed a lower level at this time of the year before. We therefore added the note back in again.
+
 **2025-05-06: Notice regarding low water levels removed.**
 The water level remains exceptionally low. However, there have been ten years in which the water level was lower. Therefore, we have removed the notice from the homepage.
 
