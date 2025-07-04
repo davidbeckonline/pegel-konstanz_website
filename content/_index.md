@@ -9,8 +9,8 @@ Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="websit
 
 Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time>...</span></b> Uhr aktualisiert (<span id=website_api_mostrecent_date>...</span>).
 
-{{% notice style="orange" title="Info 2025-07-03" icon="info" %}}
-Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 344 cm am 2. Juni 2025 gab es seit 1888 insgesamt vier Jahre (3,0%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (344 cm), [2005](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2005) (344 cm), [1996](https://www.pegel-konstanz.de/01_historische_daten/1990-1999/index.html#1996) (336 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (329 cm)
+{{% notice style="orange" title="Info 2025-07-04" icon="info" %}}
+Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 342 cm am 3. Juni 2025 gab es seit 1888 insgesamt vier Jahre (3,0%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [2005](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2005) (342 cm), [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (341 cm), [1996](https://www.pegel-konstanz.de/01_historische_daten/1990-1999/index.html#1996) (339 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (328 cm).
 {{% /notice %}}
 
 ## 10-Tage Trend
