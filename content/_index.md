@@ -7,7 +7,7 @@ title = "Pegel Konstanz (Bodensee)"
 
 Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="website_api_current_level">...</span></b> cm. Das entspricht <b><span id="website_api_change_vs_yesterday">...</span></b> cm gegenüber des Durchschnittswerts des Vortags.
 
-Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time>...</span></b> Uhr (MEZ) aktualisiert (<span id=website_api_mostrecent_date>...</span>).
+Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time>...</span></b> Uhr aktualisiert (MEZ, <span id=website_api_mostrecent_date>...</span>).
 
 {{% notice style="orange" title="Info 2025-07-05" icon="info" %}}
 Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 343 cm am 4. Juni 2025 gab es seit 1888 insgesamt vier Jahre (3,0%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [2005](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2005) (341 cm), [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (339 cm), [1996](https://www.pegel-konstanz.de/01_historische_daten/1990-1999/index.html#1996) (339 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (326 cm).
