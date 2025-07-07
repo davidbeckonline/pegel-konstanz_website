@@ -9,8 +9,8 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated at <b><span id=website_api_mostrecent_time>...</span></b> CET on <span id=website_api_mostrecent_date>...</span>.
 
-{{% notice style="orange" title="Info 2025-07-06" icon="info" %}}
-The level of Lake Constance is extraordinary low right now. Comparing the average level of 341 cm yesterday (07/05) to historic data, there were four years (2.2%) since 1888 during which the level was equal or lower that it is right now (in descending order): [1996](https://www.pegel-konstanz.de/en/01_historische_daten/1990-1999/index.html#1996) (339 cm), [1949](https://www.pegel-konstanz.de/en/01_historische_daten/1940-1949/index.html#1949) (336 cm), [1976](https://www.pegel-konstanz.de/en/01_historische_daten/1970-1979/index.html#1976) (325 cm).
+{{% notice style="orange" title="Info 2025-07-07" icon="info" %}}
+The level of Lake Constance is extraordinary low right now. Comparing the average level of 339 cm yesterday (07/06) to historic data, there were two years (1.5%) since 1888 during which the level was equal or lower that it is right now (in descending order): [1949](https://www.pegel-konstanz.de/en/01_historische_daten/1940-1949/index.html#1949) (335 cm), [1976](https://www.pegel-konstanz.de/en/01_historische_daten/1970-1979/index.html#1976) (324 cm).
 {{% /notice %}}
 
 ## Development over the last 10 days
