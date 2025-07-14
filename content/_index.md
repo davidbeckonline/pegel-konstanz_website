@@ -9,8 +9,8 @@ Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="websit
 
 Diese Daten wurden zuletzt um <b><span id=website_api_mostrecent_time>...</span></b> Uhr aktualisiert (MEZ, <span id=website_api_mostrecent_date>...</span>).
 
-{{% notice style="orange" title="Info 2025-07-13" icon="info" %}}
-Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 344 cm am 12. Juni 2025 gab es seit 1888 insgesamt sechs Jahre (4,5%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [2006](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2006) (343 cm), [1964](https://www.pegel-konstanz.de/01_historische_daten/1960-1969/index.html#1964) (340 cm), [2023](https://www.pegel-konstanz.de/01_historische_daten/2020-2029/index.html#2023) (340 cm), [2003](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2003) (335 cm), [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (325 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (320 cm).
+{{% notice style="orange" title="Info 2025-07-14" icon="info" %}}
+Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 343 cm am 13. Juni 2025 gab es seit 1888 insgesamt sechs Jahre (4,5%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [2023](https://www.pegel-konstanz.de/01_historische_daten/2020-2029/index.html#2023) (342 cm), [2006](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2006) (341 cm), [1964](https://www.pegel-konstanz.de/01_historische_daten/1960-1969/index.html#1964) (339 cm), [2003](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2003) (332 cm), [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (324 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (320 cm).
 {{% /notice %}}
 
 ## 10-Tage Trend
