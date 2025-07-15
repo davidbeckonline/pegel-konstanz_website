@@ -9,10 +9,6 @@ The current level of Lake Constance (station Constance) is: <b><span id=website_
 
 The data was last updated at <b><span id=website_api_mostrecent_time>...</span></b> CET on <span id=website_api_mostrecent_date>...</span>.
 
-{{% notice style="orange" title="Info 2025-07-14" icon="info" %}}
-The level of Lake Constance is extraordinary low right now. Comparing the average level of 343 cm yesterday (07/13) to historic data, there were six years (4.5%) since 1888 during which the level was equal or lower that it is right now (in descending order): [2023](https://www.pegel-konstanz.de/en/01_historische_daten/2020-2029/index.html#2023) (342 cm), [2006](https://www.pegel-konstanz.de/en/01_historische_daten/2000-2009/index.html#2006) (341 cm), [1964](https://www.pegel-konstanz.de/en/01_historische_daten/1960-1969/index.html#1964) (339 cm), [2003](https://www.pegel-konstanz.de/en/01_historische_daten/2000-2009/index.html#2003) (332 cm), [1949](https://www.pegel-konstanz.de/en/01_historische_daten/1940-1949/index.html#1949) (324 cm), [1976](https://www.pegel-konstanz.de/en/01_historische_daten/1970-1979/index.html#1976) (320 cm).
-{{% /notice %}}
-
 ## Development over the last 10 days
 
 This is how the level of the lake developed over the last ten days:
@@ -46,6 +42,10 @@ As this graph is only available in German, we add an English translation here:
 The annual cycle in comparison to historical values.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/en/longterm_EN.png)
+
+{{% notice style="orange" title="Info 2025-07-15" icon="info" %}}
+The level of Lake Constance is extraordinary low right now. Comparing the average level of 342 cm yesterday (07/14) to historic data, there were six years (4.5%) since 1888 during which the level was equal or lower that it is right now (in descending order): [2023](https://www.pegel-konstanz.de/en/01_historische_daten/2020-2029/index.html#2023) (342 cm), [2006](https://www.pegel-konstanz.de/en/01_historische_daten/2000-2009/index.html#2006) (340 cm), [1964](https://www.pegel-konstanz.de/en/01_historische_daten/1960-1969/index.html#1964) (337 cm), [2003](https://www.pegel-konstanz.de/en/01_historische_daten/2000-2009/index.html#2003) (329 cm), [1949](https://www.pegel-konstanz.de/en/01_historische_daten/1940-1949/index.html#1949) (322 cm), [1976](https://www.pegel-konstanz.de/en/01_historische_daten/1970-1979/index.html#1976) (321 cm).
+{{% /notice %}}
 
 ## Clearance Height for Bridges
 
