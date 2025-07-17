@@ -36,10 +36,6 @@ Der Jahresverlauf im Vergleich zu historischen Werten.
 
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png)
 
-{{% notice style="orange" title="Info 2025-07-16" icon="info" %}}
-Der Pegel des Bodensees ist gerade außergewöhnlich niedrig. Bezogen auf den durchschnittlichen Wasserstand von 340 cm am 15. Juni 2025 gab es seit 1888 insgesamt sechs Jahre (4,5%) in denen der Pegel den gleichen oder einen niedrigeren Wert erreicht hat (absteigend sortiert): [2023](https://www.pegel-konstanz.de/01_historische_daten/2020-2029/index.html#2023) (340 cm), [2006](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2006) (337 cm), [1964](https://www.pegel-konstanz.de/01_historische_daten/1960-1969/index.html#1964) (336 cm), [2003](https://www.pegel-konstanz.de/01_historische_daten/2000-2009/index.html#2003) (327 cm), [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) (321 cm), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) (320 cm).
-{{% /notice %}}
-
 ## Durchfahrtshöhe Brücken
 
 Mit einem aktuellen Pegel von <span id=website_api_current_level_bridge>...</span> cm beträgt die Durchfahrtshöhe an der Alten Rheinbrücke in Konstanz (flussabwärts)

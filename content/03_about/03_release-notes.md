@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-17: Niedrigwasser-Hinweis entfernt.**
+Der Pegel ist weiterhin niedrig, hat sich aber bei etwa sechs Jahren mit niedrigerem Pegel stabilisiert. Da wir gerade keine Zeit für die Aktualisierung hatten, haben wir den Hinweis entfernt. Geplant ist, eine automatisierte Seite für das Niedrigwasser 2025 zu erstellen.
+
 **2025-07-02: Notiz zum Niedrigwasser wieder hinzugefügt.**
 Der Pegel ist weiterhin außergewöhnlich niedrig. Da es nur noch drei Jahre gibt, in denen der Pegel niedriger war, haben wir die entsprechende Notiz wieder hinzugefügt.
 

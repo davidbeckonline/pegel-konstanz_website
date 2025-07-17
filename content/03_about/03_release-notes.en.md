@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-17: Removed low level notice.**
+The level of the lake is still low, but it stabilized at about six years with lower levels. Lacking time for the updates, we removed the notice. Plan is to create an automated page for this low level event in 2025.
+
 **2025-07-02: Low Level note added back in again.**
 The water level remains exceptionally low. Only three years showed a lower level at this time of the year before. We therefore added the note back in again.
 
