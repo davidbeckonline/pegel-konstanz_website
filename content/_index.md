@@ -3,6 +3,10 @@ archetype = "Home"
 title = "Pegel Konstanz (Bodensee)"
 +++
 
+{{% notice style="orange" title="Info 2025-07-25" icon="info" %}}
+Aktuell gibt es Probleme mit der Aktualisierung der Daten. Das Problem besteht seit Donnerstag, dem 24. Juli 2025 um etwa 22:00 Uhr. Die Ursache liegt in der Datenquelle des LUBW, soweit wir das aktuell sehen können.
+{{% /notice %}}
+
 <h2>Pegel Konstanz: <span id="website_api_current_level_head">...</span> (<span id="website_api_change_vs_yesterday_head">...</span>)</h2>
 
 Der aktuelle Pegel des Bodensees (Station Konstanz) beträgt <b><span id="website_api_current_level">...</span></b> cm. Das entspricht <b><span id="website_api_change_vs_yesterday">...</span></b> cm gegenüber des Durchschnittswerts des Vortags.

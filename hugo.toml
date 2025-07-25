@@ -36,7 +36,7 @@ url = "https://github.com/davidbeckonline/pegel-konstanz"
 weight = 20
 
 [[menu.shortcuts]]
-name = "<i class='fas fa-fw fa-bookmark'></i> HWZ LUBW"
+name = "<i class='fas fa-fw fa-bookmark'></i> HVZ LUBW"
 url = "https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007"
 weight = 30
 
