@@ -3,10 +3,6 @@ archetype = "home"
 title = "Level of Lake Constance (Bodensee)"
 +++
 
-{{% notice style="orange" title="Info 2025-07-25" icon="info" %}}
-There are currently problems updating the data. The problem has existed since Thursday, July 24, 2025, at approximately 10:00 PM. The root cause lies in the LUBW data source, as far as we can currently see.
-{{% /notice %}}
-
 <h2>Level of Lake Constance: <span id=website_api_current_level_head>...</span> (<span id=website_api_change_vs_yesterday_head>...</span>) </h2>
 
 The current level of Lake Constance (station Constance) is: <b><span id=website_api_current_level>...</span></b> cm. Corresponding <b><span id=website_api_change_vs_yesterday>...</span></b> cm compared to the average of the previous day.

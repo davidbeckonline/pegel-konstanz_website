@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-25: Hinweise zu Aktualisierungsproblemen hinzugefügt und entfernt.**
+Ab etwa 22:00 am 2025-07-24 bis etwa 14:00 am 2025-07-25 war das API des HVZ nicht erreichbar. Eine Aktualierung der Daten war deshalb nicht mehr möglich. Wir haben einen entsprechenden Hinweis eingefügt und dann später wieder entfernt.
+
 **2025-07-17: Niedrigwasser-Hinweis entfernt.**
 Der Pegel ist weiterhin niedrig, hat sich aber bei etwa sechs Jahren mit niedrigerem Pegel stabilisiert. Da wir gerade keine Zeit für die Aktualisierung hatten, haben wir den Hinweis entfernt. Geplant ist, eine automatisierte Seite für das Niedrigwasser 2025 zu erstellen.
 

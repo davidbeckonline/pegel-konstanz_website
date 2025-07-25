@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-07-25: added and removed notice about data refresh issues.**
+Between 2025-07-24 at about 10pm until 2025-07-25 at about 2pm, we could not reach the API of HVZ. With that, the data could not be refreshed anymore. We added and later removed a notice informing users about the ongoing issue.
+
 **2025-07-17: Removed low level notice.**
 The level of the lake is still low, but it stabilized at about six years with lower levels. Lacking time for the updates, we removed the notice. Plan is to create an automated page for this low level event in 2025.
 
