@@ -1,4 +1,4 @@
-theme = "hugo-theme-relearn"
+theme = "relearn"
 
 baseURL = "https://pegel-konstanz.de/"
 
@@ -50,5 +50,5 @@ weight = 30
 [params]
   themeVariant = ["mine"]
   
-  disableSearch = true
+  search = false
 

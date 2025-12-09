@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>FAQ :: Current and historical information on the level of Lake Constance</title>
+    <link>http://localhost:1313/en/04_faq/index.html</link>
+    <description>In this section we would like to address frequently asked questions (FAQs) about the water level in Lake Constance.&#xA;Where is the water level of Lake Constance measured? There are many measuring stations on Lake Constance. However, the official water level for Lake Constance is measured in the port of the city of Konstanz. This means that the information on navigation charts refers to a water level of 2.50 meters in Konstanz.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/en/04_faq/index.xml" rel="self" type="application/rss+xml" />
+  </channel>
+</rss>

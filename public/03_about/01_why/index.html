@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="de" dir="ltr" itemscope itemtype="http://schema.org/Article" data-r-output-format="html">
+  <head><script src="/livereload.js?mindelay=10&amp;v=2&amp;port=1313&amp;path=livereload" data-no-instant defer></script>
+    <meta charset="utf-8">
+    <meta name="viewport" content="height=device-height, width=device-width, initial-scale=1.0, minimum-scale=1.0">
+    <meta name="generator" content="Hugo 0.152.2">
+    <meta name="generator" content="Relearn 8.3.0+f1e403a9b3fa2bb94812329966df09e38f6d5b88">
+    <meta name="description" content="Warum eigentlich? Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.">
+    <meta name="author" content="">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Warum :: Aktuelle und historische Informationen zum Pegel des Bodensees">
+    <meta name="twitter:description" content="Warum eigentlich? Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.">
+    <meta property="og:url" content="http://localhost:1313/03_about/01_why/index.html">
+    <meta property="og:site_name" content="Aktuelle und historische Informationen zum Pegel des Bodensees">
+    <meta property="og:title" content="Warum :: Aktuelle und historische Informationen zum Pegel des Bodensees">
+    <meta property="og:description" content="Warum eigentlich? Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.">
+    <meta property="og:locale" content="de">
+    <meta property="og:type" content="article">
+    <meta property="article:section" content="About">
+    <meta property="article:published_time" content="2024-01-16T15:26:41+00:00">
+    <meta property="article:modified_time" content="2024-01-16T15:26:41+00:00">
+    <meta itemprop="name" content="Warum :: Aktuelle und historische Informationen zum Pegel des Bodensees">
+    <meta itemprop="description" content="Warum eigentlich? Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.">
+    <meta itemprop="datePublished" content="2024-01-16T15:26:41+00:00">
+    <meta itemprop="dateModified" content="2024-01-16T15:26:41+00:00">
+    <meta itemprop="wordCount" content="396">
+    <title>Warum :: Aktuelle und historische Informationen zum Pegel des Bodensees</title>
+    <link href="http://localhost:1313/03_about/01_why/index.html" rel="alternate" hreflang="x-default">
+    <link href="http://localhost:1313/03_about/01_why/index.html" rel="alternate" hreflang="de">
+    <link href="http://localhost:1313/en/03_about/01_why/index.html" rel="alternate" hreflang="en"><link rel="apple-touch-icon" sizes="180x180" href="images/favicon/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="images/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="images/favicon/favicon-16x16.png">
+<link rel="icon" type="image/png" sizes="192x192" href="images/favicon/android-chrome-192x192.png">
+<link rel="icon" type="image/png" sizes="256x256" href="images/favicon/android-chrome-256x256.png">
+<link rel="icon" href="images/favicon/favicon.ico">
+<link rel="manifest" href="images/favicon/site.webmanifest">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1765273813" rel="stylesheet">
+    <link href="/css/theme.css?1765273813" rel="stylesheet">
+    <link href="/css/format-html.css?1765273813" rel="stylesheet" id="R-format-style">
+    <script>
+      window.relearn = window.relearn || {};
+      // configuration
+      window.relearn.min = ``;
+      window.relearn.path='\/03_about\/01_why\/index.html';
+      window.relearn.relBasePath='..\/..';
+      window.relearn.relBaseUri='..\/..';
+      window.relearn.absBaseUri='http:\/\/localhost:1313';
+      window.relearn.disableInlineCopyToClipboard=false;
+      window.relearn.enableBlockCodeWrap=true;
+      // legal
+      window.relearn.getItem = (s,n) => {return s.getItem(n)};
+      window.relearn.setItem = (s,n,v) => {return s.setItem(n,v)};
+      window.relearn.removeItem = (s,n) => {return s.removeItem(n)};
+      // translations
+      window.T_Copy_to_clipboard = `Text in Zwischenablage kopieren`;
+      window.T_Copied_to_clipboard = `Text in Zwischenablage kopiert!`;
+      window.T_Link_copied_to_clipboard = `Link in Zwischenablage kopiert!`;
+      window.T_Reset_view = `Ansicht zurücksetzen`;
+      window.T_View_reset = `Ansicht zurückgesetzt!`;
+      window.T_No_results_found = `Keine Ergebnisse gefunden für "{0}"`;
+      window.T_N_results_found = `{1} Ergebnisse gefunden für "{0}"`;
+      window.T_Browser_unsupported_feature = `Dieser Browser unterstützt diese Funktion nicht`;
+      // variant stuff
+      window.relearn.themevariants = [ 'mine' ];
+      window.relearn.customvariantprefix = "my-custom-";
+      window.relearn.changeVariant = function(variant) {
+        var oldVariant = document.documentElement.dataset.rThemeVariant;
+        window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        document.documentElement.dataset.rThemeVariant = variant;
+        if (oldVariant != variant) {
+          document.dispatchEvent( new CustomEvent('themeVariantLoaded', { detail: { variant, oldVariant } }) );
+          window.relearn.markVariant();
+        }
+      }
+      window.relearn.markVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant");
+        document.querySelectorAll(".R-variantswitcher select").forEach((select) => {select.value = variant;});
+      }
+      window.relearn.initVariant = function() {
+        var variant = window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variant") ?? "";
+        if( !variant ||
+            (!variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.themevariants.includes(variant)) ||
+            (variant.startsWith(window.relearn.customvariantprefix) && !window.relearn.getItem(window.localStorage, window.relearn.absBaseUri + "/variantstylesheet-" + variant)) ){
+          variant = window.relearn.themevariants[0];
+          window.relearn.setItem(window.localStorage, window.relearn.absBaseUri + "/variant", variant);
+        }
+        document.documentElement.dataset.rThemeVariant = variant;
+      }
+      window.relearn.initVariant();
+      window.relearn.markVariant();
+    </script>
+  </head>
+  <body class="mobile-support html" data-url="/03_about/01_why/index.html">
+    <div id="R-body" class="default-animation">
+      <div id="R-body-overlay"></div>
+      <nav id="R-topbar" class="default-animation">
+        <div class="topbar-wrapper default-animation">
+          <div class="topbar-sidebar-divider default-animation"></div>
+          <div class="topbar-area topbar-area-start" data-area="start">
+            <div class="topbar-button topbar-button-sidebar default-animation" data-content-empty="disable" data-width-s="show" data-width-m="hide" data-width-l="hide">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleNav()" type="button" title="Menu (CTRL&#43;ALT&#43;n)"><i class="fa-fw fas fa-bars"></i></button></span>
+            </div>
+            <div class="topbar-button topbar-button-toc default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Inhalt (CTRL&#43;ALT&#43;t)"><i class="fa-fw fas fa-list-alt"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+<nav class="TableOfContents">
+  <ul>
+    <li><a href="#warum-eigentlich">Warum eigentlich?</a>
+      <ul>
+        <li><a href="#mehrwert">Mehrwert</a></li>
+      </ul>
+    </li>
+  </ul>
+</nav>
+                </div>
+              </div>
+            </div>
+          </div>
+          <ol class="topbar-breadcrumbs breadcrumbs highlightable" itemscope itemtype="http://schema.org/BreadcrumbList"><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/index.html"><span itemprop="name">Pegel Konstanz (Bodensee)</span></a><meta itemprop="position" content="1">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><a itemprop="item" href="/03_about/index.html"><span itemprop="name">About</span></a><meta itemprop="position" content="2">&nbsp;>&nbsp;</li><li itemscope itemtype="https://schema.org/ListItem" itemprop="itemListElement" class=""><span itemprop="name">Warum</span><meta itemprop="position" content="3"></li>
+          </ol>
+          <div class="topbar-area topbar-area-end" data-area="end">
+            <div class="topbar-button topbar-button-prev default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/03_about/index.html" title="About (🡐)"><i class="fa-fw fas fa-chevron-left"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-next default-animation" data-content-empty="disable" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><a href="/03_about/02_technical-realization/index.html" title="Technische Umsetzung (🡒)"><i class="fa-fw fas fa-chevron-right"></i></a></span>
+            </div>
+            <div class="topbar-button topbar-button-more default-animation" data-content-empty="hide" data-width-s="show" data-width-m="show" data-width-l="show">
+<span class="btn cstyle button link noborder notitle interactive"><button onclick="toggleTopbarFlyout(this)" type="button" title="Mehr"><i class="fa-fw fas fa-ellipsis-v"></i></button></span>
+              <div class="topbar-content">
+                <div class="topbar-content-wrapper">
+                  <div class="topbar-area topbar-area-more" data-area="more">
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </nav>
+      <div id="R-main-overlay"></div>
+      <main id="R-body-inner" class="highlightable 03_about" tabindex="-1">
+        <div class="flex-block-wrapper">
+<article class="default">
+  <header class="headline">
+  </header>
+
+<h1 id="warum">Warum</h1>
+
+<h2 id="warum-eigentlich">Warum eigentlich?<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<p>Diese Website ist das Resultat eines Lern-Projekts. Mein eigentliches Ziel war es mehr über Datenanalyse im Allgemeinen zu lernen. Dafür habe ich nach einem geeigneten Datensatz gesucht. Und die Pegeldaten des Bodensees haben sich da recht schnell angeboten. Da ich am Bodensee aufgewachsen bin, habe ich einen Bezug zu den Daten. Die Daten selbst sind öffentlich zugänglich (#opendata). Und der Datensatz für die Messstation Konstanz ist rund 200 MB groß. Das ist eine ziemliche ideale Größe, da man diese Menge an Daten in Excel oder anderen Spreadsheet Programmen nicht mehr verarbeiten kann. Für die Analyse mit Python / Pandas ist das aber gerade winzig.</p>
+<p>Nachdem ich meine ersten Schritte mit Pandas gemacht hatte, wollte ich eigentlich eine Data Analytics Zertifizierung angehen. Bei der Vorbeireitung ist mir dann aber aufgefallen, dass ich mich noch nicht ausreichend praktisch mit dem Thema auseinandergesetzt hatte. Ich wollte nicht auswendig lernen. Und so ist dann die Idee einer praktischen Anwendung entstanden. Datenanalyse zum Anfassen sozusagen. Das Resultat ist diese Website.</p>
+<h3 id="mehrwert">Mehrwert<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h3>
+<p>Welchen Mehrwert bietet diese Seite? Diese Frage muss man sich natürlich stellen. Es handelt sich um #OpenData. Also, gibt es die Daten schon. Und es gibt sie auf vielen verschiedenen Webseiten. Meinen Mehrwert habe ich wie folgt definiert:</p>
+<p><strong>Langer Bezugszeitraum.</strong> Die meisten Daten zum Pegel des Bodensees blicken auf einen Zeitraum ab 1981 zurück. Das basiert auf einer Standardisierung des LUBW. Das ist verständlich, mir aber zu kurz. Auf dieser Website werden deshalb die Daten ab 1888 berücksichtigt.</p>
+<p><strong>Fehlerband.</strong> Ich finde, die Ergänzung eines Fehlerbands in der grafischen Ausarbeitung enorm Hilfreich. Dahinter steckt die Frage, was &ldquo;normal&rdquo; ist.</p>
+<p><strong>Optimiert für mobile Geräte.</strong> Die Website sollte sehr gut auf dem Smartphone funktionieren. Nicht perfekt. Das Menü macht manchmal Probleme. Aber auf der Startseite hat man direkt die wichtigsten Informationen verfügbar. Und es ist kein horizontales Scrollen notwendig.</p>
+<p><strong>Kein Tracking, keine Werbung.</strong> Ich arbeite selbst im Bereich von Marketing und Online Werbung. Das brauche ich privat nicht auch noch. Aktuell hat diese Website keinerlei Tracking und setzt keine Cookies. Klar, eine Website kostet Geld. Ich muss das für diese Website beobachten. Aktuell gehe ich von rund 100 Euro kosten pro Jahr aus. Das lässt sich als Hobby verkraften. Ich will aber nicht ausschließen, dass ich vielleicht mal einen Sponsor suche oder eine Spendenkasse einrichte. Das hängt davon ab, wie es sich entwickelt.</p>
+<p><strong>International.</strong> Diese Website ist auch auf Englisch verfügbar.</p>
+
+  <footer class="footline">
+              <i class='fa-fw fas fa-calendar'></i> 16.01.2024
+  </footer>
+</article>
+        </div>
+      </main>
+    </div>
+    <aside id="R-sidebar" class="default-animation">
+      <div id="R-header-topbar" class="default-animation"></div>
+      <div id="R-header-wrapper" class="default-animation"> <img src="/images/general/pegel-kn_logo.png" alt="pegel-kn_logo_long_blue"> 
+      </div>
+      <div id="R-homelinks" class="default-animation homelinks">
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-homelinks default-animation">
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-url="/index.html"><a class="padding" href="/index.html"><i class="fa-fw fas fa-home"></i> Home</a></li>
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-headercontrols default-animation">
+          <ul class="">
+          </ul>
+        </div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+      </div>
+      <div id="R-content-wrapper" class="highlightable">
+        <div class="R-sidebarmenu R-shortcutmenu-main default-animation">
+          <ul class="enlarge morespace collapsible-menu">
+            <li class="" data-nav-url="/01_historische_daten/index.html"><a class="padding default-animation" href="/01_historische_daten/index.html">Historische Pegelstände</a><ul id="R-subsections-cfd38bfc3dccb393ecf6bf38473436bb" class="collapsible-menu"></ul></li>
+            <li class="" data-nav-url="/02_analysis/index.html"><a class="padding default-animation" href="/02_analysis/index.html">Analysen</a><ul id="R-subsections-ab3fdcd9b16d5c374e12248e698bddb3" class="collapsible-menu"></ul></li>
+            <li class="parent " data-nav-url="/03_about/index.html"><a class="padding default-animation" href="/03_about/index.html">About</a><ul id="R-subsections-80ff8fbe63e07c26eadb21659c464394" class="collapsible-menu">
+            <li class="active " data-nav-url="/03_about/01_why/index.html"><a class="padding" href="/03_about/01_why/index.html">Warum</a></li>
+            <li class="" data-nav-url="/03_about/02_technical-realization/index.html"><a class="padding" href="/03_about/02_technical-realization/index.html">Technische Umsetzung</a></li>
+            <li class="" data-nav-url="/03_about/03_release-notes/index.html"><a class="padding" href="/03_about/03_release-notes/index.html">Release Notes</a></li>
+            <li class="" data-nav-url="/03_about/04_contact-imprint/index.html"><a class="padding" href="/03_about/04_contact-imprint/index.html">Kontakt und Impressum</a></li>
+            <li class="" data-nav-url="/03_about/05_logo/index.html"><a class="padding" href="/03_about/05_logo/index.html">Logo</a></li></ul></li>
+            <li class="" data-nav-url="/04_faq/index.html"><a class="padding" href="/04_faq/index.html">FAQ</a></li>
+          </ul>
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-shortcuts default-animation">
+          <div class="nav-title padding">Mehr</div>
+          <ul class="space collapsible-menu">
+            <li class="" data-nav-url="https://mastodon.social/@pegelkonstanz"><a class="padding" href="https://mastodon.social/@pegelkonstanz" rel="external"><i class='fas fa-fw fa-bullhorn'></i> Mastodon</a></li>
+            <li class="" data-nav-url="https://github.com/davidbeckonline/pegel-konstanz"><a class="padding" href="https://github.com/davidbeckonline/pegel-konstanz" rel="external"><i class='fab fa-fw fa-github'></i> GitHub</a></li>
+            <li class="" data-nav-url="https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007"><a class="padding" href="https://www.hvz.baden-wuerttemberg.de/pegel.html?id=00007" rel="external"><i class='fas fa-fw fa-bookmark'></i> HVZ LUBW</a></li>
+          </ul>
+        </div>
+        <div id="R-footer-margin" class="default-animation"></div>
+        <div class="R-menu-divider default-animation">
+          <hr class="padding default-animation">
+        </div>
+        <div class="R-sidebarmenu R-shortcutmenu-footercontrols default-animation">
+          <ul class="">
+			<li class="R-languageswitcher">
+              <div class="padding menu-control">
+                <i class="fa-fw fas fa-language"></i>
+                <span>&nbsp;</span>
+                <div class="control-style">
+                  <label class="a11y-only" for="R-select-language">Sprache</label>
+                  <select id="R-select-language">
+                    <option id="R-select-language-de" value="de" data-url="/03_about/01_why/index.html" lang="de" selected data-selected>Deutsch</option>
+                    <option id="R-select-language-en" value="en" data-url="/en/03_about/01_why/index.html" lang="en">English</option>
+                  </select>
+                </div>
+                <div class="clear"></div>
+              </div>
+            </li>
+          </ul>
+        </div>
+<div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
+      </div>
+    </aside>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1765273813" defer></script>
+    <script src="/js/theme.js?1765273813" defer></script>
+    <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
+  </body>
+</html>

@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Analysis :: Current and historical information on the level of Lake Constance</title>
+    <link>http://localhost:1313/en/02_analysis/index.html</link>
+    <description>Background analyzes of the level of Lake Constance can be found here. We differentiate between two types:&#xA;1. Fundamentals&#xA;This is primarily about methodology and general considerations about the level.&#xA;2. Individual Analysis&#xA;This section looks at individual events.</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Mon, 08 Dec 2025 15:26:41 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/en/02_analysis/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Individual</title>
+      <link>http://localhost:1313/en/02_analysis/02_02_individual/index.html</link>
+      <pubDate>Mon, 08 Dec 2025 15:26:41 +0000</pubDate>
+      <guid>http://localhost:1313/en/02_analysis/02_02_individual/index.html</guid>
+      <description>Individual Analysis</description>
+    </item>
+    <item>
+      <title>Fundamentals</title>
+      <link>http://localhost:1313/en/02_analysis/02_01_basics/index.html</link>
+      <pubDate>Tue, 16 Jan 2024 15:26:41 +0000</pubDate>
+      <guid>http://localhost:1313/en/02_analysis/02_01_basics/index.html</guid>
+      <description>Fundamental elements of the analysis</description>
+    </item>
+  </channel>
+</rss>

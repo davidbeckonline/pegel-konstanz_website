@@ -1,6 +1,6 @@
 +++
 title = 'Niedrigwasser 2025'
-date = 2025-12-15T15:26:41Z
+date = 2025-12-08T15:26:41Z
 draft = false
 weight = 30
 +++
