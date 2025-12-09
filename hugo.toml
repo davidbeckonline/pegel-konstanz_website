@@ -49,6 +49,6 @@ weight = 30
   
 [params]
   themeVariant = ["mine"]
-  
   search = false
+  hideAuthorDate = true
 
