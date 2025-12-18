@@ -44,10 +44,10 @@ Zunächst ein Überblick zum Jahresverlauf:">
 <link rel="manifest" href="images/favicon/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1765273813" rel="stylesheet">
-    <link href="/css/theme.css?1765273813" rel="stylesheet">
-    <link href="/css/format-html.css?1765273813" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050728" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050728" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1766050728" rel="stylesheet">
+    <link href="/css/theme.css?1766050728" rel="stylesheet">
+    <link href="/css/format-html.css?1766050728" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -170,23 +170,71 @@ Zunächst ein Überblick zum Jahresverlauf:">
 <h2 id="niedrigwasser-2025">Niedrigwasser 2025<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <p>Frühjahr und Sommer 2025 waren am Bodensee von einem außergewöhnlich niedrige Pegelstand geprägt. In diesem Artikel soll das Ereignis eingeordnet und auf ein wenig Kultur und Skurilität im Zusammenhang hergestellt werden.</p>
 <p>Zunächst ein Überblick zum Jahresverlauf:</p>
-<p><a href="#R-image-0f2c08ab1ef9407ff1ba7b6dcb4d3365" class="lightbox-link"><img alt="level_longterm" class="lazy lightbox figure-image" loading="lazy" src="https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-0f2c08ab1ef9407ff1ba7b6dcb4d3365"><img alt="level_longterm" class="lazy lightbox lightbox-image" loading="lazy" src="https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png"></a></p>
+<p><a href="#R-image-75fcdeca8739f1ed04b358021de1b6cc" class="lightbox-link"><img alt="level_longterm" class="lazy lightbox figure-image" loading="lazy" src="https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-75fcdeca8739f1ed04b358021de1b6cc"><img alt="level_longterm" class="lazy lightbox lightbox-image" loading="lazy" src="https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png"></a></p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<iframe  width="100%" height="600px" frameBorder="0" src="https://umap.openstreetmap.fr/en/map/untiefen_untersee_bodensee_117493?scaleControl=true&miniMap=false&scrollWheelZoom=true&zoomControl=true&allowEdit=false&moreControl=false&searchControl=false&tilelayersControl=false&embedControl=false&datalayersControl=false&onLoadPanel=none&captionBar=true//"></iframe>
+
 <h2 id="einordnung">Einordnung<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <h2 id="kulturelle-aspekte">Kulturelle Aspekte<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
+<div id="map_2" style="height: 400px;"></div>
+<link rel="stylesheet" href="unpkg.com"
+  integrity="sha256-p4NxAoDlT9WmQ8T3QdCOYwXGz/aP4rT9e91U3WFvud4="
+  crossorigin=""/>
+<script src="unpkg.com"
+  integrity="sha256-20n6c5PVz58JzAyTn7gLWG+6uThLLQ4IWThNJ5wT7vQ="
+  crossorigin=""></script>
+<script>
+  
+  var map = L.map('map_2').setView([51.505, -0.09], 13);
+
+  
+  L.tileLayer('tile.openstreetmap.org{z}/{x}/{y}.png', {
+    maxZoom: 19,
+    attribution: '&copy; [OpenStreetMap](www.openstreetmap.org) contributors'
+  }).addTo(map);
+
+  
+  L.marker([51.5, -0.09]).addTo(map)
+    .bindPopup('A pretty CSS3 popup. <br> Easily customizable.')
+    .openPopup();
+</script>
+
 <h2 id="skurrilitäten">Skurrilitäten<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <p>&ldquo;Bodensee trocknet weiter aus&rdquo; Schlagzeile in schwaebische.de am 2025-04-07.
-<a href="#R-image-11963fa20569d9fc5bf2b1c1ebc2dda1" class="lightbox-link"><img alt="&lsquo;Bodensee trocknet weiter aus&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-11963fa20569d9fc5bf2b1c1ebc2dda1"><img alt="&lsquo;Bodensee trocknet weiter aus&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png"></a></p>
+<a href="#R-image-1af3c9db0cf3d9e1625b72a53f532a3a" class="lightbox-link"><img alt="&lsquo;Bodensee trocknet weiter aus&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-1af3c9db0cf3d9e1625b72a53f532a3a"><img alt="&lsquo;Bodensee trocknet weiter aus&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png"></a></p>
 <p>&ldquo;Tauchen jetzt 103 Leichen auf?&rdquo; Schlagzeile in schwaebische.de am 2025-04-13.
-<a href="#R-image-9eed4ab803ee0586e9f340026d30529e" class="lightbox-link"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-13_schwaebische.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-9eed4ab803ee0586e9f340026d30529e"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-13_schwaebische.png"></a></p>
+<a href="#R-image-de90ed6e7738a8547429485c7219c680" class="lightbox-link"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-13_schwaebische.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-de90ed6e7738a8547429485c7219c680"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-13_schwaebische.png"></a></p>
 <p>&ldquo;Mehr als 100 Tote in den Tiefen: Gibt der Bodensee jetzt seine Leichen frei?&rdquo; Schlagzeile in focus.de am 2025-04-15.
-<a href="#R-image-4aea4abd363929ac9501f78c9bdc6f16" class="lightbox-link"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-4aea4abd363929ac9501f78c9bdc6f16"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png"></a></p>
+<a href="#R-image-eb772a412d0451aeba48ebb6d69a28eb" class="lightbox-link"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox figure-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-eb772a412d0451aeba48ebb6d69a28eb"><img alt="&lsquo;Tauchen jetzt 103 Leichen auf?&rsquo; Schlagzeile in schwaebische.de" class="lazy lightbox lightbox-image" loading="lazy" src="/images/analysis/2025_low-water/2025-04-07_schwaebische.png"></a></p>
 
   <footer class="footline">
-              <i class='fa-fw fas fa-calendar'></i> 08.12.2025
   </footer>
 </article>
         </div>
@@ -263,8 +311,8 @@ Zunächst ein Überblick zum Jahresverlauf:">
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1765273813" defer></script>
-    <script src="/js/theme.js?1765273813" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1766050728" defer></script>
+    <script src="/js/theme.js?1766050728" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>

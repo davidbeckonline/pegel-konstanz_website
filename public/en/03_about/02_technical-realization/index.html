@@ -40,10 +40,10 @@ Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ proce
 <link rel="manifest" href="images/favicon/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1765273813" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1765273813" rel="stylesheet">
-    <link href="/css/theme.css?1765273813" rel="stylesheet">
-    <link href="/css/format-html.css?1765273813" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050411" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050411" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1766050411" rel="stylesheet">
+    <link href="/css/theme.css?1766050411" rel="stylesheet">
+    <link href="/css/format-html.css?1766050411" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -152,8 +152,8 @@ Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ proce
 
 <h2 id="implementation">Implementation<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Copy link to clipboard"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <p>This website was built and is hosted on AWS. For all regional services, the eu-central-1 region was selected.</p>
-<p><a href="#R-image-c04aa371f2a0459a765e6e161ba032d0" class="lightbox-link"><img alt="aws_diagramm" class="lazy lightbox figure-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-c04aa371f2a0459a765e6e161ba032d0"><img alt="aws_diagramm" class="lazy lightbox lightbox-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png"></a></p>
+<p><a href="#R-image-5c8483b2e3bdd37aab01cddd57d4a9e8" class="lightbox-link"><img alt="aws_diagramm" class="lazy lightbox figure-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-5c8483b2e3bdd37aab01cddd57d4a9e8"><img alt="aws_diagramm" class="lazy lightbox lightbox-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png"></a></p>
 <p><strong>Lambda.</strong> We use lambda functions for two activities: 1/ scrape the data. 2/ process and visualize the data. The fictions are either triggered via EventsManager or as part of a StepFunction.</p>
 <p><strong>ECS.</strong> There functions used for data processing and visualization are relying on Python / Pandas. These libraries are too big for being added as zip (lambda limit is 125 MB). We therefore created docker containers for these functions same store them in ECS. We used Cloud9 to build the containers.</p>
 <p><strong>EventManager.</strong> The scraping of the data is happening periodically. As a starting point, we scrape the average water level for the previous days once per day. The current water level is scheduled to be scraped four times per day.</p>
@@ -163,7 +163,6 @@ Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ proce
 <p><strong>Amplify.</strong> The website is built with the HUGO framework. We selected the re-learn theme. The mentioned framework is supported by Amplify out of the box. Not displayed on the diagram is that we are running Hugo in a Cloud9 IDE. The git repository is  handled in CodeCommit.</p>
 
   <footer class="footline">
-              <i class='fa-fw fas fa-calendar'></i> Jan 16, 2024
   </footer>
 </article>
         </div>
@@ -240,8 +239,8 @@ Lambda. We use lambda functions for two activities: 1/ scrape the data. 2/ proce
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1765273813" defer></script>
-    <script src="/js/theme.js?1765273813" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1766050411" defer></script>
+    <script src="/js/theme.js?1766050411" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>

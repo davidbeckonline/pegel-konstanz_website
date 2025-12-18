@@ -1,4 +1,4 @@
-theme = "relearn"
+theme = ["osm", "relearn"]
 
 baseURL = "https://pegel-konstanz.de/"
 
