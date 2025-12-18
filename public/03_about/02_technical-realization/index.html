@@ -40,10 +40,10 @@ Lambda. Wir verwenden Lambda-Funktionen für zwei Aktivitäten: 1/ Scrapen der D
 <link rel="manifest" href="images/favicon/site.webmanifest">
 <meta name="msapplication-TileColor" content="#da532c">
 <meta name="theme-color" content="#ffffff">
-    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050411" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766050411" rel="stylesheet"></noscript>
-    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1766050411" rel="stylesheet">
-    <link href="/css/theme.css?1766050411" rel="stylesheet">
-    <link href="/css/format-html.css?1766050411" rel="stylesheet" id="R-format-style">
+    <link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766054452" rel="stylesheet" media="print" onload="this.media='all';this.onload=null;"><noscript><link href="/fonts/fontawesome/css/fontawesome-all.min.css?1766054452" rel="stylesheet"></noscript>
+    <link href="/css/perfect-scrollbar/perfect-scrollbar.min.css?1766054452" rel="stylesheet">
+    <link href="/css/theme.css?1766054452" rel="stylesheet">
+    <link href="/css/format-html.css?1766054452" rel="stylesheet" id="R-format-style">
     <script>
       window.relearn = window.relearn || {};
       // configuration
@@ -152,8 +152,8 @@ Lambda. Wir verwenden Lambda-Funktionen für zwei Aktivitäten: 1/ Scrapen der D
 
 <h2 id="technische-umsetzung">Technische Umsetzung<span class="btn cstyle anchor copyanchor scrollanchor link noborder notitle interactive"><button type="button" title="Link in Zwischenablage kopieren"><i class="fa-fw fas fa-link fa-lg"></i></button></span></h2>
 <p>Diese Website wurde auf AWS erstellt und wird auch dort gehostet. Für alle regionalen Dienste wurde die Region eu-central-1 ausgewählt.</p>
-<p><a href="#R-image-657ea1c2009bd5f49bb2ce82f39d5e02" class="lightbox-link"><img alt="aws_diagramm" class="lazy lightbox figure-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png" style="height: auto;width: auto;"></a>
-<a href="javascript:history.back();" class="lightbox-back" id="R-image-657ea1c2009bd5f49bb2ce82f39d5e02"><img alt="aws_diagramm" class="lazy lightbox lightbox-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png"></a></p>
+<p><a href="#R-image-2260f773ebac09a9186ab0e8bbfe4cb2" class="lightbox-link"><img alt="aws_diagramm" class="lazy lightbox figure-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png" style="height: auto;width: auto;"></a>
+<a href="javascript:history.back();" class="lightbox-back" id="R-image-2260f773ebac09a9186ab0e8bbfe4cb2"><img alt="aws_diagramm" class="lazy lightbox lightbox-image" loading="lazy" src="/images/general/aws-architecture-diagramm.png"></a></p>
 <p><strong>Lambda.</strong> Wir verwenden Lambda-Funktionen für zwei Aktivitäten: 1/ Scrapen der Daten. 2/ Verarbeiten und visualisieren Sie die Daten. Die Funktionen werden entweder über den EventsManager oder im Rahmen einer StepFunction ausgelöst.</p>
 <p><strong>ECS.</strong> Die zur Datenverarbeitung und Visualisierung verwendeten Funktionen basieren auf Python/Pandas. Diese Bibliotheken sind zu groß, um als ZIP-Datei hinzugefügt zu werden (die Grenze liegt bei 125 MB). Wir haben daher Docker-Container für diese Funktionen erstellt und sie in ECS gespeichert. Cloud9 wurde verwendet, um die Container zu erstellen.</p>
 <p><strong>EventManager.</strong> Das Scraping der Daten erfolgt regelmäßig. Als Ausgangspunkt scrapen wir ein Mal täglich den durchschnittlichen Wasserstand der vergangenen Tage. Der aktuelle Wasserstand wird derzeit vier Mal täglich abgegriffen.</p>
@@ -239,8 +239,8 @@ Lambda. Wir verwenden Lambda-Funktionen für zwei Aktivitäten: 1/ Scrapen der D
 <div id="R-footer" class="default-animation"><p>Built with <a href="https://github.com/McShelby/hugo-theme-relearn" title="love"><i class="fas fa-heart"></i></a> by <a href="https://gohugo.io/">Hugo</a></p></div>
       </div>
     </aside>
-    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1766050411" defer></script>
-    <script src="/js/theme.js?1766050411" defer></script>
+    <script src="/js/perfect-scrollbar/perfect-scrollbar.min.js?1766054452" defer></script>
+    <script src="/js/theme.js?1766054452" defer></script>
     <div id="toast-container" role="status" aria-live="polite" aria-atomic="false"></div>
   </body>
 </html>
