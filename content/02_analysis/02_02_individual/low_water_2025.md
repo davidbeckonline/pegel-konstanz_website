@@ -29,8 +29,6 @@ Zunächst ein Überblick zum Jahresverlauf:
 
 ## Kulturelle Aspekte
 
-{{< leaflet_map >}}
-
 
 ## Skurrilitäten
 
