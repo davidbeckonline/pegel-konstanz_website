@@ -10,6 +10,7 @@ weight = 30
 Dieser Artikel wird aktuell bearbeitet.
 {{% /notice %}}
 
+
 ## Niedrigwasser 2025 
 
 Frühjahr und Sommer 2025 waren am Bodensee von einem außergewöhnlich niedrige Pegelstand geprägt. In diesem Artikel soll das Ereignis eingeordnet und auf ein wenig Kultur und Skurilität im Zusammenhang hergestellt werden.
