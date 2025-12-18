@@ -3,4 +3,4 @@
 	url = https://github.com/McShelby/hugo-theme-relearn.git
 [submodule "themes/osm"]
 	path = themes/osm
-	url = https://codeberg.org/steiger/hugo-component-osm.git
+	url = https://codeberg.org/steiger/hugo-component-osm
