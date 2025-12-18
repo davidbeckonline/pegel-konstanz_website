@@ -20,7 +20,7 @@ Zunächst ein Überblick zum Jahresverlauf:
 ![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png)
 
 
-{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" mapDomain="de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
+{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapDomain="openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
 
 
 ## Einordnung
