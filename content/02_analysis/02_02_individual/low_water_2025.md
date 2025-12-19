@@ -2,7 +2,7 @@
 title = 'Niedrigwasser 2025'
 date = 2025-12-08T15:26:41Z
 draft = false
-weight = 30
+weight = 10
 +++
 
 
@@ -54,6 +54,17 @@ Angeblich sind dies Steine, die vom Bau des [Klosters auf der Insel Reichenau](h
 ![Stein westlich des Stuhlrains. Datum 2025-04-23.](/images/analysis/2025_low-water/stuhlrain_steine_2025-04-23.png)
 
 ![Stein westlich des Stuhlrains. Datum 2025-04-23.](/images/analysis/2025_low-water/stuhlrain_steine2_2025-04-23.png)
+
+
+### Platzkonzert 1972
+
+Im März 1972 spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Stuhlrain. Hier Bilder einer Postkarte, die wohl als Erinnerung und Spende erworben werden konnte.
+
+> Zur Erinnerung an das Konzert der Bürgermusik Reichenau, zugunsten der >> Aktion Sorgenkind <<, am 26. März 1072, auf dem Straßenrain im Untersee, bei einem Pegelstand von 2,37 m.
+
+![Postkarte zum Konzert der Bürgermusik Reichenau 1972](/images/analysis/2025_low-water/concert_1972.png)
+
+![Postkarte zum Konzert der Bürgermusik Reichenau 1972 - Rückseite](/images/analysis/2025_low-water/concert_1972_back.png)
 
 
 ## Skurrilitäten

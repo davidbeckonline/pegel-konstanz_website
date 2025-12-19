@@ -2,7 +2,7 @@
 title = 'Hochwasser am Bodensee'
 date = 2024-06-09T21:26:41Z
 draft = false
-weight = 10
+weight = 40
 +++
 
 ## Hochwasser am Bodensee
