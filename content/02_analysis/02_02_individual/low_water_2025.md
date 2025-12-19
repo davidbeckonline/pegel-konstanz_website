@@ -21,14 +21,16 @@ Zunächst ein Überblick zum Jahresverlauf:
 
 ## Einordnung
 
-Ausgehend von einem ungewöhnlich hohen Wasserstand Anfang Februar, sank der Pegel bis Mitte April kontinuierlich ab. Im längjährigen Mittel setzt zum März in der Regel eine Trendwende ein, da Schneeschmelze und steigende Niederschläge den Pegel ansteigen lassen. Sehr geringer Niederschlag in den Monaten Februar bis April sorgte dafür, dass der Pegel des Bodensees zwischen Anfang April und Ende Juli durchgängig außergewöhnlich niedrig war.
-Medial wurde der niedrige Wasserstand vor allem im April diskutiert. Ein paar gerade skurrile Schlagzeilen aus dieser Zeit sind weiter unten aufgeführt. Tatsächlich war der Wasserstand zwischen dem 6. und 8. Juli am extremsten (338 cm, 337 cm, 339 cm). Seit 1888 gab es nur zwei Jahre, in denen der Wasserstand des Bodensees zu dieser Zeit niedriger war: 1949 und 1976, wobei das Jahr 1976 für diese Jahreszeit den Negativrekord hält.
-Zugegebenermaßen war der Pegel aber auch im April schon sehr niedrig. Zwischen dem 19. und 21. April (277 cm als Tagesmittel an allen drei Tagen) gab es nur drei Jahre seit 1888, an welchen der Pegel zu dieser Zeit niedriger lag: 1921, 1976, 1996. Für den 19. April hält das Jahr 1921 den Negativrekord (267 cm). Für den 20. und 21. April liegt der Rekord bei 267 cm bzw. 268 cm, welche 1976 erreicht wurden. 
+Ausgehend von einem ungewöhnlich hohen Wasserstand Anfang Februar, sank der Pegel bis Mitte April kontinuierlich ab. Im längjährigen Mittel kommt es im März zu einem steigenden Pegel am Bodensee, da Schneeschmelze und steigende Niederschläge einsetzen. Sehr geringer Niederschlag in den Monaten Februar bis April sorgte 2025 dafür, dass der Pegel des Bodensees zwischen Anfang April und Ende Juli durchgängig außergewöhnlich niedrig lag.
+
+In den Medien wurde der niedrige Wasserstand vor allem im April diskutiert. Ein paar geradezu skurrile Schlagzeilen aus dieser Zeit sind weiter unten aufgeführt. Tatsächlich war der Wasserstand jedoch zwischen dem 6. und 8. Juli am extremsten (338 cm, 337 cm, 339 cm). Seit 1888 gab es nur zwei Jahre, in denen der Wasserstand des Bodensees zu dieser Zeit niedriger war: [1949](https://www.pegel-konstanz.de/01_historische_daten/1940-1949/index.html#1949) und [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976), wobei das Jahr [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) für diese Jahreszeit den Negativrekord hält.
+Zugegebenermaßen war der Pegel aber auch im April schon sehr niedrig. Zwischen dem 19. und 21. April (277 cm als Tagesmittel an allen drei Tagen) gab es nur drei Jahre seit 1888, an welchen der Pegel zu dieser Zeit niedriger lag: [1921](https://www.pegel-konstanz.de/01_historische_daten/1920-1929/index.html#1921), [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976), [1996](https://www.pegel-konstanz.de/01_historische_daten/1990-1999/index.html#1996). Für den 19. April hält das Jahr [1921](https://www.pegel-konstanz.de/01_historische_daten/1920-1929/index.html#1921) den Negativrekord (267 cm). Für den 20. und 21. April liegt der Rekord bei 267 cm bzw. 268 cm, welche [1976](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1976) erreicht wurden. 
 
 In dieser Grafik wird der Pegelstand mit der Anzahl der Jahre zu welchen der Pegel gleich oder niedriger war ins Verhältnis gesetzt:
 !['Anzahl der Tage mit niedrigerem Pegel zwischen April und Juli 2025'](/images/analysis/2025_low-water/low_2025_de.png)
 
-Im Juli entstand dann noch eine Diskussion um einen "traurigen Rekord", weil der Pegel in Konstanz beinahe 365 Tage lang unter 400 cm verblieben war. Tatsächlich ist dies jedoch zwischen 1888 und 2025 schon 15 mal aufgetreten. Die längste Phase streckte sich vom Juli 1971 bis zum Juli 1973 (738 Tage). Auch zwischen September 2021 und Mai 2023 verblieb der Pegel untder der 4-Meter-Marke.
+Im Juli entstand dann noch eine Diskussion um einen "traurigen Rekord", weil der Pegel in Konstanz beinahe 365 Tage lang unter 400 cm verblieben war. Tatsächlich ist dies jedoch zwischen 1888 und 2025 schon 15 mal aufgetreten. Die längste Phase streckte sich vom Juli [1971](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1971) bis zum Juli [1973](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1973) (738 Tage). Auch zwischen September [2021](https://www.pegel-konstanz.de/01_historische_daten/2020-2024/index.html#2021) und Mai [2023](https://www.pegel-konstanz.de/01_historische_daten/2020-2024/index.html#2023) verblieb der Pegel untder der 4-Meter-Marke.
+
 
 ## Kulturelle Aspekte - Untiefen am Untersee
 
@@ -58,7 +60,7 @@ Angeblich sind dies Steine, die vom Bau des [Klosters auf der Insel Reichenau](h
 
 ### Platzkonzert 1972
 
-Im März 1972 spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Stuhlrain. Hier Bilder einer Postkarte, die wohl als Erinnerung und Spende erworben werden konnte.
+Im März [1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Stuhlrain. Hier Bilder einer Postkarte, die wohl als Erinnerung und Spende erworben werden konnte.
 
 > Zur Erinnerung an das Konzert der Bürgermusik Reichenau, zugunsten der >> Aktion Sorgenkind <<, am 26. März 1072, auf dem Straßenrain im Untersee, bei einem Pegelstand von 2,37 m.
 
