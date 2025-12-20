@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+**2025-12-20: Analyse zum Niedrigwasser 2025 eingefügt.**
+Zum Niedrigwasser 2025 habe ich eine Analyse und Einordnung hinzugefügt.
+
 **2025-07-25: Hinweise zu Aktualisierungsproblemen hinzugefügt und entfernt.**
 Ab etwa 22:00 am 2025-07-24 bis etwa 14:00 am 2025-07-25 war das API des HVZ nicht erreichbar. Eine Aktualierung der Daten war deshalb nicht mehr möglich. Wir haben einen entsprechenden Hinweis eingefügt und dann später wieder entfernt.
 

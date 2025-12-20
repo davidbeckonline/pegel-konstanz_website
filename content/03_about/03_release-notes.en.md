@@ -9,6 +9,9 @@ weight = 3
 
 ### 2025
 
+"**2025-12-20: Analysis of the 2025 low water event added.**
+I have added an analysis and contextualization of the 2025 low water event."
+
 **2025-07-25: added and removed notice about data refresh issues.**
 Between 2025-07-24 at about 10pm until 2025-07-25 at about 2pm, we could not reach the API of HVZ. With that, the data could not be refreshed anymore. We added and later removed a notice informing users about the ongoing issue.
 
