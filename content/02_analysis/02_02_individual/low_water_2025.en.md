@@ -11,8 +11,7 @@ Spring and summer 2025 were marked by exceptionally low water levels at Lake Con
 
 First, an overview of the annual progression:
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/current/en/current_EN.png)
-
+![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/en/longterm_EN.png)
 
 ## Context
 
@@ -60,6 +59,8 @@ In March [1972](https://www.pegel-konstanz.de/en/01_historische_daten/1970-1979/
 > Zur Erinnerung an das Konzert der Bürgermusik Reichenau, zugunsten der >> Aktion Sorgenkind <<, am 26. März 1972, auf dem Straßenrain im Untersee, bei einem Pegelstand von 2,37 m.
 >
 > *In commemoration of the concert by the Bürgermusik Reichenau, in aid of "Aktion Sorgenkind", on 26 March 1972, on the Straßenrain in the Lower Lake, at a water level of 2.37 m.*
+
+Here they apparently referred to the water level in Radolfzell. The photos above were taken at a water level of 243 cm in Radolfzell (278 cm in Konstanz).
 
 ![Postcard of the Bürgermusik Reichenau concert 1972](/images/analysis/2025_low-water/concert_1972.png)
 

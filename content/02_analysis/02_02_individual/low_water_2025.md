@@ -33,7 +33,7 @@ Auf dieser Karte habe ich die drei Untiefen markiert:
 
 {{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapDomain="openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
 
-Die Fotos wurden am 2025-04-23 bei einem Pegel von 278 cm in Konstanz aufgenommen. Angeblich hat sich die Diskrepanz zwischen dem Pegel am Obersee und dem Untersee in den letzten Jahren verstärkt. Seegras im Konstanzer Trichter und im Verlauf des Schwanenhalses sollen dafür verantwortlich sein. Diese Differenz habe ich mir aber noch nicht näher angeschaut.
+Die Fotos wurden am 2025-04-23 bei einem Pegel von 278 cm in Konstanz aufgenommen (243 cm in Radolfzell). Angeblich hat sich die Diskrepanz zwischen dem Pegel am Obersee und dem Untersee in den letzten Jahren verstärkt. Seegras im Konstanzer Trichter und im Verlauf des Schwanenhalses sollen dafür verantwortlich sein. Diese Differenz habe ich mir aber noch nicht näher angeschaut.
 
 Straßenrain ([Seezeichen bei OSM](https://www.openstreetmap.org/node/2775044173#map=19/47.711840/9.030680)):
 ![Strassenrain bei einem Pegel von 278 in Konstanz. Datum 2025-04-23.](/images/analysis/2025_low-water/strassenrain_2025-04-23.png)
@@ -57,6 +57,8 @@ Angeblich sind dies Steine, die vom Bau des [Klosters auf der Insel Reichenau](h
 Im März [1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Straßenrain. Hier Bilder einer Postkarte, die wohl als Erinnerung und Spende erworben werden konnte.
 
 > Zur Erinnerung an das Konzert der Bürgermusik Reichenau, zugunsten der >> Aktion Sorgenkind <<, am 26. März 1972, auf dem Straßenrain im Untersee, bei einem Pegelstand von 2,37 m.
+
+Man hat sich hier offenbar auf den Pegel in Radolfzell bezogen. Die Bilder oben wurden bei einem Pegelstand von 243 in Radolfzell aufgenommen (278 cm in Konstanz).
 
 ![Postkarte zum Konzert der Bürgermusik Reichenau 1972](/images/analysis/2025_low-water/concert_1972.png)
 
