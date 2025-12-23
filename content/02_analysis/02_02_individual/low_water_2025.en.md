@@ -31,7 +31,7 @@ In July, a discussion arose about a "sad record" because the water level in Kons
 At very low water levels, three shoals emerge above the surface of the Lower Lake (Untersee). They are called Stuhlrain, Bradlenrain, and Straßenrain. Though on Reichenau Island, locals would rather say "Stulroa", "Bradler Roa", and "Stroße Roa".
 I have marked the three shoals on this map:
 
-{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapDomain="openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
+{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapDomain="https://umap.openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
 
 The photos were taken on 2025-04-23 at a water level of 278 cm in Konstanz. Allegedly, the discrepancy between the water level in the Upper Lake (Obersee) and the Lower Lake has increased in recent years. Seagrass in the Konstanz Funnel and along the course of the Schwanenhals is said to be responsible. However, I have not yet looked into this difference in detail.
 
