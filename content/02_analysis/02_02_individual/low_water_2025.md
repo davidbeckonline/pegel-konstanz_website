@@ -31,7 +31,7 @@ Im Juli entstand dann noch eine Diskussion um einen "traurigen Rekord", weil der
 Am Untersee treten bei sehr niedrigem Wasserstand drei Untiefen an die Oberfläche. Diese werden Stuhlrain, Bradlenrain und Straßenrain genannt. Wobei man auf der Reichenau eher "Stulroa", "Bradler Roa" und "Stroße Roa" sagt. 
 Auf dieser Karte habe ich die drei Untiefen markiert:
 
-{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapDomain="https://umap.openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
+{{< openstreetmap mapName="untiefen_untersee_bodensee_117493" umapURL="https://umap.openstreetmap.de" searchControl="false" datalayersControl="false" embedControl="false" tilelayersControl="false" moreControl="false" >}}
 
 Die Fotos wurden am 2025-04-23 bei einem Pegel von 278 cm in Konstanz aufgenommen (243 cm in Radolfzell). Angeblich hat sich die Diskrepanz zwischen dem Pegel am Obersee und dem Untersee in den letzten Jahren verstärkt. Seegras im Konstanzer Trichter und im Verlauf des Schwanenhalses sollen dafür verantwortlich sein. Diese Differenz habe ich mir aber noch nicht näher angeschaut.
 
@@ -49,7 +49,7 @@ Angeblich sind dies Steine, die vom Bau des [Klosters auf der Insel Reichenau](h
 
 ![Stein westlich des Stuhlrains. Datum 2025-04-23.](/images/analysis/2025_low-water/stuhlrain_steine_2025-04-23.png)
 
-![Stein westlich des Stuhlrains. Datum 2025-04-23.](/images/analysis/2025_low-water/stuhlrain_steine2_2025-04-23.png)
+![Stein 2 westlich des Stuhlrains. Datum 2025-04-23.](/images/analysis/2025_low-water/stuhlrain_steine2_2025-04-23.png)
 
 
 ### Platzkonzert 1972
