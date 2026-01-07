@@ -6,9 +6,9 @@ weight = 1
 
 Auf dieser Seite finden sich historische Pegelstände des Bodensees.
 
-### 2000 bis 2024
+### 2000 bis 2025
 
-[2020 - 2024]({{% relref "2020-2024.md" %}} "2020 - 2024")
+[2020 - 2025](2020-2025)
 
 [2010 - 2019]({{% relref "2010-2019.md" %}} "2010 - 2019")
 

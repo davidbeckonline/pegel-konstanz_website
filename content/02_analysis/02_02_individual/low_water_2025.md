@@ -11,7 +11,7 @@ Frühjahr und Sommer 2025 waren am Bodensee von einem außergewöhnlich niedrige
 
 Zunächst ein Überblick zum Jahresverlauf:
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/de/longterm_DE.png)
+![Pegel Bodensee (Konstanz) 2025](/images/DE/graphs_historic/longterm_DE_2025.png)
 
 ## Einordnung
 

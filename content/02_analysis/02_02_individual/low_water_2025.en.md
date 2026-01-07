@@ -11,7 +11,7 @@ Spring and summer 2025 were marked by exceptionally low water levels at Lake Con
 
 First, an overview of the annual progression:
 
-![level_longterm](https://pegel-konstanz-for-website.s3.eu-central-1.amazonaws.com/graph/longterm/en/longterm_EN.png)
+![Level Lake Constance (Konstanz) 2025](/images/EN/graphs_historic/longterm_EN_2025.png)
 
 ## Context
 
