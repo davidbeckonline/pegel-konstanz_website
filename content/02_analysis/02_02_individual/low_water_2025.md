@@ -54,7 +54,17 @@ Angeblich sind dies Steine, die vom Bau des [Klosters auf der Insel Reichenau](h
 
 ### Platzkonzert 1972
 
-Im März [1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Straßenrain. Hier Bilder einer Postkarte, die wohl als Erinnerung und Spende erworben werden konnte.
+Im März [1972](https://www.pegel-konstanz.de/01_historische_daten/1970-1979/index.html#1972) spielte die Bürgermusik der Insel Reichenau ein Platzkonzert auf dem Straßenrain. 
+Im Buch zum 100-jährigen Jubiläum den Narrenverein findet sich dazu folgende Auskunft:
+
+> *Während die Musik spielte, verkauften die Turnerfrauen am Ufer Radieschen und an Ort und Stelle gebackene Bodenseefische, während die Trachtenmädchen Reichenauer Wein ausschenkten. Die Schulkinder verkauften Briefbeschwerer. die in der Schule bemalt worden waren. Wieder andere brachten die ersten Frühlingsblumen, die von Gärtnern körbeweise gestiftet wurden, an den Mann. Selbstverständlich fehlte auch der obligatorische Wurstverkauf unter der Regie des Narrenvereins nicht. So konnten der Aktion Sorgenkind über
+6200.- DM überwiesen werden. Das deutsche Fernsehen und die internationale Presse berichteten über dieses Ereignis, zu dessen gutem Gelingen auch der Narrenverein „Grundel" maßgeblich beigetragen hatte.*
+
+Danke an Matthias Graf für den Blick ins Archiv.
+
+Ziemlich beeindruckend, was man damals spontan auf die Beine gestellt hat. Inflationsbereinigt entsprechen 6,200 DM im Jahr 1972 knapp 10,000 Euro heutzutage.
+
+Hier Bilder einer Postkarte, die als Erinnerung und Spende erworben werden konnte. 
 
 > Zur Erinnerung an das Konzert der Bürgermusik Reichenau, zugunsten der >> Aktion Sorgenkind <<, am 26. März 1972, auf dem Straßenrain im Untersee, bei einem Pegelstand von 2,37 m.
 
